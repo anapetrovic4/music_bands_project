@@ -1,0 +1,14 @@
+track,album,album_type,artist,duration,release_date,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+Acadienne,Man Alive!,studio,Stephen Stills,241733,8/9/2005,0,0.542,0.838,7,-5.192,1,0.0656,0.0504,0,0.356,0.897,150.27,4
+Ain't It Always,Man Alive!,studio,Stephen Stills,203173,8/9/2005,0,0.542,0.948,5,-1.957,1,0.0307,0.0149,0.000707,0.377,0.602,138.247,4
+Around Us,Man Alive!,studio,Stephen Stills,225173,8/9/2005,0,0.572,0.755,8,-3.496,1,0.067,0.0391,1.99E-05,0.0721,0.827,166.877,4
+Different Man,Man Alive!,studio,Stephen Stills,130880,8/9/2005,0,0.361,0.402,7,-7.458,1,0.0293,0.27,1.27E-06,0.101,0.632,165.79,4
+Drivin' Thunder,Man Alive!,studio,Stephen Stills,265480,8/9/2005,0,0.586,0.927,2,-4.894,1,0.0371,0.00294,0.000611,0.348,0.936,100.918,4
+Feed the People,Man Alive!,studio,Stephen Stills,260933,8/9/2005,0,0.741,0.879,7,-3.548,1,0.0539,0.102,0,0.103,0.899,78.062,4
+Hearts Gate,Man Alive!,studio,Stephen Stills,177893,8/9/2005,0,0.544,0.132,2,-14.597,1,0.0332,0.762,0,0.227,0.449,109.958,3
+I Don't Get It,Man Alive!,studio,Stephen Stills,213933,8/9/2005,0,0.836,0.768,0,-3.13,1,0.0307,0.149,0,0.117,0.799,130.845,4
+Ole Man Trouble,Man Alive!,studio,Stephen Stills,295000,8/9/2005,0,0.366,0.526,10,-5.178,1,0.0296,0.317,8.76E-06,0.101,0.564,144.539,3
+Piece of Me,Man Alive!,studio,Stephen Stills,243586,8/9/2005,0,0.72,0.225,7,-11.792,1,0.0331,0.7,0.00471,0.133,0.547,121.82,4
+Round the Bend,Man Alive!,studio,Stephen Stills,308186,8/9/2005,0,0.6,0.829,2,-4.718,1,0.0353,0.0363,0.000288,0.144,0.787,116.325,4
+Spanish Suite,Man Alive!,studio,Stephen Stills,680093,8/9/2005,0,0.517,0.741,9,-6.296,0,0.0689,0.44,0.000227,0.132,0.43,104.946,4
+Wounded World,Man Alive!,studio,Stephen Stills,189280,8/9/2005,0,0.697,0.82,4,-3.616,1,0.0552,0.0453,1.81E-06,0.114,0.898,128.811,3

@@ -1,0 +1,101 @@
+track,album,album_type,artist,duration,release_date,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+Dangerous Night,Croz,studio,David Crosby,357040,1/28/2014,13,0.707,0.412,0,-12.606,1,0.0405,0.559,0.127,0.144,0.0932,147.888,4
+Find a Heart,Croz,studio,David Crosby,306626,1/28/2014,13,0.591,0.574,0,-10.078,1,0.0336,0.403,0.0145,0.207,0.69,169.017,3
+Holding On to Nothing,Croz,studio,David Crosby,221640,1/28/2014,15,0.714,0.0987,2,-17.124,0,0.046,0.891,0.00141,0.0942,0.0733,127.79,4
+If She Called,Croz,studio,David Crosby,299306,1/28/2014,11,0.336,0.117,11,-15.527,1,0.036,0.867,0.0211,0.108,0.0532,180.201,4
+Morning Falling,Croz,studio,David Crosby,221573,1/28/2014,11,0.501,0.302,5,-13.429,0,0.0429,0.863,0.305,0.0597,0.117,79.19,1
+Radio,Croz,studio,David Crosby,225986,1/28/2014,16,0.697,0.688,7,-7.51,1,0.0288,0.598,0.00271,0.12,0.253,87.996,4
+Set That Baggage Down,Croz,studio,David Crosby,241106,1/28/2014,13,0.738,0.386,2,-9.327,1,0.0355,0.21,0.00139,0.0907,0.442,112.581,4
+Slice of Time,Croz,studio,David Crosby,256880,1/28/2014,13,0.728,0.333,2,-11.037,0,0.035,0.582,0.00378,0.086,0.255,62.496,3
+The Clearing,Croz,studio,David Crosby,240413,1/28/2014,21,0.608,0.663,2,-7.679,1,0.0386,0.497,0.126,0.0816,0.137,79.962,5
+Time I Have,Croz,studio,David Crosby,229840,1/28/2014,15,0.673,0.341,10,-10.733,1,0.0293,0.151,0.00145,0.113,0.426,95.097,4
+What's Broken,Croz,studio,David Crosby,228986,1/28/2014,27,0.695,0.538,7,-11.107,1,0.0258,0.445,0.101,0.133,0.453,92.408,4
+Boxes,For Free,studio,David Crosby,254853,7/23/2021,15,0.669,0.587,0,-9.388,1,0.0406,0.277,0.0256,0.114,0.55,159.995,4
+For Free,For Free,studio,David Crosby,223360,7/23/2021,26,0.691,0.107,0,-14.436,1,0.04,0.872,4.96E-05,0.144,0.101,107.082,3
+I Think I,For Free,studio,David Crosby,292000,7/23/2021,23,0.787,0.646,7,-8.164,0,0.0267,0.144,0.34,0.0662,0.462,129.025,4
+I Won't Stay For Long,For Free,studio,David Crosby,269360,7/23/2021,17,0.668,0.191,11,-12.656,1,0.0375,0.558,0.000339,0.125,0.252,124.003,4
+River Rise,For Free,studio,David Crosby,213680,7/23/2021,27,0.782,0.682,1,-7.83,1,0.0375,0.159,0.000105,0.28,0.552,118.062,4
+Rodriguez For A Night,For Free,studio,David Crosby,197266,7/23/2021,27,0.837,0.359,5,-8.27,1,0.0344,0.223,0.00402,0.443,0.614,86.316,4
+Secret Dancer,For Free,studio,David Crosby,194720,7/23/2021,20,0.718,0.309,0,-14.163,1,0.0449,0.25,0.082,0.116,0.172,148.963,4
+Ships in the Night,For Free,studio,David Crosby,205866,7/23/2021,22,0.887,0.432,6,-11.412,0,0.0323,0.113,0.157,0.106,0.719,103.004,4
+Shot at Me,For Free,studio,David Crosby,193373,7/23/2021,14,0.714,0.216,2,-16.445,1,0.0305,0.854,0.0339,0.0996,0.333,69.998,4
+The Other Side Of Midnight,For Free,studio,David Crosby,194906,7/23/2021,22,0.669,0.515,2,-10.818,1,0.0333,0.33,0.00195,0.112,0.402,92.002,4
+1967,Here If You Listen,studio,David Crosby,199626,10/26/2018,9,0.487,0.307,2,-11.278,0,0.0338,0.878,0.00722,0.182,0.375,81.392,4
+1974,Here If You Listen,studio,David Crosby,180106,10/26/2018,13,0.418,0.268,8,-11.004,0,0.04,0.894,2.25E-06,0.127,0.357,179.884,4
+Balanced on a Pin,Here If You Listen,studio,David Crosby,270120,10/26/2018,11,0.665,0.208,2,-15.086,0,0.0377,0.956,0.233,0.119,0.167,117.064,4
+Buddha on a Hill,Here If You Listen,studio,David Crosby,247253,10/26/2018,12,0.586,0.314,7,-11.417,1,0.0342,0.68,0.176,0.115,0.139,118.081,4
+Glory,Here If You Listen,studio,David Crosby,320706,10/26/2018,17,0.56,0.195,10,-13.483,1,0.0306,0.939,0.00013,0.126,0.159,110.136,4
+I Am No Artist,Here If You Listen,studio,David Crosby,277466,10/26/2018,17,0.323,0.211,11,-12.457,1,0.0332,0.815,0.000579,0.113,0.154,84.709,5
+Janet,Here If You Listen,studio,David Crosby,207013,10/26/2018,8,0.738,0.202,5,-10.153,1,0.0366,0.815,0,0.104,0.604,111.915,4
+Other Half Rule,Here If You Listen,studio,David Crosby,274053,10/26/2018,20,0.362,0.316,0,-11.767,1,0.0305,0.792,0.0247,0.111,0.212,144.014,3
+Vagrants of Venice,Here If You Listen,studio,David Crosby,246253,10/26/2018,13,0.391,0.285,2,-12.565,1,0.0327,0.864,0.0184,0.115,0.178,130.049,4
+Woodstock,Here If You Listen,studio,David Crosby,214120,10/26/2018,27,0.679,0.229,7,-10.766,1,0.0309,0.89,3.68E-05,0.138,0.323,115.888,4
+Your Own Ride,Here If You Listen,studio,David Crosby,274706,10/26/2018,11,0.365,0.261,8,-12.924,1,0.0289,0.869,0.0142,0.116,0.153,93.77,3
+Cowboy Movie,If I Could Only Remember My Name,studio,David Crosby,491400,2/22/1971,36,0.307,0.629,2,-12.499,1,0.0675,0.0061,1.85E-05,0.136,0.514,76.349,4
+I'd Swear There Was Somebody Here,If I Could Only Remember My Name,studio,David Crosby,79933,2/22/1971,21,0.167,0.162,5,-15.019,1,0.0305,0.911,1.27E-05,0.1,0.0382,77.119,4
+Laughing,If I Could Only Remember My Name,studio,David Crosby,325600,2/22/1971,31,0.259,0.394,2,-12.557,1,0.0289,0.00158,0.00228,0.0814,0.405,141.296,4
+Music Is Love,If I Could Only Remember My Name,studio,David Crosby,202573,2/22/1971,35,0.482,0.28,1,-14.97,1,0.0264,0.228,0,0.0888,0.359,90.985,4
+Orleans,If I Could Only Remember My Name,studio,David Crosby,116293,2/22/1971,23,0.278,0.162,2,-16.472,1,0.0298,0.877,0,0.125,0.0677,86.1,4
+Song with No Words (Tree with No Leaves),If I Could Only Remember My Name,studio,David Crosby,360106,2/22/1971,25,0.481,0.281,4,-15.732,0,0.0259,0.638,0.000396,0.121,0.414,91.424,4
+Tamalpais High (At About 3),If I Could Only Remember My Name,studio,David Crosby,212573,2/22/1971,26,0.477,0.259,11,-17.813,0,0.0323,0.481,0.0103,0.0745,0.409,121.294,4
+Traction in the Rain,If I Could Only Remember My Name,studio,David Crosby,226160,2/22/1971,26,0.423,0.132,2,-17.136,1,0.0332,0.838,0,0.0789,0.133,98.476,4
+What Are Their Names,If I Could Only Remember My Name,studio,David Crosby,254200,2/22/1971,23,0.485,0.354,11,-17.082,0,0.0426,0.162,0.0119,0.0574,0.301,120.49,4
+Bach Mode (Pre-Critical Mass),If I Could Only Remember My Name,studio,David Crosby,119626,1971,6,0.23,0.00306,5,-17.789,1,0.0462,0.942,1.50E-06,0.11,0.365,70.981,1
+Coast Road,If I Could Only Remember My Name,studio,David Crosby,315986,1971,9,0.467,0.235,8,-16.894,1,0.0274,0.738,0.0799,0.354,0.134,94.893,4
+Dancer,If I Could Only Remember My Name,studio,David Crosby,303440,1971,5,0.315,0.238,0,-13.222,0,0.0338,0.743,0.0118,0.0784,0.0952,181.453,3
+Fugue,If I Could Only Remember My Name,studio,David Crosby,122664,1971,7,0.69,0.169,11,-13.318,1,0.0522,0.631,0.648,0.346,0.307,94.811,4
+Games,If I Could Only Remember My Name (50th Anniversary Edition; 2021 Remaster),box set,David Crosby,197106,1971,9,0.412,0.0893,7,-17.983,0,0.0427,0.861,0.000982,0.123,0.204,182.831,3
+Kids And Dogs,If I Could Only Remember My Name,studio,David Crosby,187573,1971,8,0.467,0.11,1,-17.2,1,0.0401,0.878,0.757,0.109,0.287,79.134,5
+Riff 1,If I Could Only Remember My Name,studio,David Crosby,142866,1971,10,0.556,0.215,7,-12.438,0,0.05,0.77,0.05,0.114,0.457,99.629,1
+The Wall Song,If I Could Only Remember My Name,studio,David Crosby,255693,1971,7,0.401,0.181,7,-14.703,1,0.0423,0.813,1.12E-06,0.0836,0.162,80.419,4
+Where Will I Be?,If I Could Only Remember My Name,studio,David Crosby,221130,1971,6,0.312,0.0034,7,-20.081,1,0.054,0.876,0.000475,0.112,0.197,163.096,1
+Almost Cut My Hair,It's All Coming Back to Me Now,live,David Crosby,369733,1/24/1995,14,0.321,0.605,7,-9.636,1,0.0566,0.597,2.19E-05,0.677,0.487,124.999,4
+Deja Vu,It's All Coming Back to Me Now,live,David Crosby,617800,1/24/1995,4,0.355,0.464,4,-11.965,0,0.044,0.645,0.0123,0.688,0.29,122.908,4
+In My Dreams,It's All Coming Back to Me Now,live,David Crosby,391733,1/24/1995,5,0.496,0.129,9,-17.412,0,0.0459,0.855,3.37E-05,0.841,0.225,118.408,4
+Long Time Gone,It's All Coming Back to Me Now,live,David Crosby,341040,1/24/1995,5,0.505,0.566,7,-9.752,1,0.0572,0.746,5.68E-05,0.736,0.607,114.664,4
+Rusty and Blue,It's All Coming Back to Me Now,live,David Crosby,428333,1/24/1995,5,0.535,0.32,0,-16.508,1,0.0559,0.766,0.000957,0.694,0.529,122.858,4
+Till It Shines on You,It's All Coming Back to Me Now,live,David Crosby,338640,1/24/1995,4,0.65,0.628,9,-11.6,0,0.0574,0.675,0.0015,0.682,0.779,113.875,4
+Wooden Ships,It's All Coming Back to Me Now,live,David Crosby,636493,1/24/1995,5,0.301,0.692,4,-10.767,0,0.0867,0.544,0.00037,0.811,0.461,78.528,4
+By the Light of Common Day,Lighthouse,studio,David Crosby,375293,10/21/2016,12,0.686,0.152,0,-14.101,1,0.0403,0.918,0.00045,0.171,0.245,121.811,4
+Drive Out to the Desert,Lighthouse,studio,David Crosby,256680,10/21/2016,9,0.638,0.0846,7,-16.578,1,0.0542,0.906,7.45E-05,0.113,0.0822,104.465,4
+Look in Their Eyes,Lighthouse,studio,David Crosby,279360,10/21/2016,9,0.822,0.208,2,-13.147,1,0.0576,0.834,4.45E-05,0.0692,0.251,104.986,4
+Paint You a Picture,Lighthouse,studio,David Crosby,265253,10/21/2016,8,0.643,0.154,5,-15.936,1,0.0358,0.85,0.069,0.0928,0.297,109.686,4
+Somebody Other Than You,Lighthouse,studio,David Crosby,264200,10/21/2016,8,0.358,0.314,9,-10.77,1,0.0307,0.854,0.000319,0.0907,0.215,86.831,4
+The City,Lighthouse,studio,David Crosby,285026,10/21/2016,11,0.81,0.208,7,-11.063,1,0.0434,0.669,0.000176,0.106,0.554,122.925,4
+The Us Below,Lighthouse,studio,David Crosby,222946,10/21/2016,11,0.404,0.291,7,-11.161,0,0.0426,0.9,0.00197,0.101,0.134,82.79,4
+Things We Do for Love,Lighthouse,studio,David Crosby,255173,10/21/2016,23,0.6,0.147,3,-12.713,1,0.0343,0.924,0.000141,0.102,0.112,114.852,4
+What Makes It so?,Lighthouse,studio,David Crosby,240306,10/21/2016,6,0.315,0.205,9,-13.069,0,0.0337,0.839,0.0303,0.129,0.211,85.052,4
+Carry Me,Live at the Capitol Theatre,live,David Crosby,206770,12/9/2022,6,0.528,0.33,2,-12.336,1,0.0456,0.827,1.25E-05,0.858,0.294,103.744,4
+Guinnevere,Live at the Capitol Theatre,live,David Crosby,279638,12/9/2022,8,0.474,0.369,2,-13.931,1,0.0365,0.864,0.00788,0.699,0.0755,111.073,4
+Regina,Live at the Capitol Theatre,live,David Crosby,282760,12/9/2022,7,0.47,0.615,4,-10.324,0,0.0427,0.816,2.04E-06,0.8,0.207,97.597,4
+Distances,Oh Yes I Can,studio,David Crosby,215480,1/23/1989,3,0.654,0.175,7,-14.701,1,0.0276,0.734,0.00511,0.0909,0.22,76.326,4
+Drive My Car,Oh Yes I Can,studio,David Crosby,213666,1/23/1989,6,0.507,0.838,7,-9.629,1,0.0587,0.106,0.00284,0.157,0.51,102.765,4
+Drop Down Mama,Oh Yes I Can,studio,David Crosby,186746,1/23/1989,2,0.623,0.762,2,-10.04,1,0.0399,0.243,0.000207,0.128,0.821,119.765,4
+Flying Man,Oh Yes I Can,studio,David Crosby,204360,1/23/1989,3,0.58,0.592,5,-13.083,0,0.0334,0.723,0.303,0.153,0.528,146.269,4
+In The Wide Ruin,Oh Yes I Can,studio,David Crosby,286840,1/23/1989,3,0.335,0.159,7,-16.342,1,0.0334,0.516,0.00518,0.112,0.0782,136.549,4
+Lady of The Harbor,Oh Yes I Can,studio,David Crosby,199186,1/23/1989,3,0.589,0.272,7,-15.533,1,0.04,0.781,0.00123,0.0825,0.266,72.88,4
+Melody,Oh Yes I Can,studio,David Crosby,244653,1/23/1989,5,0.592,0.555,5,-11.728,1,0.0359,0.376,0.00534,0.101,0.641,89.21,4
+Monkey and the Underdog,Oh Yes I Can,studio,David Crosby,255920,1/23/1989,4,0.8,0.678,0,-9.438,0,0.0388,0.105,2.06E-06,0.089,0.796,105.843,4
+My Country Tis Of Thee,Oh Yes I Can,studio,David Crosby,114866,1/23/1989,4,0.45,0.102,0,-17.24,1,0.0423,0.774,0.000103,0.0951,0.17,84.935,4
+Oh Yes I Can,Oh Yes I Can,studio,David Crosby,308426,1/23/1989,4,0.435,0.201,8,-14.146,1,0.0385,0.638,6.17E-06,0.179,0.175,117.397,4
+Tracks In The Dust,Oh Yes I Can,studio,David Crosby,286920,1/23/1989,7,0.467,0.087,0,-19.459,1,0.0394,0.811,0,0.104,0.301,169.548,4
+Amelia,Sky Trails,studio,David Crosby,337346,9/29/2017,11,0.659,0.148,9,-13.794,1,0.0405,0.877,0.0093,0.117,0.165,122.088,4
+Before Tomorrow Falls on Love,Sky Trails,studio,David Crosby,230760,9/29/2017,11,0.528,0.104,0,-16.774,1,0.0341,0.938,0.0205,0.112,0.104,104.301,4
+Capitol,Sky Trails,studio,David Crosby,415933,9/29/2017,11,0.62,0.545,5,-10.286,1,0.0525,0.39,0.216,0.0909,0.504,87.773,4
+Curved Air,Sky Trails,studio,David Crosby,284026,9/29/2017,9,0.538,0.386,6,-12.847,1,0.0392,0.744,0.0375,0.109,0.177,110.562,4
+Here It's Almost Sunset,Sky Trails,studio,David Crosby,232333,9/29/2017,13,0.686,0.274,2,-13.108,1,0.0428,0.729,0.26,0.106,0.31,133.568,4
+Home Free,Sky Trails,studio,David Crosby,340680,9/29/2017,9,0.506,0.0951,8,-15.036,1,0.0654,0.916,0.000125,0.11,0.156,115.05,4
+Sell Me a Diamond,Sky Trails,studio,David Crosby,327457,9/29/2017,19,0.582,0.535,11,-9.211,0,0.0458,0.234,0.311,0.0654,0.239,77.981,4
+She's Got To Be Somewhere,Sky Trails,studio,David Crosby,286080,9/29/2017,27,0.716,0.437,7,-8.442,0,0.0502,0.644,0.517,0.0953,0.789,82.973,4
+Sky Trails,Sky Trails,studio,David Crosby,290066,9/29/2017,16,0.557,0.224,2,-15.195,1,0.0284,0.914,0.0398,0.102,0.207,95.914,4
+Somebody Home,Sky Trails,studio,David Crosby,277573,9/29/2017,10,0.354,0.122,10,-16.761,1,0.0377,0.922,0.243,0.112,0.0399,81.582,4
+Columbus,Thousand Roads,studio,David Crosby,266733,5/4/1993,8,0.683,0.265,0,-16.175,1,0.0443,0.133,5.41E-05,0.0857,0.233,126.995,4
+Coverage,Thousand Roads,studio,David Crosby,203466,5/4/1993,7,0.775,0.438,2,-13.699,1,0.0564,0.511,0.0109,0.0876,0.523,129.7,4
+Helpless Heart,Thousand Roads,studio,David Crosby,260426,5/4/1993,10,0.53,0.0953,11,-17.974,1,0.0298,0.759,5.01E-06,0.124,0.0546,85.678,4
+Hero,Thousand Roads,studio,David Crosby,280240,5/4/1993,32,0.66,0.445,3,-9.715,1,0.0256,0.743,0.000171,0.07,0.409,104.986,4
+Natalie,Thousand Roads,studio,David Crosby,295066,5/4/1993,12,0.52,0.18,4,-16.039,1,0.0266,0.556,5.10E-05,0.107,0.21,83.942,4
+Old Soldier,Thousand Roads,studio,David Crosby,298666,5/4/1993,12,0.497,0.104,2,-19.555,1,0.0346,0.779,0.00963,0.113,0.196,124.021,3
+Thousand Roads,Thousand Roads,studio,David Crosby,272733,5/4/1993,9,0.662,0.292,11,-13.313,0,0.042,0.422,0.00546,0.339,0.572,96.94,4
+Through Your Hands,Thousand Roads,studio,David Crosby,275400,5/4/1993,11,0.57,0.471,4,-11.078,1,0.0254,0.101,5.29E-05,0.134,0.2,102.913,4
+Too Young to Die,Thousand Roads,studio,David Crosby,347173,5/4/1993,15,0.636,0.301,5,-13.219,1,0.0307,0.256,0.000237,0.114,0.29,85.535,4
+Yvette in English,Thousand Roads,studio,David Crosby,355266,5/4/1993,13,0.753,0.133,7,-20.911,0,0.0424,0.873,0.0127,0.0852,0.348,113.036,4

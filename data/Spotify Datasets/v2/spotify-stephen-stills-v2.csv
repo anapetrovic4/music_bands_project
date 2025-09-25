@@ -1,0 +1,116 @@
+track,artist,album,duration,release_date,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+Handle with Care,Stephen Stills,Everybody Knows,223013,2018-03-02,9,0.545,0.539,7,-7.207,1,0.031,0.0291,0.0,0.109,0.79,120.985,4
+So Begins the Task,Stephen Stills,Everybody Knows,215760,2018-03-02,9,0.559,0.417,11,-11.466,1,0.0306,0.464,1.28e-05,0.111,0.472,77.087,4
+River of Gold,Stephen Stills,Everybody Knows,216800,2018-03-02,5,0.567,0.347,5,-11.137,1,0.0308,0.866,0.0,0.135,0.438,129.636,4
+Judy,Stephen Stills,Everybody Knows,242986,2018-03-02,5,0.495,0.609,7,-9.165,1,0.0288,0.235,1.44e-05,0.186,0.517,178.466,4
+Everybody Knows,Stephen Stills,Everybody Knows,326680,2018-03-02,16,0.715,0.487,9,-8.044,0,0.0338,0.534,1.08e-06,0.358,0.396,123.996,4
+Houses,Stephen Stills,Everybody Knows,276773,2018-03-02,4,0.563,0.338,8,-11.556,1,0.0278,0.815,0.0,0.196,0.191,108.028,4
+Reason to Believe,Stephen Stills,Everybody Knows,177106,2018-03-02,11,0.66,0.379,4,-12.034,1,0.0302,0.644,0.0,0.111,0.652,76.54,3
+Girl from the North Country,Stephen Stills,Everybody Knows,206186,2018-03-02,7,0.467,0.219,7,-13.158,1,0.0279,0.68,0.0,0.113,0.307,78.08,4
+Who Knows Where the Time Goes,Stephen Stills,Everybody Knows,340653,2018-03-02,7,0.429,0.283,4,-11.774,1,0.0278,0.936,0.00765,0.105,0.109,136.326,4
+Questions,Stephen Stills,Everybody Knows,224773,2018-03-02,7,0.586,0.576,7,-7.464,1,0.0272,0.0453,8.91e-05,0.174,0.704,117.029,4
+Midnight Rider,Stephen Stills,Viva Las Vegas,130466,1991,0,0.405,0.496,7,-10.988,1,0.0338,0.918,0.000238,0.75,0.806,105.144,4
+She Begins To Task/Johnny's Garden,Stephen Stills,Viva Las Vegas,280000,1991,0,0.479,0.184,7,-15.87,1,0.0363,0.88,0.0,0.465,0.529,93.071,4
+The Ballad Of Hollis Brown,Stephen Stills,Viva Las Vegas,237493,1991,0,0.352,0.307,7,-14.047,1,0.032,0.926,1.81e-06,0.795,0.722,76.879,4
+Daylight Again/Find The Cost Of Freedom,Stephen Stills,Viva Las Vegas,220106,1991,0,0.441,0.239,7,-14.903,0,0.036,0.889,2.2e-06,0.735,0.543,90.166,3
+Love The One You're With,Stephen Stills,Viva Las Vegas,339400,1991,2,0.429,0.748,9,-11.346,1,0.0959,0.00355,0.000903,0.357,0.472,95.507,4
+Change Partners,Stephen Stills,Viva Las Vegas,332466,1991,0,0.286,0.453,9,-13.023,1,0.042,0.485,1.88e-06,0.757,0.565,177.257,3
+Treetop Flyer,Stephen Stills,Viva Las Vegas,326600,1991,2,0.404,0.654,9,-12.6,0,0.105,0.104,1.29e-05,0.771,0.715,164.726,4
+Born Under A Bad Sign,Stephen Stills,Viva Las Vegas,316160,1991,0,0.375,0.771,2,-11.784,1,0.0609,7.12e-05,0.00449,0.956,0.665,90.782,4
+Long Time Gone,Stephen Stills,Viva Las Vegas,350000,1991,0,0.513,0.642,7,-12.516,1,0.0439,0.000794,0.00114,0.778,0.684,103.018,4
+Dark Star,Stephen Stills,Viva Las Vegas,478800,1991,0,0.541,0.882,2,-11.522,1,0.0691,0.00173,0.0428,0.845,0.523,100.752,4
+For What It's Worth,Stephen Stills,Viva Las Vegas,310573,1991,0,0.482,0.765,2,-11.122,1,0.056,0.113,0.00071,0.691,0.513,96.296,4
+Woodstock,Stephen Stills,Viva Las Vegas,358066,1991,0,0.296,0.849,5,-11.227,1,0.124,0.00195,0.000177,0.42,0.318,136.968,4
+Born In Chicago,Stephen Stills,Viva Las Vegas,298866,1991,0,0.442,0.858,2,-10.943,1,0.0931,0.000237,0.012,0.336,0.16,139.163,4
+Devised Plans,Stephen Stills,Back in Time,101225,1989-09-19,1,0.672,0.202,8,-23.554,0,0.934,0.957,0.0,0.154,0.494,83.874,3
+Recording Southern Cross,Stephen Stills,Back in Time,144481,1989-09-19,1,0.735,0.176,11,-23.377,1,0.897,0.965,0.0,0.352,0.56,108.721,4
+Wham Bang Rock and Roll,Stephen Stills,Back in Time,92240,1989-09-19,0,0.563,0.154,9,-24.499,0,0.922,0.978,0.0,0.142,0.605,83.417,4
+Never War,Stephen Stills,Back in Time,101225,1989-09-19,0,0.729,0.227,0,-24.227,1,0.936,0.963,0.0,0.217,0.436,100.48,3
+Deterring Nuclear,Stephen Stills,Back in Time,90491,1989-09-19,0,0.757,0.189,11,-22.655,1,0.948,0.966,0.0,0.143,0.55,58.311,5
+On Thatcher,Stephen Stills,Back in Time,116389,1989-09-19,0,0.71,0.209,11,-23.702,0,0.9,0.954,0.0,0.204,0.503,116.875,4
+Democratic Liberals,Stephen Stills,Back in Time,121990,1989-09-19,0,0.609,0.205,4,-24.443,1,0.949,0.979,0.0,0.113,0.45,65.641,3
+Senator Stills,Stephen Stills,Back in Time,99236,1989-09-19,0,0.715,0.193,10,-24.511,1,0.947,0.981,0.0,0.155,0.52,61.003,4
+Heaviosity,Stephen Stills,Back in Time,96515,1989-09-19,0,0.678,0.222,10,-21.794,1,0.951,0.966,0.0,0.126,0.66,88.826,3
+Late Bloomer,Stephen Stills,Back in Time,105391,1989-09-19,0,0.677,0.2,1,-23.702,1,0.919,0.968,0.0,0.209,0.402,128.479,3
+Working with Young,Stephen Stills,Back in Time,135193,1989-09-19,0,0.678,0.167,10,-24.478,0,0.861,0.985,0.0,0.157,0.434,118.324,3
+Midnight Rider,Stephen Stills,Cowboys For Indians,240013,1987,0,0.264,0.415,7,-15.601,1,0.0423,0.861,5.33e-06,0.432,0.627,91.577,4
+So Begins The Task,Stephen Stills,Cowboys For Indians,233875,1987,0,0.394,0.213,7,-17.161,1,0.0454,0.856,0.0,0.463,0.624,122.54,3
+Treetop Flyer,Stephen Stills,Cowboys For Indians,357591,1987,3,0.34,0.26,0,-17.636,1,0.0408,0.805,2.55e-06,0.429,0.529,169.707,4
+Southern Cross,Stephen Stills,Cowboys For Indians,309290,1987,0,0.258,0.243,2,-17.994,1,0.0441,0.78,0.0,0.328,0.412,167.541,4
+Blind Fiddler,Stephen Stills,Cowboys For Indians,310779,1987,0,0.382,0.233,0,-18.442,1,0.0325,0.736,9.63e-06,0.188,0.406,80.279,4
+Love The One You're With,Stephen Stills,Cowboys For Indians,231700,1987,0,0.371,0.319,9,-18.392,1,0.0436,0.84,0.0,0.895,0.778,186.367,4
+Native Indian Interlude & Crosby Intro,Stephen Stills,Cowboys For Indians,306486,1987,0,0.479,0.245,7,-23.32,1,0.499,0.82,0.0,0.602,0.369,106.011,4
+Almost Cut My Hair,Stephen Stills,Cowboys For Indians,348108,1987,0,0.338,0.224,4,-17.998,0,0.0464,0.847,0.0,0.288,0.306,87.633,4
+In My Dreams,Stephen Stills,Cowboys For Indians,336040,1987,0,0.277,0.197,0,-20.713,1,0.048,0.733,0.0,0.438,0.413,79.724,4
+For Free,Stephen Stills,Cowboys For Indians,291280,1987,0,0.269,0.116,0,-18.524,1,0.0379,0.6,0.0,0.759,0.301,83.548,4
+Carry Me,Stephen Stills,Cowboys For Indians,302426,1987,0,0.266,0.2,2,-19.943,1,0.0419,0.758,2.86e-06,0.39,0.502,91.185,4
+Delta,Stephen Stills,Cowboys For Indians,461253,1987,0,0.413,0.201,3,-18.939,1,0.156,0.851,5.29e-06,0.77,0.186,114.074,4
+Compass,Stephen Stills,Cowboys For Indians,262106,1987,0,0.311,0.142,11,-20.965,0,0.0409,0.874,1.14e-06,0.979,0.277,120.01,4
+Guinnevere,Stephen Stills,Cowboys For Indians,447506,1987,0,0.439,0.123,2,-20.075,1,0.0332,0.667,2.04e-06,0.501,0.236,98.681,4
+The Lee Shore Feat. David Lindley,Stephen Stills,Cowboys For Indians,355546,1987,0,0.372,0.187,4,-19.018,0,0.0304,0.888,0.00055,0.198,0.373,73.433,4
+Long Time Gone Feat. David Lindley,Stephen Stills,Cowboys For Indians,407560,1987,0,0.333,0.326,7,-17.317,1,0.041,0.863,0.00211,0.693,0.462,183.618,4
+Teach Your Children Feat. David Lindley,Stephen Stills,Cowboys For Indians,252640,1987,0,0.279,0.289,2,-18.383,1,0.0374,0.859,0.00114,0.258,0.666,82.016,4
+50/50,Stephen Stills,Right By You,263373,1984,5,0.713,0.629,7,-13.067,1,0.0632,0.0632,0.000251,0.0254,0.913,102.568,4
+Stranger,Stephen Stills,Right By You,178333,1984,9,0.777,0.645,9,-14.631,0,0.036,0.00813,0.00312,0.252,0.947,125.443,4
+Flaming Heart,Stephen Stills,Right By You,201933,1984,3,0.725,0.583,4,-14.785,1,0.0342,0.0353,0.000335,0.19,0.932,117.922,4
+Love Again,Stephen Stills,Right By You,229693,1984,2,0.776,0.629,7,-14.606,1,0.036,0.0623,0.0954,0.0706,0.942,144.967,4
+No Problem,Stephen Stills,Right By You,255973,1984,2,0.788,0.645,0,-14.821,1,0.0608,0.005,0.217,0.0193,0.881,115.108,4
+I Can't Let Go,Stephen Stills,Right By You,251493,1984,6,0.615,0.221,7,-16.814,1,0.0292,0.499,4.2e-05,0.114,0.233,67.357,4
+Grey to Green,Stephen Stills,Right By You,192773,1984,2,0.873,0.41,0,-16.878,1,0.0339,0.0908,1.89e-05,0.305,0.847,111.923,4
+Only Love Can Break Your Heart,Stephen Stills,Right By You,191626,1984,4,0.768,0.143,10,-16.874,1,0.0404,0.339,0.0,0.0962,0.452,105.284,3
+No Hiding Place,Stephen Stills,Right By You,241533,1984,3,0.617,0.336,7,-17.151,1,0.0371,0.0437,0.0,0.273,0.459,103.682,4
+Right by You,Stephen Stills,Right By You,305000,1984,4,0.628,0.26,9,-16.83,1,0.0338,0.0538,0.00497,0.194,0.384,110.718,1
+You Can't Dance Alone,Stephen Stills,Thoroughfare Gap,260413,1978-12-15,5,0.611,0.703,4,-12.051,0,0.0693,0.00535,0.00743,0.0824,0.784,116.12,4
+Thoroughfare Gap,Stephen Stills,Thoroughfare Gap,213186,1978-12-15,18,0.386,0.352,7,-11.728,1,0.0386,0.62,0.0,0.303,0.756,86.956,4
+We Will Go On,Stephen Stills,Thoroughfare Gap,164973,1978-12-15,4,0.64,0.759,4,-10.016,1,0.084,0.183,0.0,0.361,0.826,110.93,4
+Beaucoup Yumbo,Stephen Stills,Thoroughfare Gap,219573,1978-12-15,4,0.614,0.397,10,-13.62,1,0.0277,0.0383,0.134,0.0926,0.526,139.242,4
+What's The Game,Stephen Stills,Thoroughfare Gap,217200,1978-12-15,3,0.652,0.676,9,-10.308,1,0.0319,0.0828,1.45e-05,0.188,0.964,130.652,4
+Midnight Rider,Stephen Stills,Thoroughfare Gap,222000,1978-12-15,7,0.539,0.464,7,-12.862,1,0.042,0.268,0.0283,0.167,0.619,82.967,4
+Woman Lleva,Stephen Stills,Thoroughfare Gap,194653,1978-12-15,3,0.721,0.556,9,-12.927,0,0.0343,0.0384,0.0138,0.317,0.637,124.314,4
+Lowdown,Stephen Stills,Thoroughfare Gap,228573,1978-12-15,5,0.427,0.549,7,-12.254,1,0.0595,0.0098,0.000232,0.372,0.388,144.767,4
+Not Fade Away,Stephen Stills,Thoroughfare Gap,210066,1978-12-15,4,0.56,0.681,9,-13.183,1,0.0437,0.0221,0.00214,0.0591,0.929,96.733,4
+Can't Get No Booty,Stephen Stills,Thoroughfare Gap,229773,1978-12-15,5,0.681,0.664,9,-12.053,1,0.0346,0.0506,0.196,0.181,0.966,113.599,4
+Buyin' Time,Stephen Stills,Illegal Stills,215333,1976,11,0.613,0.843,0,-10.86,1,0.0733,0.264,0.00449,0.296,0.907,94.743,4
+Midnight In Paris,Stephen Stills,Illegal Stills,239333,1976,8,0.622,0.707,0,-9.945,1,0.0405,0.413,0.00121,0.0703,0.835,134.166,4
+Different Tongues,Stephen Stills,Illegal Stills,189573,1976,6,0.397,0.422,7,-12.449,1,0.0336,0.694,3.46e-05,0.536,0.382,149.31,4
+Soldier,Stephen Stills,Illegal Stills,179266,1976,7,0.757,0.552,9,-10.552,0,0.029,0.654,0.00012,0.0689,0.866,121.472,4
+The Loner,Stephen Stills,Illegal Stills,254026,1976,15,0.588,0.822,9,-8.186,1,0.0427,0.342,0.000121,0.399,0.735,123.309,4
+Stateline Blues,Stephen Stills,Illegal Stills,119200,1976,13,0.486,0.335,7,-14.744,1,0.0435,0.775,0.0,0.118,0.789,172.992,4
+Closer To You,Stephen Stills,Illegal Stills,214906,1976,18,0.544,0.813,2,-9.714,1,0.0416,0.344,1.54e-06,0.162,0.748,157.97,4
+No Me Niegas,Stephen Stills,Illegal Stills,211626,1976,7,0.636,0.643,0,-11.565,0,0.0296,0.588,0.00374,0.699,0.882,137.213,4
+Ring Of Love,Stephen Stills,Illegal Stills,242266,1976,5,0.518,0.717,0,-11.838,1,0.0478,0.435,8.29e-06,0.239,0.573,144.951,4
+Circlin',Stephen Stills,Illegal Stills,259640,1976,5,0.607,0.812,0,-11.805,1,0.0349,0.0878,8.61e-05,0.141,0.673,126.991,4
+Turn Back the Pages,Stephen Stills,Stills,243800,1975,18,0.373,0.747,9,-10.653,1,0.0786,0.186,0.0,0.107,0.46,153.215,4
+My Favorite Changes,Stephen Stills,Stills,173200,1975,17,0.61,0.507,0,-14.843,1,0.0264,0.0916,0.354,0.225,0.623,107.245,4
+My Angel,Stephen Stills,Stills,138560,1975,13,0.616,0.606,0,-17.288,1,0.083,0.364,0.265,0.247,0.801,123.582,4
+In The Way,Stephen Stills,Stills,217133,1975,12,0.575,0.559,7,-16.162,1,0.0391,0.576,0.00906,0.0752,0.76,155.913,4
+Love Story,Stephen Stills,Stills,253800,1975,9,0.323,0.364,5,-15.807,1,0.0632,0.44,5.29e-05,0.11,0.338,84.223,4
+To Mama From Christopher And The Old Man,Stephen Stills,Stills,134773,1975,9,0.462,0.699,2,-11.177,1,0.0444,0.114,0.0,0.325,0.852,167.826,3
+First Things First,Stephen Stills,Stills,135400,1975,11,0.767,0.593,8,-15.307,1,0.121,0.187,2.46e-05,0.247,0.948,89.281,4
+New Mama,Stephen Stills,Stills,150706,1975,14,0.557,0.446,0,-13.902,1,0.0253,0.564,0.014,0.0979,0.679,83.004,4
+As I Come Of Age,Stephen Stills,Stills,156200,1975,17,0.559,0.406,0,-11.389,1,0.0262,0.455,5.29e-05,0.122,0.491,76.428,4
+Shuffle Just As Bad,Stephen Stills,Stills,161026,1975,8,0.58,0.577,7,-12.28,1,0.0662,0.347,0.279,0.228,0.88,107.1,4
+Cold Cold World,Stephen Stills,Stills,274733,1975,15,0.466,0.391,2,-14.197,1,0.0649,0.335,0.164,0.262,0.365,140.825,4
+Myth of Sisyphus,Stephen Stills,Stills,253733,1975,9,0.448,0.21,0,-16.663,1,0.0307,0.649,0.796,0.0791,0.13,107.841,4
+Change Partners,Stephen Stills,Stephen Stills 2,197600,1971,32,0.363,0.639,9,-11.737,1,0.0505,0.108,0.0,0.108,0.509,165.238,3
+Nothin' to Do but Today,Stephen Stills,Stephen Stills 2,163573,1971,31,0.828,0.785,7,-7.796,1,0.0318,0.661,0.139,0.0726,0.939,111.98,4
+Fishes and Scorpions,Stephen Stills,Stephen Stills 2,197160,1971,15,0.477,0.623,2,-9.093,1,0.0324,0.087,0.000631,0.131,0.52,77.192,4
+Sugar Babe,Stephen Stills,Stephen Stills 2,241000,1971,19,0.386,0.552,5,-9.931,1,0.0626,0.0794,2.01e-06,0.158,0.288,167.518,4
+Know You Got to Run,Stephen Stills,Stephen Stills 2,230506,1971,19,0.493,0.343,0,-16.578,1,0.0296,0.152,0.0,0.392,0.418,146.772,4
+Open Secret,Stephen Stills,Stephen Stills 2,298893,1971,12,0.45,0.628,0,-11.611,1,0.0409,0.516,0.0201,0.0967,0.531,147.412,4
+Relaxing Town,Stephen Stills,Stephen Stills 2,143040,1971,11,0.599,0.716,2,-9.716,1,0.104,0.0844,3.27e-06,0.214,0.353,138.314,4
+Singin' Call,Stephen Stills,Stephen Stills 2,180960,1971,25,0.543,0.384,2,-15.674,1,0.0297,0.243,0.000546,0.135,0.41,79.291,4
+Ecology Song,Stephen Stills,Stephen Stills 2,205066,1971,10,0.507,0.738,10,-8.931,1,0.0832,0.491,5.21e-05,0.132,0.626,135.146,4
+Word Game,Stephen Stills,Stephen Stills 2,251733,1971,14,0.566,0.434,2,-12.89,1,0.071,0.203,0.0,0.105,0.466,131.638,4
+Marianne,Stephen Stills,Stephen Stills 2,149600,1971,28,0.54,0.699,2,-10.17,1,0.0323,0.457,3.76e-05,0.33,0.636,145.491,4
+Bluebird Revisited,Stephen Stills,Stephen Stills 2,323000,1971,14,0.363,0.52,0,-8.541,1,0.038,0.649,0.0219,0.147,0.319,128.902,4
+Love the One You're With,Stephen Stills,Stephen Stills,184733,1970,50,0.566,0.527,0,-11.216,1,0.034,0.03,3.25e-06,0.115,0.157,97.281,4
+Do for the Others,Stephen Stills,Stephen Stills,172640,1970,26,0.429,0.269,10,-17.41,1,0.0311,0.474,0.0,0.105,0.326,152.507,4
+Church (Pt. Of Someone),Stephen Stills,Stephen Stills,245560,1970,24,0.452,0.372,7,-11.78,1,0.0339,0.334,4.39e-06,0.144,0.227,113.302,3
+Old Times Good Times,Stephen Stills,Stephen Stills,219173,1970,27,0.523,0.797,5,-9.907,1,0.071,0.241,0.284,0.182,0.566,132.543,4
+Go Back Home,Stephen Stills,Stephen Stills,354466,1970,38,0.653,0.539,7,-10.115,1,0.0345,0.139,0.559,0.178,0.605,96.127,4
+Sit Yourself Down,Stephen Stills,Stephen Stills,185493,1970,32,0.3,0.545,7,-13.079,1,0.0347,0.0564,9.82e-06,0.11,0.702,86.989,4
+To a Flame,Stephen Stills,Stephen Stills,188200,1970,20,0.369,0.291,5,-17.332,1,0.0306,0.619,0.0113,0.1,0.221,142.802,4
+Black Queen (LP) - Version,Stephen Stills,Stephen Stills,326373,1970,24,0.516,0.172,5,-19.866,1,0.0306,0.769,0.0171,0.098,0.404,89.782,4
+Cherokee,Stephen Stills,Stephen Stills,203226,1970,19,0.468,0.601,2,-10.343,1,0.0479,0.0709,0.173,0.2,0.625,141.234,4
+We Are Not Helpless,Stephen Stills,Stephen Stills,258532,1970,20,0.273,0.506,2,-11.043,1,0.0359,0.23,0.0,0.131,0.204,146.642,3

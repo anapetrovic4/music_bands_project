@@ -1,0 +1,851 @@
+track,album,album_type,artist,duration,release_date,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+(Got to Keep) Open,Live It Up,live,"Crosby, Stills & Nash",284040,6/22/1990,5,0.554,0.829,4,-13.631,1,0.036,0.0974,1.12e-06,0.0469,0.883,98.032,4
+1967,Here If You Listen,studio,David Crosby,199626,10/26/2018,9,0.487,0.307,2,-11.278,0,0.0338,0.878,0.00722,0.182,0.375,81.392,4
+1974,Here If You Listen,studio,David Crosby,180106,10/26/2018,13,0.418,0.268,8,-11.004,0,0.04,0.894,2.25e-06,0.127,0.357,179.884,4
+30 Dollar Fine,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",165470,3/11/1970,10,0.616,0.654,0,-11.908,1,0.0349,0.0558,0.0297,0.14,0.955,145.162,4
+4 + 20,Deja Vu ,studio,"Crosby, Stills, Nash & Young",126640,3/11/1970,53,0.638,0.058,4,-25.243,1,0.0388,0.928,0.079,0.113,0.126,140.964,4
+49 Bye-Byes,"Crosby, Stills & Nash",studio,"Crosby, Stills & Nash",305093,5/29/1969,33,0.611,0.482,4,-11.315,1,0.0276,0.229,6.54e-06,0.079,0.691,117.982,4
+50/50,Right By You,studio,Stephen Stills,263373,1984,4,0.713,0.629,7,-13.067,1,0.0632,0.0632,0.000251,0.0254,0.913,102.568,4
+A Better Life,Now,studio,Graham Nash,209533,5/19/2023,15,0.681,0.355,7,-8.344,1,0.0389,0.75,1.19e-06,0.0813,0.591,142.688,4
+A Dream That Can Last,Before and After,live,Neil Young,272893,12/8/2023,17,0.549,0.111,0,-17.327,1,0.0355,0.976,0.0173,0.0889,0.273,102.328,4
+A Letter Home Intro,A Letter Home,studio,Neil Young,137213,5/19/2014,8,0.755,0.251,4,-14.697,0,0.587,0.804,0.000106,0.13,0.537,80.165,4
+A Man Needs a Maid,Harvest,studio,Neil Young,245220,2/1/1972,37,0.317,0.0448,2,-22.062,0,0.037,0.983,0.0032,0.0849,0.103,104.208,5
+Acadienne,Man Alive!,studio,Stephen Stills,241733,8/9/2005,0,0.542,0.838,7,-5.192,1,0.0656,0.0504,0.0,0.356,0.897,150.27,4
+Act of Love,Mirror Ball,studio,Neil Young,294640,8/7/1995,24,0.4,0.729,4,-11.051,1,0.0377,0.000511,0.727,0.134,0.0843,114.209,4
+After the Dolphin,Live It Up,live,"Crosby, Stills & Nash",304506,6/22/1990,6,0.645,0.536,7,-13.075,1,0.0316,0.0187,0.000333,0.395,0.556,113.366,4
+After the Garden,Living with War,studio,Neil Young,201653,5/2/2006,13,0.44,0.515,2,-8.823,1,0.0238,0.00237,4.13e-06,0.107,0.335,90.611,4
+After the Gold Rush,After the Gold Rush,studio,Neil Young,225973,8/31/1970,50,0.466,0.158,7,-12.894,1,0.0331,0.984,2.13e-06,0.113,0.338,98.062,4
+After the Storm,After the Storm,studio,"Crosby, Stills & Nash",215440,8/16/1994,21,0.764,0.303,7,-13.557,1,0.0321,0.401,1.2e-06,0.151,0.47,109.45,3
+Ain't It Always,Man Alive!,studio,Stephen Stills,203173,8/9/2005,0,0.542,0.948,5,-1.957,1,0.0307,0.0149,0.000707,0.377,0.602,138.247,4
+Ain't It the Truth,Bluenote Cafe,live,Neil Young,450546,11/13/2015,9,0.455,0.699,2,-6.962,1,0.0308,0.232,0.00789,0.955,0.771,169.852,4
+Alabama,Harvest,studio,Neil Young,242836,2/1/1972,38,0.42,0.397,7,-16.275,0,0.0356,0.575,0.00789,0.158,0.373,148.596,4
+Albert's Shuffle,Super Session,studio,Mike Bloomfield,413800,1968,34,0.451,0.613,0,-7.863,1,0.0266,0.0864,0.716,0.565,0.659,98.142,4
+Albuquerque,Tonight's the Night,live,Neil Young,241175,6/1/1975,33,0.462,0.307,2,-14.34,1,0.0266,0.287,0.0371,0.108,0.225,134.948,4
+All Along the Watchtower,"Road Rock, Vol. 1",live,Neil Young,491186,12/5/2000,13,0.229,0.931,9,-7.864,0,0.063,0.228,0.36,0.954,0.0854,128.709,4
+All I Know Is What You Tell Me,Just Roll Tape - April 26th 1968,live,Stephen Stills,99400,7/9/2007,20,0.587,0.189,7,-14.239,1,0.0338,0.726,0.0,0.117,0.297,142.781,4
+All Those Dreams,Storytone,studio,Neil Young,265413,10/31/2014,7,0.643,0.187,2,-16.623,1,0.0286,0.883,0.0613,0.113,0.281,107.227,4
+Almost Cut My Hair,Deja Vu ,studio,"Crosby, Stills, Nash & Young",269173,3/11/1970,54,0.471,0.471,7,-10.483,1,0.0437,0.185,0.00927,0.164,0.575,136.829,4
+Almost Gone,CSN 2012,live,"Crosby, Stills & Nash",273506,7/10/2012,10,0.404,0.744,9,-7.28,0,0.129,0.782,0.00619,0.517,0.575,165.634,4
+Already One,Comes a Time,studio,Neil Young,293346,10/4/1978,28,0.602,0.288,2,-15.647,1,0.0258,0.189,3.94e-05,0.125,0.507,103.812,4
+Ambulance Blues,On the Beach,studio,Neil Young,536733,7/16/1974,37,0.496,0.333,5,-13.491,1,0.0294,0.418,0.0515,0.15,0.457,128.154,4
+Amelia,Sky Trails,studio,David Crosby,337346,9/29/2017,11,0.659,0.148,9,-13.794,1,0.0405,0.877,0.0093,0.117,0.165,122.088,4
+America the Beautiful,Living with War,studio,Neil Young,176920,5/2/2006,8,0.197,0.188,3,-15.069,1,0.0364,0.988,0.303,0.174,0.0677,148.568,3
+American Dream,American Dream,studio,"Crosby, Stills, Nash & Young",198173,11/11/1988,33,0.717,0.478,10,-15.606,1,0.0998,0.037,0.000323,0.0931,0.857,166.654,4
+And so It Goes,Wild Tales,studio,Graham Nash,288773,1973,18,0.582,0.376,5,-16.717,1,0.0274,0.173,0.176,0.265,0.479,134.52,4
+Angel Flying Too Close to the Ground,Paradox,soundtrack,Neil Young,280653,3/23/2018,12,0.603,0.0685,9,-28.492,1,0.0563,0.796,0.0265,0.343,0.236,132.603,4
+Angry World,Le Noise,studio,Neil Young,252346,9/24/2010,13,0.271,0.46,7,-10.597,1,0.0315,0.653,0.0125,0.0845,0.187,121.59,3
+Another Broken Heart,This Path Tonight,studio,Graham Nash,297214,2016,18,0.625,0.429,0,-11.667,0,0.0276,0.484,0.268,0.117,0.532,91.379,4
+Another Sleep Song,Wild Tales,studio,Graham Nash,282533,1973,19,0.61,0.0693,1,-23.452,0,0.0457,0.937,0.00662,0.134,0.277,130.698,4
+Anticipatory Crowd,Another Stoney Evening,studio,David Crosby,44413,1/13/1998,3,0.221,0.907,3,-24.88,1,0.185,0.817,0.944,0.967,0.0133,97.034,3
+Anything at All,CSN,studio,"Crosby, Stills & Nash",186106,6/17/1977,25,0.458,0.0895,7,-20.643,0,0.0403,0.646,0.00186,0.092,0.0493,95.549,4
+Are There Any More Real Cowboys?,Old Ways,studio,Neil Young,183826,8/12/1985,18,0.628,0.455,9,-9.961,1,0.0299,0.104,5.92e-06,0.186,0.731,129.808,4
+Are You Ready for the Country?,Harvest,studio,Neil Young,205129,2/1/1972,38,0.687,0.389,2,-17.445,1,0.0327,0.761,0.16,0.0708,0.925,91.245,4
+Around Us,Man Alive!,studio,Stephen Stills,225173,8/9/2005,0,0.572,0.755,8,-3.496,1,0.067,0.0391,1.99e-05,0.0721,0.827,166.877,4
+Arrows,Live It Up,live,"Crosby, Stills & Nash",233026,6/22/1990,6,0.403,0.265,9,-16.947,0,0.0287,0.764,0.00288,0.113,0.109,100.14,3
+As I Come Of Age,Stills,studio,Stephen Stills,156200,1975,16,0.559,0.406,0,-11.389,1,0.0262,0.455,5.29e-05,0.122,0.491,76.428,4
+Baby What You Want Me to Do,Paradox,soundtrack,Neil Young,82973,3/23/2018,6,0.768,0.0445,1,-23.525,0,0.117,0.778,0.00445,0.193,0.531,76.514,4
+Bach Mode (Pre-Critical Mass),If I Could Only Remember My Name,studio,David Crosby,119626,1971,6,0.23,0.00306,5,-17.789,1,0.0462,0.942,1.5e-06,0.11,0.365,70.981,1
+Back Home,This Path Tonight,studio,Graham Nash,288050,2016,8,0.363,0.0874,2,-19.683,1,0.033,0.875,0.0157,0.103,0.0392,134.062,4
+Bad Boyz,After the Storm,studio,"Crosby, Stills & Nash",257693,8/16/1994,8,0.599,0.859,9,-8.918,1,0.0386,0.0597,1.69e-06,0.14,0.778,83.611,4
+Bad Fog of Loneliness,Harvest,studio,Neil Young,116440,2/1/1972,24,0.648,0.439,7,-12.661,1,0.0262,0.0487,1.85e-05,0.15,0.38,107.958,4
+Bad News Beat,Landing On Water,studio,Neil Young,197693,7/21/1986,10,0.842,0.493,0,-10.801,1,0.0341,0.37,0.0041,0.283,0.889,118.751,4
+Bad News Comes to Town,Bluenote Cafe,live,Neil Young,480026,11/13/2015,7,0.447,0.528,9,-8.873,1,0.0372,0.109,0.00397,0.986,0.248,115.82,4
+Balanced on a Pin,Here If You Listen,studio,David Crosby,270120,10/26/2018,11,0.665,0.208,2,-15.086,0,0.0377,0.956,0.233,0.119,0.167,117.064,4
+Band Intro,ROXY: Tonight's the Night Live,live,Neil Young,83053,4/21/2018,10,0.404,0.383,0,-20.77,1,0.841,0.669,5.85e-05,0.73,0.183,113.216,3
+Band Introductions,Live at Berkeley 1971,live,Stephen Stills,252003,4/28/2023,3,0.349,0.779,11,-21.422,0,0.887,0.576,0.0,0.9,0.0366,70.132,5
+Barrel of Pain (Half Life),Allies,live,"Crosby, Stills & Nash",375533,6/6/1983,7,0.523,0.445,9,-16.281,0,0.11,0.21,5.12e-06,0.705,0.725,81.425,4
+Barrel of Pain (Half-Life),Reflections,box set,Graham Nash,256760,2009,4,0.543,0.535,9,-9.052,0,0.0296,0.251,9.16e-06,0.0715,0.848,160.653,4
+Barstool Blues,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,181920,11/25/2020,8,0.542,0.566,4,-7.13,1,0.0248,0.127,0.0,0.0989,0.876,105.549,4
+Be Yourself,Songs For Beginners,studio,Graham Nash,189106,1971,24,0.443,0.27,7,-13.564,1,0.0398,0.46,0.0,0.122,0.521,157.591,3
+Beaucoup Yumbo,Thoroughfare Gap,studio,Stephen Stills,219573,12/15/1978,4,0.614,0.397,10,-13.62,1,0.0277,0.0383,0.134,0.0926,0.526,139.242,4
+Beautiful Bluebird,Chrome Dreams II,studio,Neil Young,267440,10/22/2007,17,0.53,0.28,7,-16.877,1,0.0336,0.296,0.0202,0.086,0.552,142.751,4
+Before Tomorrow Falls on Love,Sky Trails,studio,David Crosby,230760,9/29/2017,11,0.528,0.104,0,-16.774,1,0.0341,0.938,0.0205,0.112,0.104,104.301,4
+Behind The Shades,Reflections,box set,Graham Nash,242040,2009,2,0.684,0.538,9,-10.664,1,0.0269,0.0487,0.0,0.343,0.847,114.455,4
+Beneath the Waves,This Path Tonight,studio,Graham Nash,241117,2016,9,0.418,0.418,9,-16.398,0,0.05,0.549,0.121,0.107,0.198,184.74,4
+Better Days,Songs For Beginners,studio,Graham Nash,230173,1971,46,0.48,0.298,6,-13.477,1,0.0356,0.732,0.00283,0.1,0.0557,128.023,4
+Big Green Country,Mirror Ball,studio,Neil Young,308266,8/7/1995,22,0.37,0.763,4,-11.871,1,0.0334,0.00141,0.589,0.212,0.335,146.595,4
+Birds,After the Gold Rush,studio,Neil Young,153373,8/31/1970,37,0.375,0.0679,7,-18.547,1,0.0363,0.98,0.00217,0.103,0.368,142.726,4
+Bittersweet,Wind on the Water,studio,David Crosby,160373,1975,14,0.407,0.356,5,-12.471,1,0.0276,0.896,0.000775,0.151,0.25,131.409,3
+Black Queen,Stephen Stills,studio,Stephen Stills,326373,1970,23,0.516,0.172,5,-19.866,1,0.0306,0.769,0.0171,0.098,0.404,89.782,4
+Blackbird,Allies,live,"Crosby, Stills & Nash",182160,6/6/1983,25,0.343,0.0488,9,-25.922,1,0.0404,0.939,1.49e-06,0.873,0.385,168.544,4
+Blacknotes,Graham Nash & David Crosby,studio,Graham Nash,57226,1972,13,0.389,0.393,1,-15.523,1,0.105,0.961,1.43e-05,0.675,0.467,159.747,4
+Blind Fiddler,Live At Shepherd's Bush,live,Stephen Stills,323133,10/27/2009,6,0.543,0.0918,7,-18.393,1,0.0504,0.766,0.0,0.164,0.509,82.889,4
+Bluebird,CSN 2012,live,"Crosby, Stills & Nash",438173,7/10/2012,12,0.378,0.789,7,-7.472,1,0.171,0.627,0.00526,0.702,0.459,122.844,4
+Bluebird Revisited,Stephen Stills 2,studio,Stephen Stills,323000,1971,14,0.363,0.52,0,-8.541,1,0.038,0.649,0.0219,0.147,0.319,128.902,4
+Blues for Nothing,Super Session,studio,Mike Bloomfield,255066,1968,30,0.272,0.548,0,-9.059,1,0.0439,0.219,0.0504,0.247,0.628,184.992,3
+Bookstore Rap - Live - Canterbury House 1968,Sugar Mountain - Live at Canterbury House 1968,live,Neil Young,266880,11/28/2008,5,0.533,0.104,7,-22.79,1,0.599,0.926,0.0,0.172,0.091,88.782,5
+Born to Run,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,198733,11/25/2020,9,0.42,0.652,7,-9.479,1,0.028,0.0019,0.704,0.0862,0.623,144.993,4
+Borrowed Tune,Tonight's the Night,live,Neil Young,205366,6/1/1975,30,0.437,0.0153,5,-21.965,1,0.0496,0.966,3.69e-05,0.0828,0.218,106.445,3
+Bound for Glory,Old Ways,studio,Neil Young,348000,8/12/1985,22,0.618,0.378,7,-11.397,1,0.0248,0.189,0.000211,0.156,0.722,86.143,4
+Boxcar,Chrome Dreams II,studio,Neil Young,164413,10/22/2007,14,0.716,0.407,4,-15.703,0,0.043,0.404,0.00352,0.075,0.457,89.223,4
+Boxes,For Free,studio,David Crosby,254853,7/23/2021,15,0.669,0.587,0,-9.388,1,0.0406,0.277,0.0256,0.114,0.55,159.995,4
+Bright Sunny Day,Neil Young Archives Vol. III Takes,archives,Neil Young,163233,2020,26,0.632,0.414,9,-13.227,0,0.0352,0.617,4.89e-06,0.35,0.838,115.083,4
+Broken Arrow - Live - Canterbury House 1968,Sugar Mountain - Live at Canterbury House 1968,live,Neil Young,308720,11/28/2008,8,0.454,0.313,0,-13.824,1,0.0985,0.913,1.6e-06,0.676,0.17,142.976,4
+Broken Bird,Whistling Down the Wire,studio,David Crosby,164466,1976,6,0.565,0.15,4,-17.458,0,0.0338,0.425,0.00136,0.138,0.188,144.821,4
+Buddha on a Hill,Here If You Listen,studio,David Crosby,247253,10/26/2018,12,0.586,0.314,7,-11.417,1,0.0342,0.68,0.176,0.115,0.139,118.081,4
+Buddy's Back,Now,studio,Graham Nash,164133,5/19/2023,9,0.69,0.663,9,-7.86,1,0.0264,0.0268,4.6e-05,0.207,0.76,125.956,4
+Bumblebee (Do You Need a Place to Hide?),Just Roll Tape - April 26th 1968,live,Stephen Stills,112413,7/9/2007,9,0.684,0.342,7,-11.724,1,0.049,0.706,3.85e-06,0.183,0.612,116.217,4
+Burned,Before and After,live,Neil Young,126386,12/8/2023,18,0.575,0.369,0,-12.555,1,0.03,0.821,1.35e-05,0.699,0.464,128.863,4
+Buyin' Time,Illegal Stills,studio,Stephen Stills,215333,1976,10,0.613,0.843,0,-10.86,1,0.0733,0.264,0.00449,0.296,0.907,94.743,4
+By the Light of Common Day,Lighthouse,studio,David Crosby,375293,10/21/2016,12,0.686,0.152,0,-14.101,1,0.0403,0.918,0.00045,0.171,0.245,121.811,4
+California Sunset,Old Ways,studio,Neil Young,176706,8/12/1985,19,0.413,0.582,5,-8.731,1,0.0274,0.202,2.85e-05,0.238,0.872,175.727,4
+Camera,After the Storm,studio,"Crosby, Stills & Nash",260866,8/16/1994,23,0.867,0.642,11,-8.307,1,0.0317,0.261,0.0293,0.0707,0.897,133.395,4
+Campaigner,Hitchhiker,studio,Neil Young,259400,9/8/2017,19,0.577,0.279,5,-15.675,1,0.0337,0.202,0.00447,0.115,0.281,117.374,4
+Can't Get No Booty,Thoroughfare Gap,studio,Stephen Stills,229773,12/15/1978,5,0.681,0.664,9,-12.053,1,0.0346,0.0506,0.196,0.181,0.966,113.599,4
+Can't Stop Workin',Peace Trail,studio,Neil Young,165426,12/2/2016,15,0.699,0.365,11,-15.863,0,0.0363,0.0375,0.00663,0.0839,0.644,133.043,4
+Candy Barr 2 Rap - Live,ROXY: Tonight's the Night Live,live,Neil Young,27373,4/21/2018,0,0.599,0.17,2,-24.881,0,0.427,0.882,0.00012,0.287,0.0396,50.513,4
+Candy Barr Rap - Live,ROXY: Tonight's the Night Live,live,Neil Young,30880,4/21/2018,9,0.487,0.0335,11,-30.421,0,0.0791,0.887,3.75e-05,0.198,0.49,81.479,4
+Capitol,Sky Trails,studio,David Crosby,415933,9/29/2017,11,0.62,0.545,5,-10.286,1,0.0525,0.39,0.216,0.0909,0.504,87.773,4
+Captain Kennedy,Hawks & Doves,studio,Neil Young,173266,10/29/1980,21,0.47,0.159,3,-19.142,1,0.0325,0.632,0.000175,0.127,0.754,160.892,4
+Carried Away,CSN,studio,"Crosby, Stills & Nash",154000,6/17/1977,40,0.457,0.183,9,-16.153,0,0.039,0.808,3.27e-06,0.114,0.297,87.788,5
+Carry Me,Wind on the Water,studio,David Crosby,214400,1975,30,0.686,0.28,4,-14.998,1,0.0307,0.525,4.22e-06,0.145,0.557,94.1,4
+Carry On,Deja Vu ,studio,"Crosby, Stills, Nash & Young",265933,3/11/1970,55,0.463,0.496,1,-12.203,1,0.041,0.059,1.24e-06,0.271,0.533,118.505,4
+Carry On/Questions,CSN 2012,live,"Crosby, Stills & Nash",523746,7/10/2012,27,0.345,0.788,7,-6.654,1,0.0816,0.484,0.00477,0.955,0.512,130.803,4
+Cathedral,CSN,studio,"Crosby, Stills & Nash",317626,6/17/1977,39,0.417,0.189,11,-16.35,1,0.0366,0.704,5.39e-05,0.117,0.154,101.532,4
+Change Partners,Stephen Stills 2,studio,Stephen Stills,197600,1971,32,0.363,0.639,9,-11.737,1,0.0505,0.108,0.0,0.108,0.509,165.238,3
+Changes,A Letter Home,studio,Neil Young,236306,5/19/2014,12,0.445,0.257,4,-21.839,0,0.0504,0.937,0.285,0.113,0.632,142.318,4
+Changing Highways,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,122813,11/25/2020,8,0.566,0.469,7,-10.945,1,0.0299,0.135,0.0278,0.0975,0.6,165.326,4
+Charlie,Crosby & Nash,studio,Crosby & Nash,213453,8/10/2004,10,0.747,0.178,5,-14.228,1,0.0376,0.824,0.00101,0.108,0.119,104.059,4
+Cherokee,Stephen Stills,studio,Stephen Stills,203226,1970,19,0.468,0.601,2,-10.343,1,0.0479,0.0709,0.173,0.2,0.625,141.234,4
+Chicago (CSNY),4 Way Street,live,"Crosby, Stills, Nash & Young",190826,4/7/1971,33,0.555,0.41,9,-10.21,0,0.033,0.912,1.69e-05,0.866,0.405,147.037,4
+Chicago (Graham Nash),Songs For Beginners,studio,Graham Nash,171440,1971,41,0.662,0.332,9,-11.939,0,0.0306,0.286,0.0,0.142,0.638,82.28,4
+Chippin' Away,Innocent Eyes,studio,Graham Nash,236466,1986,8,0.659,0.562,2,-12.742,1,0.0271,0.363,2.23e-05,0.0439,0.97,92.734,4
+Church (Part Of Someone),Stephen Stills,studio,Stephen Stills,245560,1970,23,0.452,0.372,7,-11.78,1,0.0339,0.334,4.39e-06,0.144,0.227,113.302,3
+Cinnamon Girl - Live at the Cellar Door,Live at the Cellar Door,live,Neil Young,209426,12/3/2013,13,0.521,0.466,7,-11.935,1,0.104,0.976,0.00784,0.579,0.532,105.428,4
+Circlin',Illegal Stills,studio,Stephen Stills,259640,1976,4,0.607,0.812,0,-11.805,1,0.0349,0.0878,8.61e-05,0.141,0.673,126.991,4
+Classical Gas Rap - Live - Canterbury House 1968,Sugar Mountain - Live at Canterbury House 1968,live,Neil Young,40546,11/28/2008,5,0.487,0.0746,7,-27.727,1,0.0564,0.803,8.04e-06,0.133,0.629,138.953,3
+Clear Blue Skies,American Dream,studio,"Crosby, Stills, Nash & Young",187293,11/11/1988,33,0.571,0.436,7,-15.903,1,0.0248,0.265,0.0,0.151,0.904,104.763,4
+Closer to You,Illegal Stills,studio,Stephen Stills,214906,1976,17,0.544,0.813,2,-9.714,1,0.0416,0.344,1.54e-06,0.162,0.748,157.97,4
+Coast Road,If I Could Only Remember My Name,studio,David Crosby,315986,1971,9,0.467,0.235,8,-16.894,1,0.0274,0.738,0.0799,0.354,0.134,94.893,4
+Coastline,Hawks & Doves,studio,Neil Young,146120,10/29/1980,14,0.685,0.514,0,-10.126,1,0.03,0.707,0.0288,0.186,0.499,111.056,4
+Cold Cold World,Stills,studio,Stephen Stills,274733,1975,14,0.466,0.391,2,-14.197,1,0.0649,0.335,0.164,0.262,0.365,140.825,4
+Cold Rain,CSN,studio,"Crosby, Stills & Nash",154600,6/17/1977,25,0.35,0.0444,9,-21.421,0,0.0376,0.948,0.00051,0.1,0.165,88.158,4
+Colorado,Bread and Roses Festival (Live),live,Stephen Stills,208000,9/4/1978,1,0.401,0.44,3,-13.136,0,0.0357,0.808,2.36e-06,0.672,0.26,81.601,4
+Columbus,Thousand Roads,studio,David Crosby,266733,5/4/1993,8,0.683,0.265,0,-16.175,1,0.0443,0.133,5.41e-05,0.0857,0.233,126.995,4
+Come Along and Say You Will,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,147666,11/25/2020,14,0.62,0.416,9,-9.805,1,0.0256,0.228,7.46e-06,0.1,0.668,83.856,4
+Come on Baby Let's Go Downtown,Tonight's the Night,live,Neil Young,215301,6/1/1975,27,0.424,0.666,9,-11.112,1,0.0313,0.252,0.0,0.91,0.905,166.914,4
+Comes a Time,Comes a Time,studio,Neil Young,185866,10/4/1978,47,0.481,0.432,0,-13.044,1,0.0317,0.22,1.5e-05,0.101,0.55,158.202,4
+Comin' Apart at Every Nail,Hawks & Doves,studio,Neil Young,156360,10/29/1980,14,0.439,0.698,0,-8.955,1,0.0735,0.676,4.11e-06,0.194,0.637,185.827,4
+Compass,American Dream,studio,"Crosby, Stills, Nash & Young",327933,11/11/1988,19,0.344,0.0541,11,-21.09,0,0.033,0.622,8.85e-06,0.143,0.157,99.363,4
+Computer Age,Trans,live,Neil Young,324733,11/9/1982,24,0.746,0.415,11,-13.134,0,0.0435,0.162,0.047,0.0765,0.814,128.024,4
+Computer Cowboy,Trans,live,Neil Young,253666,11/9/1982,17,0.624,0.571,9,-13.884,1,0.0331,0.202,0.00196,0.103,0.696,110.193,4
+Cortez the Killer,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,451960,11/25/2020,13,0.53,0.458,4,-11.379,0,0.0258,0.0377,0.0304,0.123,0.46,113.426,4
+Cough up the Bucks,Fork in the Road,studio,Neil Young,277320,4/3/2009,7,0.381,0.725,7,-9.213,1,0.0417,0.0106,0.684,0.317,0.516,171.671,4
+Country Girl,Deja Vu ,studio,"Crosby, Stills, Nash & Young",312133,3/11/1970,38,0.316,0.398,7,-12.558,0,0.031,0.589,2.93e-05,0.0929,0.367,120.903,3
+Coverage,Thousand Roads,studio,David Crosby,203466,5/4/1993,7,0.775,0.438,2,-13.699,1,0.0564,0.511,0.0109,0.0876,0.523,129.7,4
+Cowboy Movie,If I Could Only Remember My Name,studio,David Crosby,491400,2/22/1971,36,0.307,0.629,2,-12.499,1,0.0675,0.0061,1.85e-05,0.136,0.514,76.349,4
+Cowboy Of Dreams,Wind on the Water,studio,David Crosby,209200,1975,13,0.62,0.355,7,-11.726,1,0.0262,0.78,1.26e-06,0.188,0.498,107.471,3
+Cowgirl in the Sand,"Road Rock, Vol. 1",live,Neil Young,1091360,12/5/2000,15,0.188,0.713,9,-10.405,0,0.0384,0.076,0.641,0.961,0.205,164.766,4
+Cowgirl Jam,Paradox,soundtrack,Neil Young,636440,3/23/2018,12,0.208,0.657,5,-11.528,1,0.0442,0.00021,0.92,0.976,0.378,75.503,4
+Cracks in the City,This Path Tonight,studio,Graham Nash,221495,2016,17,0.621,0.296,11,-14.596,0,0.0323,0.578,4.3e-06,0.0972,0.463,131.519,3
+Crazy,A Letter Home,studio,Neil Young,135973,5/19/2014,15,0.546,0.261,4,-16.051,0,0.0401,0.914,0.00551,0.123,0.273,91.65,4
+Crime in the City,Freedom,studio,Neil Young,524866,1989,26,0.72,0.44,9,-14.957,0,0.0293,0.148,0.0228,0.088,0.787,134.152,4
+Crime of the Heart,Bluenote Cafe,live,Neil Young,336973,11/13/2015,6,0.387,0.503,4,-11.256,1,0.0418,0.459,0.0953,0.879,0.256,197.721,3
+Cripple Creek Ferry,After the Gold Rush,studio,Neil Young,93960,8/31/1970,37,0.8,0.222,7,-14.975,1,0.0388,0.52,0.0,0.0884,0.516,128.296,4
+Critical Mass,Wind on the Water,studio,David Crosby,330280,1975,20,0.412,0.21,1,-14.082,0,0.0309,0.9,0.00605,0.132,0.137,107.814,4
+Crossroads/You Can't Catch Me,Live,live,Stephen Stills,281026,3/15/2005,14,0.51,0.545,4,-9.812,0,0.0556,0.291,0.015,0.967,0.422,144.51,4
+Cuba Al Fin,Havana Jam Cuba 1979 (live),live,Stephen Stills,503666,7/5/2021,1,0.285,0.863,0,-7.954,1,0.105,0.211,0.000308,0.932,0.796,96.83,4
+Curved Air,Sky Trails,studio,David Crosby,284026,9/29/2017,9,0.538,0.386,6,-12.847,1,0.0392,0.744,0.0375,0.109,0.177,110.562,4
+Daddy Went Walkin',Silver & Gold,studio,Neil Young,241760,4/25/2000,20,0.556,0.201,2,-15.174,1,0.0331,0.777,0.000526,0.0802,0.393,83.464,4
+Dance Dance Dance,Harvest,studio,Neil Young,154640,2/1/1972,23,0.751,0.472,9,-10.073,1,0.0485,0.033,0.0285,0.0526,0.453,141.264,4
+Dancer,If I Could Only Remember My Name,studio,David Crosby,303440,1971,5,0.315,0.238,0,-13.222,0,0.0338,0.743,0.0118,0.0784,0.0952,181.453,3
+Danger Bird,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,415146,11/25/2020,8,0.338,0.46,2,-9.537,1,0.0315,0.114,0.133,0.604,0.118,121.503,4
+Dangerous Night,Croz,studio,David Crosby,357040,1/28/2014,13,0.707,0.412,0,-12.606,1,0.0405,0.559,0.127,0.144,0.0932,147.888,4
+Dark Star,CSN,studio,"Crosby, Stills & Nash",285706,6/17/1977,45,0.676,0.491,9,-15.126,0,0.0641,0.442,0.0021,0.105,0.648,100.718,4
+Daughters,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,210386,11/25/2020,8,0.687,0.372,2,-12.959,1,0.0303,0.283,6.49e-06,0.0971,0.615,121.78,3
+David Geffen Rap - Live,ROXY: Tonight's the Night Live,live,Neil Young,35746,4/21/2018,9,0.507,0.124,2,-30.326,1,0.522,0.597,2.72e-06,0.492,0.0945,88.83,3
+Daylight Again,Daylight Again,studio,"Crosby, Stills & Nash",149173,6/21/1982,33,0.373,0.112,2,-16.381,0,0.0334,0.815,5.11e-06,0.179,0.37,156.157,4
+Deep Forbidden Lake,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,223053,11/25/2020,8,0.608,0.226,5,-15.6,1,0.0254,0.213,0.00267,0.113,0.423,80.495,4
+Deja Vu,Another Stoney Evening,studio,David Crosby,335400,1/13/1998,6,0.485,0.288,11,-16.967,0,0.107,0.758,6.65e-05,0.905,0.423,114.363,4
+Deja Vu ,Deja Vu ,studio,"Crosby, Stills, Nash & Young",252373,3/11/1970,45,0.454,0.267,11,-15.915,0,0.036,0.81,0.221,0.296,0.203,137.052,4
+Delta,Daylight Again,studio,"Crosby, Stills & Nash",248600,6/21/1982,23,0.495,0.19,10,-14.046,1,0.0308,0.914,0.00018,0.15,0.185,120.871,4
+Democratic Liberals,Back in Time,studio,Stephen Stills,121990,9/19/1989,0,0.609,0.205,4,-24.443,1,0.949,0.979,0.0,0.113,0.45,65.641,3
+Deterring Nuclear,Back in Time,studio,Stephen Stills,90491,9/19/1989,0,0.757,0.189,11,-22.655,1,0.948,0.966,0.0,0.143,0.55,58.311,5
+Devised Plans,Back in Time,studio,Stephen Stills,101225,9/19/1989,1,0.672,0.202,8,-23.554,0,0.934,0.957,0.0,0.154,0.494,83.874,3
+Different Man,Man Alive!,studio,Stephen Stills,130880,8/9/2005,0,0.361,0.402,7,-7.458,1,0.0293,0.27,1.27e-06,0.101,0.632,165.79,4
+Different Tongues,Illegal Stills,studio,Stephen Stills,189573,1976,5,0.397,0.422,7,-12.449,1,0.0336,0.694,3.46e-05,0.536,0.382,149.31,4
+Diggin' in the Dirt,Paradox,soundtrack,Neil Young,194813,3/23/2018,7,0.835,0.287,4,-17.468,1,0.219,0.673,8.15e-05,0.145,0.873,83.952,4
+Dirty Little Secret,Reflections,box set,Graham Nash,260160,2009,0,0.592,0.657,0,-10.565,1,0.0335,0.261,0.0238,0.088,0.738,96.005,4
+Dirty Old Man,Chrome Dreams II,studio,Neil Young,197320,10/22/2007,11,0.593,0.585,7,-11.226,1,0.0292,0.116,0.0698,0.192,0.66,127.595,4
+Distances,Oh Yes I Can,studio,David Crosby,215480,1/23/1989,3,0.654,0.175,7,-14.701,1,0.0276,0.734,0.00511,0.0909,0.22,76.326,4
+Distant Camera,Silver & Gold,studio,Neil Young,247466,4/25/2000,19,0.524,0.496,7,-10.064,1,0.0383,0.556,0.0113,0.0979,0.24,126.517,4
+Do for the Others,Stephen Stills,studio,Stephen Stills,172640,1970,26,0.429,0.269,10,-17.41,1,0.0311,0.474,0.0,0.105,0.326,152.507,4
+Do You Know How to Use This Weapon?,Dead Man,soundtrack,Neil Young,265173,1996,17,0.283,0.214,4,-21.669,0,0.0841,0.671,0.78,0.4,0.113,104.415,4
+Doghouse,Bluenote Cafe,live,Neil Young,250226,11/13/2015,6,0.609,0.849,7,-8.122,1,0.0374,0.0107,0.0544,0.878,0.642,119.671,4
+Don't Be Denied,Time Fades Away,live,Neil Young,316734,10/15/1973,25,0.702,0.342,2,-13.171,1,0.0311,0.28,2.91e-05,0.699,0.444,114.37,4
+Don't Cry,Freedom,studio,Neil Young,255866,1989,22,0.498,0.5,9,-8.351,1,0.0269,0.0111,0.00432,0.103,0.176,77.794,4
+Don't Cry No Tears,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,157386,11/25/2020,9,0.558,0.657,9,-8.714,1,0.0264,0.0125,0.0,0.0911,0.865,114.529,4
+Don't Dig Here,Crosby & Nash,studio,Crosby & Nash,369760,8/10/2004,13,0.579,0.631,2,-8.345,1,0.0267,0.28,0.00412,0.0966,0.597,177.958,4
+Don't Forget Love,Before and After,live,Neil Young,221920,12/8/2023,15,0.406,0.0962,7,-18.273,1,0.0879,0.986,0.00265,0.145,0.234,204.013,4
+Don't Let It Bring You Down,After the Gold Rush,studio,Neil Young,176866,8/31/1970,46,0.663,0.238,5,-11.851,1,0.0368,0.506,3.41e-06,0.107,0.281,133.082,4
+Don't Listen to the Rumors,Innocent Eyes,studio,Graham Nash,183906,1986,1,0.638,0.641,5,-11.68,0,0.0344,0.108,0.0,0.065,0.627,133.064,4
+Don't Say Goodbye,American Dream,studio,"Crosby, Stills, Nash & Young",203266,11/11/1988,24,0.46,0.0558,9,-21.296,1,0.0356,0.975,0.0052,0.13,0.29,129.984,4
+Don't Take Your Love Away from Me,Bluenote Cafe,live,Neil Young,570693,11/13/2015,12,0.467,0.529,9,-6.843,0,0.0268,0.204,0.133,0.979,0.446,86.458,4
+Down by the River - Live at the Cellar Door,Live at the Cellar Door,live,Neil Young,264866,12/3/2013,13,0.512,0.306,2,-13.237,1,0.0382,0.693,0.000567,0.709,0.341,136.064,4
+Downtown,Mirror Ball,studio,Neil Young,310800,8/7/1995,28,0.526,0.856,9,-7.952,1,0.0368,0.0301,0.0154,0.152,0.582,120.92,4
+Dream for Him,Looking Forward,studio,"Crosby, Stills, Nash & Young",302840,10/15/1999,17,0.422,0.455,4,-14.287,1,0.0432,0.701,0.0257,0.116,0.533,172.594,4
+Dreamin' Man,Harvest Moon,studio,Neil Young,276826,11/2/1992,38,0.487,0.262,7,-16.93,1,0.0328,0.58,0.0383,0.116,0.413,204.002,4
+Dreaming of Snakes,Just Roll Tape - April 26th 1968,live,Stephen Stills,103186,7/9/2007,11,0.488,0.152,4,-16.424,0,0.0292,0.847,0.00318,0.115,0.257,78.421,3
+Drifter,Landing On Water,studio,Neil Young,306560,7/21/1986,10,0.744,0.88,7,-10.502,1,0.0393,0.139,0.0532,0.0308,0.661,109.942,4
+Drive Back,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,214120,11/25/2020,6,0.356,0.714,7,-7.819,1,0.0346,0.00757,0.0211,0.0338,0.777,128.02,4
+Drive My Car,Oh Yes I Can,studio,David Crosby,213666,1/23/1989,6,0.507,0.838,7,-9.629,1,0.0587,0.106,0.00284,0.157,0.51,102.765,4
+Drive Out to the Desert,Lighthouse,studio,David Crosby,256680,10/21/2016,9,0.638,0.0846,7,-16.578,1,0.0542,0.906,7.45e-05,0.113,0.0822,104.465,4
+Drivin' Thunder,Man Alive!,studio,Stephen Stills,265480,8/9/2005,0,0.586,0.927,2,-4.894,1,0.0371,0.00294,0.000611,0.348,0.936,100.918,4
+Drop Down Mama,Oh Yes I Can,studio,David Crosby,186746,1/23/1989,2,0.623,0.762,2,-10.04,1,0.0399,0.243,0.000207,0.128,0.821,119.765,4
+Déjà Vu,CSN 2012,live,"Crosby, Stills & Nash",798133,7/10/2012,12,0.425,0.468,4,-11.746,0,0.128,0.611,0.00555,0.691,0.206,109.014,4
+Early Morning Rain,A Letter Home,studio,Neil Young,264320,5/19/2014,9,0.33,0.424,5,-13.186,1,0.0349,0.952,0.00434,0.364,0.623,176.991,4
+Ecology Song,Stephen Stills 2,studio,Stephen Stills,205066,1971,10,0.507,0.738,10,-8.931,1,0.0832,0.491,5.21e-05,0.132,0.626,135.146,4
+Eldorado,Freedom,studio,Neil Young,365266,1989,26,0.719,0.403,9,-13.545,0,0.027,0.0126,0.00812,0.255,0.489,108.249,4
+"Emcee Intro - Live at Canterbury House, 1968",Sugar Mountain - Live at Canterbury House 1968,live,Neil Young,45080,11/28/2008,6,0.461,0.848,8,-19.667,1,0.781,0.783,0.0,0.904,0.393,102.348,4
+Encore,This Path Tonight,studio,Graham Nash,231783,2016,31,0.64,0.141,4,-17.564,1,0.0347,0.903,0.0463,0.111,0.157,128.137,4
+Encore Rap,Bluenote Cafe,live,Neil Young,67453,11/13/2015,4,0.163,0.746,4,-21.853,0,0.0814,0.679,0.665,0.965,0.0247,42.022,3
+Ever After,Chrome Dreams II,studio,Neil Young,211946,10/22/2007,9,0.645,0.243,7,-13.239,1,0.0295,0.307,0.00817,0.0974,0.367,82.875,3
+Everybody I Love You,Deja Vu ,studio,"Crosby, Stills, Nash & Young",142000,3/11/1970,37,0.371,0.695,9,-8.559,1,0.0325,0.00288,0.00011,0.155,0.707,142.062,4
+Everybody Knows,Everybody Knows,studio,Stephen Stills,326684,9/22/2017,17,0.715,0.497,9,-7.828,0,0.0335,0.518,1.35e-06,0.332,0.387,123.977,4
+Everybody's Alone,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young with the Santa Monica Flyers,163880,11/25/2020,15,0.672,0.44,11,-9.196,0,0.0303,0.354,0.00288,0.0811,0.603,94.783,4
+Everybody's Talkin at Me,Live,live,Stephen Stills,162533,3/15/2005,15,0.414,0.353,9,-14.767,0,0.0759,0.672,3.82e-05,0.895,0.467,126.675,4
+Everybody's Talkin',"Crosby, Stills & Nash",studio,"Crosby, Stills & Nash",193506,5/29/1969,33,0.587,0.137,11,-17.794,1,0.0319,0.953,0.00569,0.1,0.108,98.42,4
+Everybody's Talking,Bread and Roses Festival (Live),live,Stephen Stills,202640,9/4/1978,1,0.333,0.597,3,-15.815,1,0.063,0.589,0.00423,0.31,0.374,172.751,4
+Everyday We Live,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",198160,3/11/1970,13,0.387,0.482,0,-12.887,1,0.036,0.214,0.00169,0.263,0.651,166.564,4
+Exit Sounds,Another Stoney Evening,studio,David Crosby,137282,1/13/1998,1,0.19,0.219,8,-51.196,0,0.0973,0.212,0.0,0.368,0.0166,119.335,4
+Expecting to Fly - Live at the Cellar Door,Live at the Cellar Door,live,Neil Young,201786,12/3/2013,13,0.4,0.35,7,-10.936,1,0.0715,0.978,0.0564,0.799,0.361,141.456,3
+Fair Game,CSN,studio,"Crosby, Stills & Nash",212026,6/17/1977,29,0.68,0.576,7,-16.649,1,0.093,0.342,0.0016,0.14,0.753,86.562,4
+Faith in Me,Looking Forward,studio,"Crosby, Stills, Nash & Young",260440,10/15/1999,20,0.684,0.789,4,-9.087,1,0.0936,0.205,0.0,0.0934,0.856,97.905,4
+Fallen Angel,Mirror Ball,studio,Neil Young,75066,8/7/1995,20,0.208,0.0314,7,-22.095,1,0.04,0.961,0.927,0.108,0.132,72.7,5
+Fallen Eagle,Bread and Roses Festival (Live),live,Stephen Stills,165520,9/4/1978,0,0.286,0.79,4,-10.411,1,0.292,0.496,0.00665,0.72,0.633,147.966,4
+Falling off of the Face of the Earth,Prairie Wind,studio,Neil Young,212773,9/23/2005,20,0.593,0.308,2,-16.97,1,0.0311,0.596,0.514,0.107,0.415,114.45,4
+Families,Living with War,studio,Neil Young,144600,5/2/2006,10,0.449,0.669,7,-10.364,1,0.027,0.000144,0.00176,0.224,0.587,131.047,4
+Far from Home,Prairie Wind,studio,Neil Young,225280,9/23/2005,18,0.632,0.598,7,-8.353,1,0.033,0.0473,0.000706,0.168,0.616,116.015,4
+Fat Grey Cloud,Super Session,studio,Mike Bloomfield,278600,1968,16,0.314,0.409,7,-9.425,1,0.0395,0.635,0.66,0.877,0.421,178.378,3
+Feed the People,Man Alive!,studio,Stephen Stills,260933,8/9/2005,0,0.741,0.879,7,-3.548,1,0.0539,0.102,0.0,0.103,0.899,78.062,4
+Feel Your Love,Daylight Again,studio,"Crosby, Stills & Nash",268906,6/21/1982,15,0.695,0.439,9,-13.262,0,0.0325,0.558,0.00131,0.102,0.469,120.282,4
+Field of Opportunity,Comes a Time,studio,Neil Young,189106,10/4/1978,26,0.522,0.377,7,-13.204,1,0.0297,0.168,0.0,0.142,0.741,145.648,4
+Fieldworker,Wind on the Water,studio,David Crosby,166826,1975,9,0.525,0.47,11,-11.015,0,0.034,0.371,0.0192,0.186,0.623,122.241,3
+Find a Dream,After the Storm,studio,"Crosby, Stills & Nash",231626,8/16/1994,21,0.731,0.33,4,-11.242,0,0.0289,0.1,9.44e-05,0.0463,0.653,78.439,4
+Find a Heart,Croz,studio,David Crosby,306626,1/28/2014,13,0.591,0.574,0,-10.078,1,0.0336,0.403,0.0145,0.207,0.69,169.017,3
+Find the Cost of Freedom,4 Way Street,live,"Crosby, Stills, Nash & Young",141200,4/7/1971,24,0.384,0.153,8,-18.311,1,0.0348,0.714,1e-05,0.27,0.575,75.233,4
+Fine Love,Havana Jam Cuba 1979 (live),live,Stephen Stills,340026,7/5/2021,1,0.309,0.863,2,-6.19,1,0.0761,0.225,0.000171,0.933,0.659,107.121,4
+Fire Down Below,This Path Tonight,studio,Graham Nash,207546,2016,16,0.658,0.335,11,-10.892,0,0.0347,0.617,0.391,0.104,0.205,86.529,4
+First Things First,Stills,studio,Stephen Stills,135400,1975,10,0.767,0.593,8,-15.307,1,0.121,0.187,2.46e-05,0.247,0.948,89.281,4
+Fishes and Scorpions,Stephen Stills 2,studio,Stephen Stills,197160,1971,14,0.477,0.623,2,-9.093,1,0.0324,0.087,0.000631,0.131,0.52,77.192,4
+Flags of Freedom,Living with War,studio,Neil Young,220546,5/2/2006,12,0.524,0.542,5,-11.178,1,0.0271,0.0155,0.0,0.105,0.429,127.421,4
+Flaming Heart,Right By You,studio,Stephen Stills,201933,1984,2,0.725,0.583,4,-14.785,1,0.0342,0.0353,0.000335,0.19,0.932,117.922,4
+Florida,Homegrown,studio,Neil Young,178412,6/19/2020,15,0.389,0.0325,0,-25.896,1,0.112,0.768,3.56e-05,0.188,0.111,61.379,4
+Flying Man,Oh Yes I Can,studio,David Crosby,204360,1/23/1989,3,0.58,0.592,5,-13.083,0,0.0334,0.723,0.303,0.153,0.528,146.269,4
+Flying on the Ground Is Wrong - Live at the Cellar Door,Live at the Cellar Door,live,Neil Young,431333,12/3/2013,11,0.322,0.264,9,-17.288,1,0.229,0.856,0.00993,0.699,0.154,173.887,4
+Follow Your Heart,Now,studio,Graham Nash,218053,5/19/2023,8,0.498,0.172,9,-11.424,1,0.0442,0.81,0.0,0.112,0.248,173.156,4
+Fontainebleau,Long May You Run,studio,The Stills-Young Band,239493,1976-20-09,20,0.485,0.549,0,-10.028,1,0.0287,0.114,0.0898,0.142,0.145,120.484,4
+Fool for Your Love,Bluenote Cafe,live,Neil Young,252520,11/13/2015,6,0.582,0.624,9,-10.153,1,0.0381,0.177,0.104,0.756,0.309,126.363,4
+Foolish Man,Whistling Down the Wire,studio,David Crosby,269640,1976,6,0.517,0.206,10,-13.749,1,0.0347,0.766,0.00211,0.108,0.19,106.656,4
+For Free,For Free,studio,David Crosby,223360,7/23/2021,26,0.691,0.107,0,-14.436,1,0.04,0.872,4.96e-05,0.144,0.101,107.082,3
+For the Turnstiles,On the Beach,studio,Neil Young,194506,7/16/1974,39,0.689,0.239,7,-14.575,1,0.0499,0.894,3.89e-05,0.0789,0.806,157.515,4
+For What It's Worth,Live At Shepherd's Bush,live,Stephen Stills,438786,10/27/2009,6,0.303,0.568,2,-14.002,1,0.268,0.423,0.000852,0.941,0.333,184.628,4
+Fork in the Road,Fork in the Road,studio,Neil Young,346600,4/3/2009,8,0.452,0.773,9,-10.564,1,0.0333,0.00251,0.144,0.329,0.579,141.278,4
+Four Days Gone,Live,live,Stephen Stills,235773,3/15/2005,9,0.355,0.577,5,-11.493,1,0.0723,0.184,0.0083,0.94,0.217,110.975,3
+Four Strong Winds,Comes a Time,studio,Neil Young,245635,10/4/1978,46,0.563,0.406,0,-13.852,1,0.0358,0.43,0.0,0.105,0.53,108.698,4
+From Hank to Hendrix,Harvest Moon,studio,Neil Young,317200,11/2/1992,44,0.612,0.351,0,-14.349,1,0.0261,0.0138,0.000306,0.105,0.55,106.644,4
+Frozen Man,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,181773,11/25/2020,9,0.511,0.338,4,-15.179,0,0.0653,0.856,0.0253,0.12,0.281,143.368,3
+Frozen Smiles,Graham Nash & David Crosby,studio,Graham Nash,138826,1972,19,0.54,0.879,11,-6.168,1,0.0686,0.35,0.0,0.042,0.932,179.26,4
+Fuel Line,Fork in the Road,studio,Neil Young,190826,4/3/2009,7,0.642,0.804,2,-10.464,1,0.0294,0.0479,0.000395,0.661,0.814,94.041,4
+Fugue,If I Could Only Remember My Name,studio,David Crosby,122664,1971,7,0.69,0.169,11,-13.318,1,0.0522,0.631,0.648,0.346,0.307,94.811,4
+Games,Graham Nash & David Crosby,studio,Graham Nash,239733,1972,13,0.393,0.297,4,-13.45,0,0.0364,0.764,0.00555,0.0996,0.234,182.57,3
+Get Back To The Country,Old Ways,studio,Neil Young,170773,8/12/1985,23,0.671,0.63,2,-8.977,1,0.0275,0.115,0.000828,0.114,0.854,105.048,4
+Get Behind the Wheel,Fork in the Road,studio,Neil Young,187226,4/3/2009,6,0.568,0.748,9,-7.274,1,0.035,0.00296,0.000416,0.375,0.384,126.45,4
+Girl from the North Country,Everybody Knows,studio,Stephen Stills,206184,9/22/2017,9,0.413,0.208,7,-13.704,1,0.0302,0.747,1.79e-06,0.118,0.282,147.049,4
+Girl to Be on My Mind,Graham Nash & David Crosby,studio,Graham Nash,205720,1972,14,0.511,0.401,9,-10.073,1,0.0298,0.747,0.103,0.117,0.161,124.252,4
+Give Me Strength,Hitchhiker,studio,Neil Young,220333,9/8/2017,19,0.48,0.223,7,-17.365,1,0.0313,0.443,0.177,0.102,0.367,128.537,4
+Glass Accident,Peace Trail,studio,Neil Young,173213,12/2/2016,10,0.535,0.249,4,-18.34,1,0.0371,0.719,0.00124,0.199,0.75,145.686,4
+Glass and Steel,Innocent Eyes,studio,Graham Nash,200400,1986,1,0.306,0.377,6,-12.628,1,0.033,0.476,0.0,0.0839,0.223,153.717,4
+Glimmer,Storytone,studio,Neil Young,299466,10/31/2014,5,0.197,0.114,7,-15.54,1,0.0405,0.956,0.00189,0.148,0.115,80.231,4
+Glory,Here If You Listen,studio,David Crosby,320706,10/26/2018,17,0.56,0.195,10,-13.483,1,0.0306,0.939,0.00013,0.126,0.159,110.136,4
+Go Back Home,Stephen Stills,studio,Stephen Stills,354466,1970,37,0.653,0.539,7,-10.115,1,0.0345,0.139,0.559,0.178,0.605,96.127,4
+Goin' Back,Comes a Time,studio,Neil Young,281105,10/4/1978,33,0.539,0.21,7,-17.495,1,0.033,0.554,0.00935,0.129,0.49,126.981,4
+Golden Days,This Path Tonight,studio,Graham Nash,218311,2016,20,0.466,0.11,8,-16.295,0,0.0296,0.912,6.12e-05,0.113,0.221,155.71,4
+Golden Idols,Now,studio,Graham Nash,196293,5/19/2023,10,0.444,0.432,4,-9.032,0,0.0505,0.229,0.00194,0.573,0.569,185.621,3
+Good to See You,Silver & Gold,studio,Neil Young,169733,4/25/2000,24,0.664,0.39,7,-13.136,1,0.0254,0.409,0.0237,0.0672,0.519,99.416,4
+Goodbye Christians on the Shore,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,324560,11/25/2020,14,0.691,0.374,7,-12.773,0,0.0296,0.0998,0.0147,0.0955,0.37,106.476,3
+Got It Made,American Dream,studio,"Crosby, Stills, Nash & Young",296466,11/11/1988,26,0.716,0.521,0,-14.635,1,0.0295,0.127,5.29e-06,0.122,0.845,120.461,4
+Grace,Crosby & Nash,studio,Crosby & Nash,45426,8/10/2004,15,0.646,0.0479,5,-17.991,1,0.0507,0.995,0.95,0.105,0.175,63.624,4
+Grave Concern,Wild Tales,studio,Graham Nash,166746,1973,19,0.554,0.653,5,-10.109,1,0.034,0.196,0.0146,0.0929,0.852,171.252,4
+Greensleeves,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,119733,11/25/2020,14,0.466,0.117,7,-16.364,0,0.0338,0.892,0.00237,0.103,0.3,131.883,3
+Grey to Green,Right By You,studio,Stephen Stills,192773,1984,2,0.873,0.41,0,-16.878,1,0.0339,0.0908,1.89e-05,0.305,0.847,111.923,4
+Guinevere,Another Stoney Evening,studio,David Crosby,382173,1/13/1998,6,0.44,0.268,11,-19.68,0,0.0487,0.798,0.000867,0.711,0.344,96.538,4
+Guinnevere,"Crosby, Stills & Nash",studio,"Crosby, Stills & Nash",277813,5/29/1969,39,0.467,0.0936,11,-19.998,0,0.037,0.817,0.00365,0.113,0.178,113.699,4
+"Guitar Solo, No. 1",Dead Man,soundtrack,Neil Young,318493,1996,25,0.373,0.464,11,-21.47,0,0.121,0.963,0.927,0.358,0.312,103.016,4
+"Guitar Solo, No. 2",Dead Man,soundtrack,Neil Young,122999,1996,21,0.2,0.0999,9,-16.387,1,0.0472,0.864,0.891,0.135,0.0728,168.942,4
+"Guitar Solo, No. 3",Dead Man,soundtrack,Neil Young,270759,1996,19,0.182,0.357,11,-14.278,0,0.0485,0.779,0.842,0.272,0.0717,178.999,4
+"Guitar Solo, No. 4",Dead Man,soundtrack,Neil Young,262199,1996,18,0.18,0.526,4,-15.301,1,0.0488,0.878,0.887,0.107,0.125,178.819,4
+"Guitar Solo, No. 5",Dead Man,soundtrack,Neil Young,880666,1996,28,0.175,0.435,11,-10.898,0,0.0411,0.963,0.883,0.133,0.0733,80.839,4
+"Guitar Solo, No. 6",Dead Man,soundtrack,Neil Young,201973,1996,16,0.163,0.132,9,-25.322,1,0.0741,0.909,0.875,0.115,0.0645,139.237,3
+Half Your Angels,Crosby & Nash,studio,Crosby & Nash,304600,8/10/2004,13,0.399,0.0785,10,-14.099,1,0.0282,0.897,0.000134,0.0967,0.0396,99.657,4
+Handle with Care,Everybody Knows,studio,Stephen Stills,223021,9/22/2017,9,0.547,0.547,7,-6.971,1,0.0306,0.0265,0.0,0.107,0.771,120.979,4
+Hangin' on a Limb,Freedom,studio,Neil Young,259160,1989,22,0.534,0.211,2,-16.463,1,0.0298,0.815,0.000879,0.182,0.418,145.038,4
+Happy Together,Paradox,soundtrack,Neil Young,45786,3/23/2018,5,0.61,0.213,3,-24.557,1,0.923,0.917,0.0,0.379,0.324,115.663,4
+Hard Luck Stories,Landing On Water,studio,Neil Young,248173,7/21/1986,9,0.79,0.851,2,-10.076,1,0.03,0.36,0.0171,0.0579,0.966,114.639,4
+Harvest,Harvest,studio,Neil Young,191630,2/1/1972,43,0.541,0.161,2,-21.089,1,0.0399,0.736,0.000142,0.191,0.28,85.68,4
+Harvest Moon,Harvest Moon,studio,Neil Young,303213,11/2/1992,70,0.648,0.31,2,-12.431,1,0.0264,0.53,0.000231,0.124,0.408,112.938,4
+Harvey's Tune,Super Session,studio,Stephen Stills,127840,1968,20,0.26,0.299,9,-11.258,1,0.0278,0.568,0.807,0.278,0.0638,155.549,4
+Haven't We Lost Enough?,Live It Up,live,"Crosby, Stills & Nash",186906,6/22/1990,30,0.374,0.22,2,-17.06,1,0.0355,0.768,0.0,0.117,0.539,80.098,1
+Hawaii,Hitchhiker,studio,Neil Young,158320,9/8/2017,18,0.475,0.153,7,-19.834,1,0.081,0.768,0.000717,0.258,0.522,150.035,4
+Hawaiian Sunrise,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,166733,11/25/2020,9,0.352,0.246,2,-17.358,1,0.0434,0.941,0.000209,0.566,0.482,203.019,4
+Hawks & Doves,Hawks & Doves,studio,Neil Young,207800,10/29/1980,18,0.517,0.767,2,-7.158,1,0.0308,0.725,0.0207,0.37,0.605,91.633,4
+He Played Real Good for Free,Allies,live,"Crosby, Stills & Nash",239466,6/6/1983,6,0.35,0.0488,0,-22.933,1,0.0409,0.901,2.25e-06,0.753,0.151,86.954,3
+He Was the King,Prairie Wind,studio,Neil Young,367853,9/23/2005,17,0.649,0.635,0,-10.007,1,0.0327,0.00146,4.85e-05,0.255,0.649,126.382,4
+Heart of Gold,Harvest,studio,Neil Young,187110,2/1/1972,74,0.537,0.399,4,-13.547,0,0.0269,0.202,0.0546,0.109,0.832,171.402,4
+Heartland,Looking Forward,studio,"Crosby, Stills, Nash & Young",268866,10/15/1999,21,0.496,0.414,4,-10.309,0,0.0436,0.799,0.0,0.0989,0.356,142.43,4
+Hearts Gate,Man Alive!,studio,Stephen Stills,177893,8/9/2005,0,0.544,0.132,2,-14.597,1,0.0332,0.762,0.0,0.227,0.449,109.958,3
+Heaviosity,Back in Time,studio,Stephen Stills,96515,9/19/1989,0,0.678,0.222,10,-21.794,1,0.951,0.966,0.0,0.126,0.66,88.826,3
+Hello Lonely Woman,Bluenote Cafe,live,Neil Young,290866,11/13/2015,7,0.397,0.829,9,-6.678,1,0.046,0.285,0.0224,0.853,0.658,172.634,4
+Helpless,Deja Vu ,studio,"Crosby, Stills, Nash & Young",217133,3/11/1970,50,0.54,0.26,2,-13.61,1,0.0309,0.86,0.00553,0.134,0.374,114.732,4
+Helpless Heart,Thousand Roads,studio,David Crosby,260426,5/4/1993,10,0.53,0.0953,11,-17.974,1,0.0298,0.759,5.01e-06,0.124,0.0546,85.678,4
+Helplessly Hoping,"Crosby, Stills & Nash",studio,"Crosby, Stills & Nash",157893,5/29/1969,66,0.483,0.159,7,-13.648,1,0.0353,0.914,0.0,0.111,0.423,146.721,4
+Here for You,Prairie Wind,studio,Neil Young,269440,9/23/2005,22,0.695,0.473,2,-11.995,1,0.0287,0.056,2.4e-05,0.0976,0.501,107.091,4
+Here It's Almost Sunset,Sky Trails,studio,David Crosby,232333,9/29/2017,13,0.686,0.274,2,-13.108,1,0.0428,0.729,0.26,0.106,0.31,133.568,4
+Here We Are in the Years,Neil Young,studio,Neil Young,197280,1/22/1969,22,0.405,0.409,2,-12.012,1,0.0372,0.844,5.75e-06,0.0957,0.3,153.182,4
+Hero,Thousand Roads,studio,David Crosby,280240,5/4/1993,32,0.66,0.445,3,-9.715,1,0.0256,0.743,0.000171,0.07,0.409,104.986,4
+Hey,Paradox,soundtrack,Neil Young,198213,3/23/2018,7,0.416,0.615,11,-15.439,0,0.0371,0.00084,0.837,0.29,0.556,110.988,1
+"Hey Babe - March 1, 1977",Neil Young Archives Vol. III Takes,archives,Neil Young,229551,2020,21,0.406,0.318,1,-17.683,1,0.0293,0.431,0.000383,0.802,0.553,169.211,4
+"Hey Hey, My My (Into the Black)",Neil Young Archives Vol. III Takes,archives,Neil Young,568493,2020,18,0.406,0.762,2,-11.987,1,0.0461,0.00999,0.621,0.373,0.533,154.481,4
+Hey You (Looking at the Moon),Wild Tales,studio,Graham Nash,137280,1973,34,0.747,0.32,0,-12.585,1,0.0324,0.147,0.00424,0.061,0.535,107.087,4
+Hippie Dream,Landing On Water,studio,Neil Young,252040,7/21/1986,13,0.721,0.547,9,-10.003,0,0.0424,0.104,0.00957,0.0728,0.544,122.382,4
+His Holy Modal Majesty,Super Session,studio,Mike Bloomfield,552933,1968,20,0.235,0.721,4,-7.317,0,0.0539,0.0168,0.405,0.0835,0.356,62.875,4
+Hit the Road,Fork in the Road,studio,Neil Young,215546,4/3/2009,6,0.49,0.538,11,-8.63,0,0.0317,0.205,0.00156,0.474,0.258,170.268,4
+Hitchhiker,Hitchhiker,studio,Neil Young,277386,9/8/2017,22,0.51,0.27,4,-15.678,0,0.0311,0.477,0.000716,0.0863,0.453,133.943,4
+Hold Back the Tears,Chrome Dreams,studio,Neil Young,315200,8/11/2023,17,0.507,0.201,5,-13.191,1,0.0352,0.603,2.63e-05,0.0827,0.2,118.721,4
+Hold On Tight / Change Partners,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",304293,3/11/1970,10,0.663,0.488,7,-13.958,1,0.0329,0.429,0.00261,0.0883,0.704,79.77,4
+Hold On To Your Love,Trans,live,Neil Young,208200,11/9/1982,17,0.511,0.419,7,-15.779,1,0.0299,0.305,0.514,0.344,0.77,115.742,4
+Holding On to Nothing,Croz,studio,David Crosby,221640,1/28/2014,15,0.714,0.0987,2,-17.124,0,0.046,0.891,0.00141,0.0942,0.0733,127.79,4
+Home Free,Sky Trails,studio,David Crosby,340680,9/29/2017,9,0.506,0.0951,8,-15.036,1,0.0654,0.916,0.000125,0.11,0.156,115.05,4
+Homefires,Before and After,live,Neil Young,124973,12/8/2023,19,0.481,0.288,7,-12.58,1,0.0331,0.797,7.39e-05,0.285,0.334,128.479,4
+Homegrown,Homegrown,studio,Neil Young,167918,6/19/2020,23,0.451,0.369,7,-17.263,1,0.0416,0.279,0.459,0.0833,0.824,164.002,4
+Homeward Through The Haze,Wind on the Water,studio,David Crosby,245840,1975,12,0.486,0.392,10,-11.276,1,0.0393,0.671,0.000766,0.101,0.253,110.155,4
+Horses Through a Rainstorm,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",212933,3/11/1970,12,0.605,0.602,2,-11.736,1,0.0285,0.0127,1.99e-06,0.0666,0.944,122.153,4
+Horseshoe Man,Silver & Gold,studio,Neil Young,240266,4/25/2000,19,0.676,0.236,9,-14.542,1,0.0313,0.67,0.0644,0.117,0.472,93.264,4
+House of Broken Dreams,Live It Up,live,"Crosby, Stills & Nash",200306,6/22/1990,7,0.629,0.223,0,-17.348,1,0.0312,0.36,0.00303,0.189,0.165,77.43,4
+Houses,Everybody Knows,studio,Stephen Stills,276773,9/22/2017,4,0.57,0.343,8,-11.4,1,0.0276,0.809,0.0,0.2,0.17,108.033,4
+How Does It Shine,Crosby & Nash,studio,Crosby & Nash,320680,8/10/2004,12,0.597,0.64,7,-8.734,1,0.034,0.393,0.779,0.05,0.316,128.407,4
+How Have You Been,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills & Nash",224066,3/11/1970,22,0.557,0.14,4,-16.502,1,0.0321,0.888,0.0,0.284,0.204,119.868,3
+How Long?,Paradox,soundtrack,Neil Young,146200,3/23/2018,6,0.867,0.0844,3,-19.195,1,0.0755,0.976,0.0204,0.132,0.441,103.115,4
+Human Highway,Hitchhiker,studio,Neil Young,196933,9/8/2017,19,0.473,0.139,7,-15.442,1,0.033,0.771,0.00132,0.117,0.376,140.365,4
+I Am a Child - Live at the Cellar Door,Live at the Cellar Door,live,Neil Young,163520,12/3/2013,12,0.378,0.509,7,-13.122,1,0.0517,0.581,0.000814,0.691,0.648,157.791,4
+I Am No Artist,Here If You Listen,studio,David Crosby,277466,10/26/2018,17,0.323,0.211,11,-12.457,1,0.0332,0.815,0.000579,0.113,0.154,84.709,5
+I Believe in You,After the Gold Rush,studio,Neil Young,207386,8/31/1970,36,0.472,0.296,1,-11.118,1,0.0296,0.664,0.0,0.0986,0.516,146.967,4
+I Can't Let Go,Right By You,studio,Stephen Stills,251493,1984,6,0.615,0.221,7,-16.814,1,0.0292,0.499,4.2e-05,0.114,0.233,67.357,4
+I Don't Get It,Man Alive!,studio,Stephen Stills,213933,8/9/2005,0,0.836,0.768,0,-3.13,1,0.0307,0.149,0.0,0.117,0.799,130.845,4
+I Give You Give Blind,CSN,studio,"Crosby, Stills & Nash",201160,6/17/1977,25,0.596,0.575,2,-10.777,0,0.0289,0.297,0.0,0.196,0.79,128.639,4
+I Got a Problem,Landing On Water,studio,Neil Young,197453,7/21/1986,9,0.751,0.949,9,-8.271,0,0.0336,0.123,0.167,0.319,0.851,110.915,4
+I Got a Rock,Innocent Eyes,studio,Graham Nash,198026,1986,1,0.694,0.567,0,-13.359,1,0.0325,0.00728,0.00188,0.0808,0.939,116.202,4
+I Miss You,Wild Tales,studio,Graham Nash,186000,1973,17,0.491,0.067,6,-20.105,0,0.043,0.989,0.0928,0.0966,0.192,98.114,4
+I Surrender,Crosby & Nash,studio,Crosby & Nash,254653,8/10/2004,19,0.47,0.175,0,-13.942,1,0.0365,0.841,0.0217,0.0848,0.149,86.122,4
+I Think I,For Free,studio,David Crosby,292000,7/23/2021,23,0.787,0.646,7,-8.164,0,0.0267,0.144,0.34,0.0662,0.462,129.025,4
+I Used to Be a King,Songs For Beginners,studio,Graham Nash,281893,1971,28,0.388,0.519,2,-12.374,0,0.0392,0.0957,8.07e-05,0.0997,0.654,112.737,4
+I Used To... Rap - Live - Canterbury House 1968,Sugar Mountain - Live at Canterbury House 1968,live,Neil Young,37960,11/28/2008,5,0.602,0.207,4,-22.145,0,0.465,0.772,0.00108,0.434,0.418,82.109,5
+I Want to Drive My Car,Storytone,studio,Neil Young,188373,10/31/2014,7,0.437,0.36,2,-10.024,1,0.0292,0.191,0.00401,0.272,0.71,108.027,4
+I Watched It All Come Down,Now,studio,Graham Nash,194760,5/19/2023,8,0.615,0.13,2,-11.982,1,0.0412,0.707,0.000396,0.0903,0.243,147.746,4
+I Won't Stay For Long,For Free,studio,David Crosby,269360,7/23/2021,17,0.668,0.191,11,-12.656,1,0.0375,0.558,0.000339,0.125,0.252,124.003,4
+I Wonder If I Care as Much,A Letter Home,studio,Neil Young,151600,5/19/2014,6,0.69,0.323,11,-13.171,0,0.0817,0.892,3.74e-06,0.12,0.477,109.227,3
+I'd Swear There Was Somebody Here,If I Could Only Remember My Name,studio,David Crosby,79933,2/22/1971,21,0.167,0.162,5,-15.019,1,0.0305,0.911,1.27e-05,0.1,0.0382,77.119,4
+I'll Be There,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",221533,3/11/1970,11,0.433,0.415,0,-13.782,1,0.0313,0.0212,4.02e-06,0.142,0.727,188.221,3
+I'm Glad I Found You,Storytone,studio,Neil Young,219560,10/31/2014,7,0.227,0.186,7,-13.237,1,0.0351,0.971,0.00805,0.17,0.236,175.661,3
+I'm Goin',Bluenote Cafe,live,Neil Young,334106,11/13/2015,6,0.51,0.879,9,-6.759,1,0.0565,0.0582,0.476,0.991,0.394,117.95,4
+I'm the Ocean,Mirror Ball,studio,Neil Young,425960,8/7/1995,33,0.395,0.8,7,-10.102,1,0.0319,0.0214,0.276,0.122,0.533,147.055,4
+I've Been Waiting for You,Neil Young,studio,Neil Young,151320,1/22/1969,28,0.552,0.716,4,-8.698,0,0.0256,0.0993,0.0562,0.44,0.717,100.352,4
+I've Loved Her so Long,Neil Young,studio,Neil Young,166120,1/22/1969,22,0.416,0.265,10,-13.992,1,0.0295,0.867,0.0179,0.159,0.448,81.842,4
+If Anybody Had a Heart,Live It Up,live,"Crosby, Stills & Nash",268266,6/22/1990,22,0.409,0.57,4,-10.49,1,0.0295,0.0175,3.3e-06,0.253,0.721,184.163,4
+If I Could Have Her Tonight,Neil Young,studio,Neil Young,140093,1/22/1969,23,0.583,0.578,7,-11.392,1,0.0249,0.0465,0.0322,0.205,0.874,96.8,4
+If She Called,Croz,studio,David Crosby,299306,1/28/2014,11,0.336,0.117,11,-15.527,1,0.036,0.867,0.0211,0.108,0.0532,180.201,4
+If You Could Read My Mind,A Letter Home,studio,Neil Young,244040,5/19/2014,11,0.59,0.296,2,-14.57,1,0.0415,0.933,0.00412,0.207,0.34,123.128,4
+If You Got Love,Before and After,live,Neil Young,212573,12/8/2023,17,0.397,0.143,0,-15.627,1,0.0338,0.947,0.0343,0.11,0.225,113.615,4
+Immigration Man,Graham Nash & David Crosby,studio,Graham Nash,178906,1972,36,0.491,0.887,7,-7.433,1,0.0449,0.25,0.0,0.221,0.694,87.998,4
+In A Dream,Now,studio,Graham Nash,134466,5/19/2023,10,0.372,0.185,1,-12.197,1,0.0371,0.701,6.93e-06,0.205,0.255,94.877,4
+In My Dreams,CSN,studio,"Crosby, Stills & Nash",311840,6/17/1977,28,0.594,0.228,0,-18.222,1,0.0391,0.55,0.000221,0.116,0.365,116.947,4
+In My Life,After the Storm,studio,"Crosby, Stills & Nash",140573,8/16/1994,29,0.465,0.0959,9,-17.131,0,0.0565,0.902,0.0,0.0445,0.218,173.89,4
+In The Way,Stills,studio,Stephen Stills,217133,1975,11,0.575,0.559,7,-16.162,1,0.0391,0.576,0.00906,0.0752,0.76,155.913,4
+In The Wide Ruin,Oh Yes I Can,studio,David Crosby,286840,1/23/1989,3,0.335,0.159,7,-16.342,1,0.0334,0.516,0.00518,0.112,0.0782,136.549,4
+In Your Name,CSN 2012,live,"Crosby, Stills & Nash",306506,7/10/2012,8,0.465,0.22,4,-22.748,1,0.177,0.779,3.82e-06,0.189,0.434,95.344,3
+Indian Givers,Peace Trail,studio,Neil Young,341080,12/2/2016,12,0.561,0.389,9,-17.271,0,0.0451,0.411,0.000337,0.0951,0.638,147.951,4
+Innocent Eyes,Innocent Eyes,studio,Graham Nash,190306,1986,10,0.596,0.618,4,-11.339,0,0.0292,0.167,2.56e-06,0.0836,0.897,129.738,4
+Into the Darkness,Daylight Again,studio,"Crosby, Stills & Nash",201413,6/21/1982,21,0.748,0.561,0,-11.735,1,0.0293,0.162,0.00128,0.0736,0.96,97.46,4
+Intro - Live,ROXY: Tonight's the Night Live,live,Neil Young,50773,4/21/2018,10,0.243,0.626,2,-17.631,1,0.62,0.772,0.00539,0.982,0.162,170.374,4
+Isn't It About Time,Live At Shepherd's Bush,live,Stephen Stills,312146,10/27/2009,4,0.347,0.824,2,-12.506,1,0.203,0.218,0.00167,0.328,0.621,177.371,4
+It Feels Like Home,Now,studio,Graham Nash,225013,5/19/2023,9,0.72,0.476,2,-6.377,1,0.0302,0.523,4.45e-06,0.375,0.534,106.914,4
+"It Takes a Lot to Laugh, It Takes a Train to Cry",Super Session,studio,Al Kooper,209600,1968,25,0.45,0.7,0,-9.477,1,0.0274,0.000424,5.37e-05,0.277,0.819,93.898,4
+It Won't Go Away,After the Storm,studio,"Crosby, Stills & Nash",257239,8/16/1994,9,0.763,0.643,6,-9.183,0,0.0398,0.22,9.5e-06,0.139,0.749,131.604,4
+It's a Dream,Prairie Wind,studio,Neil Young,389426,9/23/2005,25,0.412,0.329,0,-13.316,1,0.0292,0.443,0.0643,0.152,0.152,107.327,3
+Ivory Tower,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",231866,3/11/1970,13,0.602,0.48,7,-13.644,1,0.0292,0.0558,0.0,0.109,0.67,80.449,4
+J.B.'s Blues,Whistling Down the Wire,studio,David Crosby,161506,1976,4,0.675,0.502,7,-10.361,1,0.0316,0.478,0.0193,0.116,0.895,92.458,4
+Janet,Here If You Listen,studio,David Crosby,207013,10/26/2018,8,0.738,0.202,5,-10.153,1,0.0366,0.815,0.0,0.104,0.604,111.915,4
+Jesus of Rio,Crosby & Nash,studio,Crosby & Nash,252093,8/10/2004,16,0.708,0.327,5,-11.593,1,0.0306,0.865,5.25e-06,0.118,0.318,94.001,4
+John Oaks,Peace Trail,studio,Neil Young,312080,12/2/2016,11,0.668,0.315,0,-16.707,1,0.065,0.517,1.23e-05,0.102,0.588,142.826,4
+Johnny Magic,Fork in the Road,studio,Neil Young,257853,4/3/2009,8,0.485,0.904,9,-7.719,1,0.0356,0.00747,0.000729,0.206,0.446,136.049,4
+Johnny's Garden,Live At Shepherd's Bush,live,Stephen Stills,195253,10/27/2009,7,0.401,0.153,0,-20.965,1,0.309,0.719,0.0,0.692,0.637,167.197,4
+Journey Through the Past,Time Fades Away,live,Neil Young,198199,10/15/1973,24,0.39,0.0382,2,-20.881,1,0.0438,0.964,1.02e-06,0.929,0.227,173.388,4
+Judy,Everybody Knows,studio,Stephen Stills,242986,9/22/2017,6,0.5,0.608,7,-8.949,1,0.0282,0.242,2.11e-05,0.166,0.526,178.478,4
+Just a Song Before I Go,CSN,studio,"Crosby, Stills & Nash",133960,6/17/1977,56,0.671,0.233,11,-18.003,0,0.0378,0.875,0.00016,0.12,0.486,108.065,4
+Just Singing a Song,Fork in the Road,studio,Neil Young,211346,4/3/2009,8,0.166,0.68,9,-8.221,0,0.0379,0.0169,0.000191,0.181,0.326,200.018,4
+Kansas,Homegrown,studio,Neil Young,131745,6/19/2020,17,0.52,0.0143,7,-28.015,1,0.0399,0.903,0.00372,0.111,0.226,117.499,4
+Keep Away from Me,Innocent Eyes,studio,Graham Nash,212026,1986,2,0.589,0.92,0,-10.62,1,0.0354,0.0542,1.28e-05,0.0616,0.803,96.108,4
+Kids And Dogs,If I Could Only Remember My Name,studio,David Crosby,187573,1971,8,0.467,0.11,1,-17.2,1,0.0401,0.878,0.757,0.109,0.287,79.134,5
+King Midas in Reverse,4 Way Street,live,"Crosby, Stills, Nash & Young",223266,4/7/1971,22,0.419,0.55,1,-13.016,1,0.28,0.689,0.0,0.702,0.464,155.204,4
+Know You Got to Run,Stephen Stills 2,studio,Stephen Stills,230506,1971,19,0.493,0.343,0,-16.578,1,0.0296,0.152,0.0,0.392,0.418,146.772,4
+L.A.,Time Fades Away,live,Neil Young,190453,10/15/1973,23,0.581,0.436,0,-13.846,1,0.0299,0.227,0.00443,0.733,0.512,149.059,4
+Lady of The Harbor,Oh Yes I Can,studio,David Crosby,199186,1/23/1989,3,0.589,0.272,7,-15.533,1,0.04,0.781,0.00123,0.0825,0.266,72.88,4
+Lady of the Island,"Crosby, Stills & Nash",studio,"Crosby, Stills & Nash",156253,5/29/1969,35,0.438,0.0169,5,-24.365,0,0.0462,0.968,0.00124,0.138,0.123,127.816,1
+Lady Wingshot (with The Gone With The Wind Orchestra),Neil Young Archives Vol. III Takes,archives,Neil Young,199040,2020,21,0.422,0.545,9,-9.453,1,0.0286,0.798,1.27e-05,0.462,0.439,54.296,4
+Last Dance,Time Fades Away,live,Neil Young,524125,10/15/1973,20,0.34,0.622,9,-9.915,1,0.0345,0.395,0.0332,0.0848,0.535,161.207,4
+Last of His Kind,Neil Young Archives Vol. III Takes,archives,Neil Young,228493,2020,14,0.586,0.0715,7,-18.435,1,0.0315,0.731,0.00234,0.0788,0.239,79.18,4
+Late Bloomer,Back in Time,studio,Stephen Stills,105391,9/19/1989,0,0.677,0.2,1,-23.702,1,0.919,0.968,0.0,0.209,0.402,128.479,3
+Laughing,If I Could Only Remember My Name,studio,David Crosby,325600,2/22/1971,31,0.259,0.394,2,-12.557,1,0.0289,0.00158,0.00228,0.0814,0.405,141.296,4
+Lay Me Down,Crosby & Nash,studio,Crosby & Nash,216400,8/10/2004,41,0.59,0.4,10,-10.599,0,0.0248,0.884,2.59e-06,0.125,0.249,93.056,4
+Lean On Me,Live at Berkeley 1971,live,Stephen Stills,198367,4/28/2023,6,0.454,0.939,10,-7.805,1,0.177,0.0116,0.00557,0.987,0.547,123.762,4
+Lee Shore,Another Stoney Evening,studio,David Crosby,292413,1/13/1998,12,0.344,0.18,4,-19.96,0,0.105,0.565,0.0,0.367,0.398,73.553,4
+Let It Shine,Long May You Run,studio,The Stills-Young Band,286213,1976-20-09,12,0.413,0.596,4,-9.331,1,0.026,0.125,0.0123,0.382,0.645,156.87,4
+Let's Impeach the President,Living with War,studio,Neil Young,307306,5/2/2006,13,0.561,0.654,4,-9.33,1,0.0305,0.000233,0.0,0.325,0.23,119.33,4
+Letter from 'Nam,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,215600,11/25/2020,16,0.515,0.159,0,-12.931,1,0.0289,0.85,4.56e-05,0.115,0.342,108.771,3
+Liar's Nightmare,Reflections,box set,Graham Nash,494853,2009,3,0.602,0.261,2,-13.942,0,0.0388,0.724,0.000124,0.845,0.623,98.362,3
+Life in the City,Bluenote Cafe,live,Neil Young,231626,11/13/2015,8,0.385,0.955,9,-5.591,1,0.0802,0.00139,0.000838,0.717,0.273,148.926,4
+Light a Candle,Fork in the Road,studio,Neil Young,180240,4/3/2009,15,0.559,0.157,4,-17.722,0,0.0393,0.886,0.000603,0.111,0.28,131.565,4
+Like a Hurricane,Unplugged,live,Neil Young,284306,1993,35,0.216,0.297,0,-14.59,1,0.0403,0.9,0.124,0.747,0.0972,91.944,4
+Like An Inca,Trans,live,Neil Young,586226,11/9/1982,19,0.639,0.473,7,-15.862,1,0.0349,0.35,4.11e-05,0.259,0.948,128.292,4
+Like You Used to Do,Storytone,studio,Neil Young,159760,10/31/2014,5,0.589,0.464,11,-9.868,0,0.0382,0.156,1.33e-06,0.22,0.677,105.162,4
+Little Thing Called Love,Trans,live,Neil Young,193173,11/9/1982,22,0.509,0.698,7,-13.34,1,0.0342,0.113,0.00065,0.708,0.906,140.268,4
+Little Wing,Hawks & Doves,studio,Neil Young,133080,10/29/1980,23,0.5,0.135,10,-18.049,1,0.0319,0.87,0.0284,0.259,0.342,137.509,4
+Live It Up,Live It Up,live,"Crosby, Stills & Nash",235533,6/22/1990,10,0.806,0.858,0,-9.25,1,0.0432,0.28,5.63e-05,0.134,0.957,121.365,4
+Live On (The Wall),Crosby & Nash,studio,Crosby & Nash,201866,8/10/2004,12,0.589,0.106,2,-13.862,0,0.0337,0.932,0.000142,0.293,0.0599,69.683,4
+Living with War,Living with War,studio,Neil Young,303506,5/2/2006,16,0.511,0.548,4,-9.977,1,0.0274,0.0339,0.144,0.126,0.231,112.965,4
+Long May You Run,Long May You Run,studio,The Stills-Young Band,236413,1976-20-09,37,0.565,0.482,2,-9.535,1,0.026,0.117,2.2e-05,0.112,0.697,146.168,4
+Long Time Gone,"Crosby, Stills & Nash",studio,"Crosby, Stills & Nash",256653,5/29/1969,49,0.595,0.366,2,-11.848,1,0.0346,0.455,0.000479,0.11,0.362,106.604,4
+Look in Their Eyes,Lighthouse,studio,David Crosby,279360,10/21/2016,9,0.822,0.208,2,-13.147,1,0.0576,0.834,4.45e-05,0.0692,0.251,104.986,4
+Look Out For My Love,Comes a Time,studio,Neil Young,244946,10/4/1978,32,0.726,0.288,2,-14.738,1,0.0385,0.407,1.41e-05,0.252,0.517,121.885,4
+Lookin' for a Leader,Living with War,studio,Neil Young,242200,5/2/2006,11,0.558,0.62,8,-11.475,0,0.0267,0.000531,0.0,0.334,0.523,140.489,4
+Lookin' for a Love,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,198720,11/25/2020,7,0.522,0.475,4,-9.723,1,0.0299,0.226,7.21e-06,0.281,0.763,141.623,4
+Looking for a Leader,Deja Vu Live,live,"Crosby, Stills, Nash & Young",235573,7/22/2008,19,0.417,0.696,8,-8.789,0,0.032,0.334,8.25e-06,0.957,0.454,150.377,4
+Looking Forward,Looking Forward,studio,"Crosby, Stills, Nash & Young",187466,10/15/1999,27,0.494,0.27,7,-14.63,1,0.0281,0.778,0.000285,0.117,0.375,165.969,4
+Lookout Joe,Tonight's the Night,live,Neil Young,233751,6/1/1975,28,0.65,0.317,2,-11.348,1,0.0315,0.331,0.0443,0.12,0.349,79.142,4
+Lost in Space,Hawks & Doves,studio,Neil Young,257893,10/29/1980,17,0.701,0.169,5,-14.556,1,0.036,0.818,0.000111,0.223,0.4,109.038,4
+Lotta Love,Comes a Time,studio,Neil Young,157840,10/4/1978,38,0.69,0.282,2,-15.847,1,0.03,0.122,1.13e-06,0.0719,0.602,106.697,4
+Love Again,Right By You,studio,Stephen Stills,229693,1984,2,0.776,0.629,7,-14.606,1,0.036,0.0623,0.0954,0.0706,0.942,144.967,4
+Love and War,Le Noise,studio,Neil Young,333853,9/24/2010,23,0.494,0.276,7,-14.421,1,0.0327,0.934,0.00294,0.12,0.154,115.607,4
+Love Is a Rose,Homegrown,studio,Neil Young,137237,6/19/2020,22,0.537,0.251,7,-16.56,1,0.04,0.719,0.0,0.112,0.68,136.845,4
+Love Is the Reason,Reflections,box set,Graham Nash,212186,2009,5,0.563,0.343,9,-10.957,1,0.0242,0.358,1.07e-05,0.265,0.442,96.463,3
+Love of Mine,Now,studio,Graham Nash,166733,5/19/2023,13,0.633,0.098,9,-13.651,1,0.0535,0.956,0.00031,0.0987,0.337,156.962,4
+Love Story,Stills,studio,Stephen Stills,253800,1975,8,0.323,0.364,5,-15.807,1,0.0632,0.44,5.29e-05,0.11,0.338,84.223,4
+Love the One You're With,Stephen Stills,studio,Stephen Stills,184733,1970,49,0.566,0.527,0,-11.216,1,0.034,0.03,3.25e-06,0.115,0.157,97.281,4
+Love Work Out,Wind on the Water,studio,David Crosby,290800,1975,13,0.533,0.712,9,-9.474,0,0.0307,0.108,0.00235,0.254,0.611,82.658,4
+Love/Art Blues - 6/15/74,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,146760,11/25/2020,9,0.602,0.172,0,-15.151,1,0.0297,0.787,2.99e-05,0.114,0.414,96.672,4
+Low Down Payment,Wind on the Water,studio,David Crosby,295293,1975,8,0.372,0.486,7,-11.605,1,0.0382,0.567,0.0498,0.738,0.513,150.695,4
+Lowdown,Thoroughfare Gap,studio,Stephen Stills,228573,12/15/1978,4,0.427,0.549,7,-12.254,1,0.0595,0.0098,0.000232,0.372,0.388,144.767,4
+Luck Dragon,Crosby & Nash,studio,Crosby & Nash,284880,8/10/2004,12,0.697,0.442,7,-9.895,0,0.0297,0.599,0.00855,0.112,0.154,124.875,4
+Magical Child,Reflections,box set,Graham Nash,221400,2009,4,0.478,0.209,7,-13.876,1,0.0324,0.918,0.000758,0.193,0.354,145.095,3
+Make Love to You,Long May You Run,studio,The Stills-Young Band,416599,1976-20-09,4,0.216,0.744,8,-11.146,1,0.11,0.293,2.19e-05,0.556,0.46,93.381,4
+Mama Lion,Wind on the Water,studio,David Crosby,196160,1975,12,0.48,0.62,4,-10.592,0,0.0432,0.423,0.00803,0.11,0.556,125.519,3
+Man in the Mirror,Songs For Beginners,studio,Graham Nash,168960,1971,21,0.483,0.25,7,-12.737,1,0.036,0.588,0.0,0.14,0.478,115.224,3
+Man's Temptation,Super Session,studio,Mike Bloomfield,204693,1968,20,0.614,0.524,5,-9.446,1,0.0285,0.114,4.07e-06,0.158,0.607,89.596,4
+Many Moons Ago in the Future,Paradox,soundtrack,Neil Young,29826,3/23/2018,0,0.369,0.274,4,-21.746,1,0.192,0.967,0.0055,0.305,0.646,90.308,4
+Marguerita,Whistling Down the Wire,studio,David Crosby,253160,1976,5,0.622,0.314,4,-14.197,0,0.0289,0.595,0.0166,0.105,0.317,106.684,3
+Marianne,Stephen Stills 2,studio,Stephen Stills,149600,1971,27,0.54,0.699,2,-10.17,1,0.0323,0.457,3.76e-05,0.33,0.636,145.491,4
+Marrakesh Express,"Crosby, Stills & Nash",studio,"Crosby, Stills & Nash",156680,5/29/1969,48,0.571,0.557,7,-15.439,1,0.211,0.138,0.000203,0.381,0.747,107.953,4
+Married Man,Bluenote Cafe,live,Neil Young,185040,11/13/2015,6,0.515,0.844,6,-7.904,0,0.0623,0.0479,0.00566,0.972,0.528,124.147,4
+Mediterranean,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,156373,11/25/2020,6,0.468,0.14,0,-18.403,1,0.0543,0.775,0.0747,0.122,0.22,163.045,4
+Medley,4 Way Street,live,"Crosby, Stills, Nash & Young",580666,4/7/1971,27,0.458,0.407,8,-12.981,1,0.0503,0.494,0.000253,0.941,0.411,140.527,4
+Medley Crossroads You Can't Catch,Bread and Roses Festival (Live),live,Stephen Stills,441893,9/4/1978,1,0.413,0.534,1,-11.245,1,0.0455,0.586,0.00236,0.727,0.531,154.803,4
+Mellow My Mind,Tonight's the Night,live,Neil Young,190954,6/1/1975,32,0.502,0.285,7,-13.487,1,0.0269,0.304,2.87e-06,0.0788,0.42,140.797,4
+Melody,Oh Yes I Can,studio,David Crosby,244653,1/23/1989,5,0.592,0.555,5,-11.728,1,0.0359,0.376,0.00534,0.101,0.641,89.21,4
+Mexico,Homegrown,studio,Neil Young,100709,6/19/2020,18,0.359,0.0143,11,-22.592,0,0.0571,0.977,0.00019,0.0804,0.309,79.964,4
+Michael (Hedges Here),Crosby & Nash,studio,Crosby & Nash,160906,8/10/2004,10,0.41,0.0864,2,-15.563,1,0.0382,0.919,0.000231,0.0883,0.0737,101.831,3
+Midnight in Paris,Illegal Stills,studio,Stephen Stills,239333,1976,7,0.622,0.707,0,-9.945,1,0.0405,0.413,0.00121,0.0703,0.835,134.166,4
+Midnight on the Bay,Long May You Run,studio,The Stills-Young Band,242573,1976-20-09,20,0.557,0.337,2,-13.268,1,0.0354,0.537,0.0943,0.1,0.454,150.162,4
+Midnight Rider,Thoroughfare Gap,studio,Stephen Stills,222000,12/15/1978,6,0.539,0.464,7,-12.862,1,0.042,0.268,0.0283,0.167,0.619,82.967,4
+Might as Well Have a Good Time,Daylight Again,studio,"Crosby, Stills & Nash",265733,6/21/1982,23,0.475,0.142,7,-15.15,1,0.0391,0.961,0.0089,0.115,0.275,134.515,4
+Military Madness,Songs For Beginners,studio,Graham Nash,176666,1971,38,0.582,0.572,0,-10.711,1,0.0328,0.323,0.0,0.0541,0.506,120.376,4
+Milky Way Tonight,Crosby & Nash,studio,Crosby & Nash,204160,8/10/2004,13,0.638,0.324,7,-10.698,0,0.0266,0.258,5.39e-06,0.159,0.179,109.093,4
+Misfits,Old Ways,studio,Neil Young,305133,8/12/1985,17,0.523,0.265,5,-11.415,1,0.0301,0.242,6.04e-05,0.148,0.529,92.106,4
+Mississippi Burning,This Path Tonight,studio,Graham Nash,164300,2016,10,0.633,0.343,10,-12.722,0,0.0492,0.653,0.0,0.224,0.76,162.968,4
+Monday Morning,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,167200,11/25/2020,15,0.459,0.263,4,-13.334,0,0.077,0.656,0.000122,0.114,0.292,155.624,4
+Monkey and the Underdog,Oh Yes I Can,studio,David Crosby,255920,1/23/1989,4,0.8,0.678,0,-9.438,0,0.0388,0.105,2.06e-06,0.089,0.796,105.843,4
+Morning Falling,Croz,studio,David Crosby,221573,1/28/2014,11,0.501,0.302,5,-13.429,0,0.0429,0.863,0.305,0.0597,0.117,79.19,1
+Mother Earth,Before and After,live,Neil Young,223173,12/8/2023,16,0.258,0.16,9,-16.26,1,0.0398,0.96,0.0781,0.137,0.104,100.068,4
+Motion Pictures,On the Beach,studio,Neil Young,263106,7/16/1974,38,0.511,0.166,0,-15.443,1,0.0308,0.464,0.233,0.0919,0.178,113.882,4
+Motorcycle Mama,Comes a Time,studio,Neil Young,190426,10/4/1978,26,0.602,0.338,9,-13.565,1,0.0406,0.407,0.000472,0.0849,0.76,114.059,4
+Music Is Love,If I Could Only Remember My Name,studio,David Crosby,202573,2/22/1971,35,0.482,0.28,1,-14.97,1,0.0264,0.228,0.0,0.0888,0.359,90.985,4
+Mutiny,Whistling Down the Wire,studio,David Crosby,285200,1976,6,0.599,0.608,4,-10.904,0,0.0537,0.188,0.0373,0.0727,0.838,76.609,4
+My Angel,Stills,studio,Stephen Stills,138560,1975,13,0.616,0.606,0,-17.288,1,0.083,0.364,0.265,0.247,0.801,123.582,4
+My Boy,Old Ways,studio,Neil Young,217266,8/12/1985,19,0.527,0.422,10,-11.547,1,0.0271,0.288,0.00475,0.102,0.312,74.441,4
+My Country Tis Of Thee,Oh Yes I Can,studio,David Crosby,114866,1/23/1989,4,0.45,0.102,0,-17.24,1,0.0423,0.774,0.000103,0.0951,0.17,84.935,4
+My Favorite Changes,Stills,studio,Stephen Stills,173200,1975,17,0.61,0.507,0,-14.843,1,0.0264,0.0916,0.354,0.225,0.623,107.245,4
+My Heart,Before and After,live,Neil Young,181480,12/8/2023,16,0.503,0.0644,0,-20.025,1,0.0722,0.986,0.00364,0.15,0.0958,96.104,4
+My Hometown,A Letter Home,studio,Neil Young,248080,5/19/2014,8,0.558,0.276,9,-13.908,1,0.0513,0.899,0.00246,0.134,0.445,120.689,4
+My New Robot,Peace Trail,studio,Neil Young,153960,12/2/2016,10,0.554,0.285,2,-17.889,1,0.0432,0.678,0.000407,0.169,0.634,142.012,4
+My Pledge,Peace Trail,studio,Neil Young,234480,12/2/2016,15,0.583,0.282,0,-17.39,1,0.0604,0.616,1.35e-06,0.096,0.55,141.078,4
+Myself at Last,This Path Tonight,studio,Graham Nash,317629,2016,28,0.608,0.111,7,-18.526,1,0.039,0.887,0.0411,0.135,0.132,133.947,4
+Myth of Sisyphus,Stills,studio,Stephen Stills,253733,1975,8,0.448,0.21,0,-16.663,1,0.0307,0.649,0.796,0.0791,0.13,107.841,4
+Naked In The Rain,Wind on the Water,studio,David Crosby,149706,1975,17,0.629,0.222,7,-16.339,1,0.0268,0.78,0.000384,0.0907,0.358,84.995,4
+Name of Love,American Dream,studio,"Crosby, Stills, Nash & Young",252533,11/11/1988,22,0.601,0.468,10,-13.095,1,0.0283,0.0116,0.000758,0.0751,0.64,115.825,4
+Natalie,Thousand Roads,studio,David Crosby,295066,5/4/1993,12,0.52,0.18,4,-16.039,1,0.0266,0.556,5.1e-05,0.107,0.21,83.942,4
+Natural Beauty,Harvest Moon,studio,Neil Young,623266,11/2/1992,38,0.49,0.374,4,-12.969,0,0.0271,0.629,0.0705,0.259,0.231,117.197,4
+Needle of Death,A Letter Home,studio,Neil Young,297266,5/19/2014,11,0.44,0.346,3,-13.856,1,0.0327,0.921,0.647,0.115,0.482,137.441,4
+Never War,Back in Time,studio,Stephen Stills,101225,9/19/1989,0,0.729,0.227,0,-24.227,1,0.936,0.963,0.0,0.217,0.436,100.48,3
+New Mama,Stills,studio,Stephen Stills,150706,1975,14,0.557,0.446,0,-13.902,1,0.0253,0.564,0.014,0.0979,0.679,83.004,4
+Newday,Innocent Eyes,studio,Graham Nash,201293,1986,1,0.571,0.862,6,-11.499,0,0.127,0.153,7.51e-05,0.206,0.657,142.839,4
+Night Song,American Dream,studio,"Crosby, Stills, Nash & Young",253066,11/11/1988,14,0.609,0.622,4,-14.34,0,0.0295,0.194,0.000293,0.148,0.55,109.722,4
+Nighttime for Generals,American Dream,studio,"Crosby, Stills, Nash & Young",249560,11/11/1988,18,0.621,0.784,9,-12.575,0,0.0321,0.0188,0.00423,0.207,0.685,105.292,4
+No Hidden Path,Chrome Dreams II,studio,Neil Young,870293,10/22/2007,13,0.446,0.597,2,-11.24,1,0.0258,0.000655,0.542,0.305,0.348,87.889,4
+No Hiding Place,Right By You,studio,Stephen Stills,241533,1984,2,0.617,0.336,7,-17.151,1,0.0371,0.0437,0.0,0.273,0.459,103.682,4
+No Me Niegas,Illegal Stills,studio,Stephen Stills,211626,1976,6,0.636,0.643,0,-11.565,0,0.0296,0.588,0.00374,0.699,0.882,137.213,4
+No More,Freedom,studio,Neil Young,366266,1989,21,0.687,0.571,2,-9.949,0,0.0313,0.0864,0.00536,0.202,0.387,114.923,4
+No One Seems to Know,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,147800,11/25/2020,8,0.511,0.149,0,-16.513,1,0.0393,0.969,0.244,0.0997,0.16,103.576,4
+No Problem,Right By You,studio,Stephen Stills,255973,1984,2,0.788,0.645,0,-14.821,1,0.0608,0.005,0.217,0.0193,0.881,115.108,4
+No Tears Left,Looking Forward,studio,"Crosby, Stills, Nash & Young",306933,10/15/1999,18,0.458,0.774,7,-8.357,1,0.0418,0.0807,2.36e-06,0.3,0.778,170.085,4
+No Wonder,Prairie Wind,studio,Neil Young,345560,9/23/2005,20,0.476,0.458,7,-10.877,1,0.0245,0.0796,0.016,0.0906,0.308,83.886,4
+Nobody's Story,Dead Man,soundtrack,Neil Young,395733,1996,16,0.351,0.288,4,-16.962,0,0.0877,0.654,0.0389,0.113,0.274,167.15,5
+Not Fade Away,Thoroughfare Gap,studio,Stephen Stills,210066,12/15/1978,4,0.56,0.681,9,-13.183,1,0.0437,0.0221,0.00214,0.0591,0.929,96.733,4
+Nothin' to Do but Today,Stephen Stills 2,studio,Stephen Stills,163573,1971,30,0.828,0.785,7,-7.796,1,0.0318,0.661,0.139,0.0726,0.939,111.98,4
+Nowadays Clancy Can't Even Sing - Live - Canterbury House 1968,Sugar Mountain - Live at Canterbury House 1968,live,Neil Young,283333,11/28/2008,9,0.408,0.327,0,-11.273,1,0.044,0.907,1.57e-06,0.685,0.283,84.071,4
+Ocean Girl,Long May You Run,studio,The Stills-Young Band,203720,1976-20-09,9,0.661,0.484,7,-10.597,1,0.0252,0.659,0.0127,0.0841,0.766,87.101,4
+Off the Road,Fork in the Road,studio,Neil Young,201613,4/3/2009,6,0.616,0.14,5,-16.468,1,0.0317,0.618,0.171,0.111,0.0803,77.511,4
+Offerings,Paradox,soundtrack,Neil Young,50760,3/23/2018,6,0.512,0.0692,0,-16.685,1,0.047,0.723,0.00108,0.145,0.782,76.252,3
+Oh Yes I Can,Oh Yes I Can,studio,David Crosby,308426,1/23/1989,4,0.435,0.201,8,-14.146,1,0.0385,0.638,6.17e-06,0.179,0.175,117.397,4
+Oh! Camil (The Winter Song),Wild Tales,studio,Graham Nash,174720,1973,20,0.6,0.313,7,-15.263,1,0.0337,0.467,7.15e-06,0.157,0.705,96.56,3
+"Oh, Lonesome Me",After the Gold Rush,studio,Neil Young,228880,8/31/1970,35,0.397,0.353,9,-10.088,1,0.0313,0.881,7.01e-06,0.354,0.325,117.091,3
+Ohio (CSNY),4 Way Street,live,"Crosby, Stills, Nash & Young",214133,4/7/1971,26,0.273,0.782,2,-7.928,0,0.0372,0.0274,1.42e-06,0.932,0.677,161.686,4
+Ohio (Neil Young),The Times,live,Neil Young,169573,9/16/2020,4,0.51,0.333,2,-7.653,0,0.0475,0.825,0.000635,0.146,0.645,143.187,4
+Old King,Harvest Moon,studio,Neil Young,177000,11/2/1992,36,0.534,0.43,7,-11.625,1,0.0314,0.371,0.00439,0.0458,0.874,168.231,4
+Old Laughing Lady,Songs for Judy,live,Neil Young,318146,11/30/2018,10,0.243,0.486,7,-9.909,1,0.0301,0.348,5.74e-06,0.988,0.293,171.548,4
+Old Man,Harvest,studio,Neil Young,204779,2/1/1972,60,0.697,0.184,4,-18.557,0,0.0388,0.431,0.00861,0.248,0.445,141.106,4
+Old Man Trouble,Bread and Roses Festival (Live),live,Stephen Stills,480253,9/4/1978,0,0.36,0.24,11,-13.01,1,0.0323,0.903,1.87e-06,0.929,0.196,126.434,3
+Old Soldier,Thousand Roads,studio,David Crosby,298666,5/4/1993,12,0.497,0.104,2,-19.555,1,0.0346,0.779,0.00963,0.113,0.196,124.021,3
+Old Times Good Times,Stephen Stills,studio,Stephen Stills,219173,1970,26,0.523,0.797,5,-9.907,1,0.071,0.241,0.284,0.182,0.566,132.543,4
+Old Ways,Old Ways,studio,Neil Young,188026,8/12/1985,17,0.689,0.489,5,-10.747,1,0.0274,0.158,0.000198,0.122,0.801,137.92,4
+Ole Man Trouble,Man Alive!,studio,Stephen Stills,295000,8/9/2005,0,0.366,0.526,10,-5.178,1,0.0296,0.317,8.76e-06,0.101,0.564,144.539,3
+On Broadway,Freedom,studio,Neil Young,299040,1989,19,0.598,0.643,2,-11.086,1,0.0274,0.00162,0.0735,0.0685,0.576,106.893,4
+On Thatcher,Back in Time,studio,Stephen Stills,116389,9/19/1989,0,0.71,0.209,11,-23.702,0,0.9,0.954,0.0,0.204,0.503,116.875,4
+On the Beach,On the Beach,studio,Neil Young,419013,7/16/1974,46,0.683,0.311,9,-13.54,0,0.0342,0.566,0.0367,0.113,0.401,116.96,4
+On the Line,Wild Tales,studio,Graham Nash,156693,1973,27,0.634,0.45,9,-10.449,1,0.0338,0.337,2.19e-05,0.223,0.659,113.165,4
+On the Road Again,A Letter Home,studio,Neil Young,142586,5/19/2014,8,0.5,0.517,0,-9.94,1,0.032,0.9,3.85e-05,0.175,0.388,101.387,4
+On the Way Home,Before and After,live,Neil Young,194706,12/8/2023,20,0.591,0.188,0,-13.939,1,0.0285,0.754,2.04e-05,0.127,0.352,92.619,4
+Once An Angel,Old Ways,studio,Neil Young,234200,8/12/1985,18,0.525,0.272,0,-12.123,1,0.0258,0.455,2.55e-05,0.0749,0.242,86.894,4
+One Moment At A Time,Bread and Roses Festival (Live),live,Stephen Stills,308560,9/4/1978,1,0.439,0.382,11,-16.032,1,0.151,0.859,2.13e-05,0.941,0.42,77.299,3
+One More Sign,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,183706,11/25/2020,8,0.404,0.0727,7,-16.371,1,0.0421,0.978,0.00107,0.091,0.296,78.51,4
+One of These Days,Harvest Moon,studio,Neil Young,297840,11/2/1992,43,0.631,0.179,2,-17.321,1,0.034,0.823,0.00219,0.105,0.295,114.794,4
+One Thing,Bluenote Cafe,live,Neil Young,401533,11/13/2015,7,0.331,0.387,9,-10.332,0,0.0414,0.757,0.0178,0.965,0.19,95.036,4
+Only Love Can Break Your Heart,Right By You,studio,Stephen Stills,191626,1984,4,0.768,0.143,10,-16.874,1,0.0404,0.339,0.0,0.0962,0.452,105.284,3
+Only Waiting for You,After the Storm,studio,"Crosby, Stills & Nash",243973,8/16/1994,21,0.657,0.742,7,-9.648,1,0.0332,0.243,7.28e-06,0.242,0.83,101.41,4
+Open Secret,Stephen Stills 2,studio,Stephen Stills,298893,1971,11,0.45,0.628,0,-11.611,1,0.0409,0.516,0.0201,0.0967,0.531,147.412,4
+Ordinary People,Chrome Dreams II,studio,Neil Young,1092960,10/22/2007,20,0.384,0.626,7,-8.063,1,0.0302,0.0309,0.000335,0.183,0.226,130.189,4
+Organ Solo,Dead Man,soundtrack,Neil Young,93133,1996,27,0.154,0.209,7,-17.738,1,0.0296,0.91,0.896,0.114,0.0395,82.885,4
+Orleans,If I Could Only Remember My Name,studio,David Crosby,116293,2/22/1971,23,0.278,0.162,2,-16.472,1,0.0298,0.877,0.0,0.125,0.0677,86.1,4
+Other Half Rule,Here If You Listen,studio,David Crosby,274053,10/26/2018,20,0.362,0.316,0,-11.767,1,0.0305,0.792,0.0247,0.111,0.212,144.014,3
+Other Side of Town,Crosby & Nash,studio,Crosby & Nash,214600,8/10/2004,10,0.522,0.305,0,-11.151,1,0.0272,0.757,0.00036,0.108,0.0971,134.25,3
+Our House,Deja Vu ,studio,"Crosby, Stills, Nash & Young",179760,3/11/1970,69,0.592,0.205,9,-14.601,1,0.048,0.896,5.46e-05,0.119,0.378,140.282,4
+Out of Control,Looking Forward,studio,"Crosby, Stills, Nash & Young",249893,10/15/1999,18,0.566,0.338,0,-12.166,1,0.0272,0.781,2.83e-06,0.112,0.3,95.004,4
+Out of My Mind - Live - Canterbury House 1968,Sugar Mountain - Live at Canterbury House 1968,live,Neil Young,127413,11/28/2008,7,0.533,0.372,9,-14.532,1,0.0734,0.931,0.0,0.732,0.476,76.288,4
+Out Of The Darkness,Whistling Down the Wire,studio,David Crosby,264382,1976,6,0.341,0.317,0,-10.0,0,0.0278,0.751,4.52e-05,0.163,0.141,137.507,4
+Out on the Weekend,Harvest,studio,Neil Young,274160,2/1/1972,50,0.669,0.207,9,-18.879,1,0.036,0.0987,0.0266,0.0702,0.652,136.61,4
+Outro,ROXY: Tonight's the Night Live,live,Neil Young,31893,4/21/2018,7,0.476,0.185,4,-26.081,0,0.684,0.583,0.0,0.139,0.0385,115.833,4
+Over the Wall,Innocent Eyes,studio,Graham Nash,209600,1986,2,0.542,0.871,9,-10.027,0,0.0466,0.0433,0.0,0.0722,0.709,150.552,4
+Page 43,Graham Nash & David Crosby,studio,Graham Nash,173880,1972,23,0.647,0.263,4,-9.414,1,0.0295,0.496,0.000652,0.168,0.0777,105.512,4
+Paint You a Picture,Lighthouse,studio,David Crosby,265253,10/21/2016,8,0.643,0.154,5,-15.936,1,0.0358,0.85,0.069,0.0928,0.297,109.686,4
+Panama,After the Storm,studio,"Crosby, Stills & Nash",254226,8/16/1994,8,0.654,0.771,9,-8.593,0,0.0321,0.257,0.000545,0.356,0.805,96.252,4
+Paradox Passage 1,Paradox,soundtrack,Neil Young,136373,3/23/2018,7,0.303,0.143,2,-19.092,1,0.0405,0.981,0.895,0.143,0.198,66.73,3
+Paradox Passage 2,Paradox,soundtrack,Neil Young,83320,3/23/2018,7,0.448,0.0308,9,-20.994,1,0.0631,0.81,0.324,0.165,0.0369,141.311,5
+Paradox Passage 3,Paradox,soundtrack,Neil Young,172120,3/23/2018,6,0.397,0.0954,3,-24.562,1,0.0459,0.961,0.704,0.103,0.358,178.152,5
+Paradox Passage 5,Paradox,soundtrack,Neil Young,23746,3/23/2018,0,0.562,0.0783,7,-22.052,1,0.0534,0.891,0.744,0.206,0.652,95.952,1
+Part Time Love,Havana Jam Cuba 1979 (live),live,Stephen Stills,495493,7/5/2021,1,0.126,0.838,0,-6.527,1,0.0737,0.194,0.233,0.944,0.463,173.684,3
+Peace and Love,Mirror Ball,studio,Neil Young,422426,8/7/1995,21,0.317,0.676,9,-10.624,1,0.0352,0.0967,0.827,0.236,0.389,111.921,4
+Peace of Mind,Comes a Time,studio,Neil Young,249106,10/4/1978,28,0.464,0.192,2,-17.286,1,0.0313,0.337,1.32e-05,0.127,0.234,152.718,4
+Peace Trail,Peace Trail,studio,Neil Young,332573,12/2/2016,24,0.612,0.603,0,-13.349,1,0.0374,0.124,0.00044,0.248,0.583,128.998,4
+Peaceful Valley Boulevard,Le Noise,studio,Neil Young,429266,9/24/2010,14,0.543,0.337,4,-13.497,0,0.0361,0.925,0.014,0.179,0.0822,124.972,4
+Penguin in a Palm Tree,Crosby & Nash,studio,Crosby & Nash,229200,8/10/2004,8,0.592,0.352,7,-9.508,1,0.0283,0.548,0.0,0.0896,0.199,94.487,3
+People on the Street,Landing On Water,studio,Neil Young,273453,7/21/1986,10,0.737,0.681,9,-11.65,0,0.0457,0.0213,0.000101,0.0188,0.63,88.246,4
+Perry Como Rap,ROXY: Tonight's the Night Live,live,Neil Young,17066,4/21/2018,0,0.426,0.207,7,-30.465,1,0.755,0.488,0.0451,0.197,0.26,138.017,3
+Piece of Me,Man Alive!,studio,Stephen Stills,243586,8/9/2005,0,0.72,0.225,7,-11.792,1,0.0331,0.7,0.00471,0.133,0.547,121.82,4
+Plastic Flowers,Storytone,studio,Neil Young,246373,10/31/2014,8,0.374,0.178,0,-13.563,1,0.0335,0.973,0.00196,0.162,0.314,91.55,4
+Pocahontas,Hitchhiker,studio,Neil Young,206973,9/8/2017,27,0.584,0.347,0,-12.223,1,0.0357,0.548,1.23e-05,0.152,0.451,127.468,4
+Powderfinger,Hitchhiker,studio,Neil Young,202853,9/8/2017,31,0.609,0.256,4,-13.812,1,0.0358,0.491,6.96e-05,0.103,0.393,122.89,4
+Prairie Wind,Prairie Wind,studio,Neil Young,452586,9/23/2005,20,0.671,0.39,9,-11.941,0,0.0395,0.00733,0.036,0.0835,0.423,123.701,4
+Pre-Road Downs,"Crosby, Stills & Nash",studio,"Crosby, Stills & Nash",175733,5/29/1969,35,0.604,0.328,9,-12.283,1,0.0318,0.209,2.71e-05,0.185,0.3,124.454,4
+Precious Love,Havana Jam Cuba 1979 (live),live,Stephen Stills,361506,7/5/2021,1,0.224,0.885,2,-7.569,1,0.0898,0.0154,0.111,0.847,0.503,106.12,4
+Pressure,Landing On Water,studio,Neil Young,166173,7/21/1986,9,0.769,0.951,0,-10.132,1,0.0408,0.225,0.182,0.34,0.611,137.892,4
+Prison Song,Wild Tales,studio,Graham Nash,193693,1973,36,0.631,0.313,0,-14.388,0,0.0475,0.476,0.0,0.0526,0.792,143.88,4
+Puppeteer,Crosby & Nash,studio,Crosby & Nash,245653,8/10/2004,16,0.486,0.494,6,-7.583,1,0.0261,0.729,0.00737,0.0858,0.3,135.064,4
+Queen of Them All,Looking Forward,studio,"Crosby, Stills, Nash & Young",263440,10/15/1999,16,0.668,0.689,4,-8.393,1,0.0299,0.16,0.00119,0.13,0.954,136.959,4
+Question Why,Deja Vu (50th Anniversary Deluxe Edition),box set,Graham Nash,122640,3/11/1970,14,0.419,0.168,2,-16.755,0,0.057,0.632,0.0,0.141,0.495,167.988,3
+Questions,Everybody Knows,studio,Stephen Stills,224770,9/22/2017,9,0.592,0.558,7,-8.158,1,0.0273,0.0426,0.00019,0.222,0.665,117.041,4
+Radio,Croz,studio,David Crosby,225986,1/28/2014,16,0.697,0.688,7,-7.51,1,0.0288,0.598,0.00271,0.12,0.253,87.996,4
+Raise a Voice,Daylight Again,studio,"Crosby, Stills & Nash",152080,6/21/1982,23,0.662,0.463,7,-11.548,1,0.0245,0.138,1.57e-05,0.12,0.608,110.517,4
+Raised on Robbery,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young with the Santa Monica Flyers,216613,11/25/2020,11,0.473,0.658,0,-7.009,1,0.0394,0.714,3.99e-05,0.111,0.854,142.478,4
+Razor Love,Silver & Gold,studio,Neil Young,391160,4/25/2000,40,0.567,0.309,7,-14.102,1,0.0346,0.709,0.00678,0.101,0.351,126.356,4
+Really,Super Session,studio,Mike Bloomfield,326173,1968,30,0.378,0.547,0,-9.312,1,0.0321,0.0239,0.408,0.179,0.437,81.254,3
+Reason to Believe,Everybody Knows,studio,Stephen Stills,177107,9/22/2017,15,0.666,0.381,4,-11.847,1,0.0306,0.659,0.0,0.111,0.673,76.539,3
+Recording Rap - Live - Canterbury House 1968,Sugar Mountain - Live at Canterbury House 1968,live,Neil Young,30373,11/28/2008,6,0.557,0.0389,5,-26.756,1,0.163,0.778,0.0,0.148,0.467,78.215,3
+Recording Southern Cross,Back in Time,studio,Stephen Stills,144481,9/19/1989,0,0.735,0.176,11,-23.377,1,0.897,0.965,0.0,0.352,0.56,108.721,4
+Red House,Havana Jam Cuba 1979 (live),live,Stephen Stills,565506,7/5/2021,1,0.195,0.789,2,-7.058,1,0.122,0.645,0.0224,0.61,0.378,157.885,4
+Red Sun,Silver & Gold,studio,Neil Young,168373,4/25/2000,20,0.516,0.143,5,-14.379,1,0.0368,0.767,0.0,0.097,0.364,124.585,3
+Regina,Live at the Capitol Theatre,live,David Crosby,282760,12/9/2022,7,0.47,0.615,4,-10.324,0,0.0427,0.816,2.04e-06,0.8,0.207,97.597,4
+Relaxing Town,Stephen Stills 2,studio,Stephen Stills,143040,1971,11,0.599,0.716,2,-9.716,1,0.104,0.0844,3.27e-06,0.214,0.353,138.314,4
+Revolution Blues,On the Beach,studio,Neil Young,243720,7/16/1974,41,0.516,0.882,9,-8.232,0,0.0399,0.0348,0.00119,0.259,0.837,176.021,4
+Ride My Llama,Hitchhiker,studio,Neil Young,110146,9/8/2017,17,0.554,0.194,7,-17.287,1,0.0458,0.417,0.00215,0.332,0.652,143.92,4
+Riff 1,If I Could Only Remember My Name,studio,David Crosby,142866,1971,10,0.556,0.215,7,-12.438,0,0.05,0.77,0.05,0.114,0.457,99.629,1
+Right Between the Eyes,4 Way Street,live,"Crosby, Stills, Nash & Young",216666,4/7/1971,25,0.399,0.206,0,-21.526,1,0.209,0.762,2.26e-06,0.975,0.439,139.796,4
+Right by You,Right By You,studio,Stephen Stills,305000,1984,3,0.628,0.26,9,-16.83,1,0.0338,0.0538,0.00497,0.194,0.384,110.718,1
+Right Now,Now,studio,Graham Nash,186773,5/19/2023,19,0.493,0.497,7,-7.838,1,0.0299,0.191,0.000743,0.127,0.396,169.919,4
+Right on Rock 'N' Roll,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",167042,3/11/1970,9,0.451,0.676,2,-9.917,1,0.0411,0.000305,5.41e-05,0.326,0.852,131.2,4
+Ring of Love,Illegal Stills,studio,Stephen Stills,242266,1976,5,0.518,0.717,0,-11.838,1,0.0478,0.435,8.29e-06,0.239,0.573,144.951,4
+River of Gold,Everybody Knows,studio,Stephen Stills,216792,9/22/2017,5,0.555,0.35,5,-11.004,1,0.0302,0.871,0.0,0.146,0.448,129.579,4
+River Rise,For Free,studio,David Crosby,213680,7/23/2021,27,0.782,0.682,1,-7.83,1,0.0375,0.159,0.000105,0.28,0.552,118.062,4
+Rock & Roll Woman,Live At Shepherd's Bush,live,Stephen Stills,406346,10/27/2009,4,0.374,0.774,9,-11.286,0,0.0488,0.269,0.264,0.529,0.47,131.225,4
+Rockin' in the Free World,Freedom,studio,Neil Young,281853,1989,58,0.489,0.883,4,-4.986,0,0.0306,0.000736,3.01e-05,0.369,0.518,131.749,4
+Rodriguez For A Night,For Free,studio,David Crosby,197266,7/23/2021,27,0.837,0.359,5,-8.27,1,0.0344,0.223,0.00402,0.443,0.614,86.316,4
+Roger and Out,Living with War,studio,Neil Young,263120,5/2/2006,10,0.49,0.281,6,-14.204,1,0.0295,0.398,0.277,0.119,0.13,61.668,4
+Roll Another Number,Tonight's the Night,live,Neil Young,183982,6/1/1975,29,0.564,0.275,2,-14.104,1,0.0316,0.785,6.36e-05,0.117,0.548,113.223,4
+Roll out the Barrel,ROXY: Tonight's the Night Live,live,Neil Young,52306,4/21/2018,11,0.475,0.332,0,-14.737,1,0.123,0.435,0.0281,0.388,0.841,129.713,4
+Round the Bend,Man Alive!,studio,Stephen Stills,308186,8/9/2005,0,0.6,0.829,2,-4.718,1,0.0353,0.0363,0.000288,0.144,0.787,116.325,4
+Rumblin,Le Noise,studio,Neil Young,216226,9/24/2010,10,0.286,0.473,9,-11.841,1,0.0372,0.532,0.584,0.385,0.0515,130.607,4
+Run from Tears,CSN,studio,"Crosby, Stills & Nash",242866,6/17/1977,25,0.582,0.505,2,-14.587,1,0.0384,0.347,0.0173,0.133,0.7,96.981,4
+Running to the Silver Eagle,Paradox,soundtrack,Neil Young,174240,3/23/2018,7,0.548,0.429,0,-16.01,1,0.0447,0.0325,0.715,0.122,0.318,116.982,4
+Rusty and Blue,It's All Coming Back to Me Now,live,David Crosby,428333,1/24/1995,5,0.535,0.32,0,-16.508,1,0.0559,0.766,0.000957,0.694,0.529,122.858,4
+Sad Eyes,Innocent Eyes,studio,Graham Nash,200000,1986,2,0.684,0.509,7,-11.986,1,0.025,0.331,0.0,0.0668,0.831,99.071,4
+Sail Away,Neil Young Archives Vol. III Takes,archives,The Ducks,332050,2020,17,0.47,0.531,7,-11.627,1,0.0286,0.0778,0.000449,0.971,0.74,136.884,4
+Same Old Song,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",261720,3/11/1970,11,0.663,0.489,2,-12.074,1,0.0279,0.00459,6.15e-06,0.119,0.959,113.792,4
+Sample And Hold,Trans,live,Neil Young,483826,11/9/1982,19,0.553,0.534,9,-11.894,0,0.124,0.439,0.00678,0.53,0.455,115.419,4
+Samurai,Crosby & Nash,studio,Crosby & Nash,101706,8/10/2004,7,0.535,0.0428,6,-15.467,0,0.0765,0.816,0.0,0.193,0.56,90.682,3
+Sanibel,Looking Forward,studio,"Crosby, Stills, Nash & Young",260760,10/15/1999,31,0.73,0.32,7,-10.986,1,0.0327,0.69,1.82e-06,0.11,0.428,115.108,4
+Say Hello to Chicago,Storytone,studio,Neil Young,297453,10/31/2014,5,0.349,0.395,0,-8.233,1,0.0357,0.428,2.47e-05,0.209,0.742,171.37,4
+Scenery,Mirror Ball,studio,Neil Young,530493,8/7/1995,19,0.217,0.619,7,-11.309,1,0.0338,0.0148,0.0244,0.0778,0.429,158.978,4
+Season of the Witch,Super Session,studio,Stephen Stills,667760,1968,27,0.523,0.544,2,-8.721,1,0.0463,0.0467,0.000666,0.411,0.583,83.197,4
+Secret Dancer,For Free,studio,David Crosby,194720,7/23/2021,20,0.718,0.309,0,-14.163,1,0.0449,0.25,0.082,0.116,0.172,148.963,4
+Sedan Delivery,Chrome Dreams,studio,Neil Young,321293,8/11/2023,16,0.436,0.671,2,-7.402,1,0.0286,0.345,1.47e-05,0.264,0.694,137.94,4
+See the Changes,CSN,studio,"Crosby, Stills & Nash",177666,6/17/1977,37,0.453,0.156,0,-18.645,1,0.0296,0.771,7.63e-05,0.564,0.522,166.193,4
+See the Sky About to Rain,On the Beach,studio,Neil Young,302040,7/16/1974,40,0.422,0.312,7,-13.56,1,0.0891,0.845,0.0346,0.125,0.547,86.237,4
+See You in Prague,Innocent Eyes,studio,Graham Nash,220200,1986,3,0.599,0.769,8,-11.816,1,0.0387,0.00545,0.0,0.297,0.488,123.957,4
+Seen Enough,Looking Forward,studio,"Crosby, Stills, Nash & Young",314200,10/15/1999,18,0.552,0.464,2,-10.059,0,0.0477,0.277,2.79e-05,0.11,0.85,144.471,4
+Sell Me a Diamond,Sky Trails,studio,David Crosby,327457,9/29/2017,19,0.582,0.535,11,-9.211,0,0.0458,0.234,0.311,0.0654,0.239,77.981,4
+Senator Stills,Back in Time,studio,Stephen Stills,99236,9/19/1989,0,0.715,0.193,10,-24.511,1,0.947,0.981,0.0,0.155,0.52,61.003,4
+Separate Ways,Homegrown,studio,Neil Young,212709,6/19/2020,23,0.602,0.288,7,-16.376,1,0.0429,0.0926,1.13e-05,0.11,0.428,112.69,4
+Set That Baggage Down,Croz,studio,David Crosby,241106,1/28/2014,13,0.738,0.386,2,-9.327,1,0.0355,0.21,0.00139,0.0907,0.442,112.581,4
+Shadow Captain,CSN,studio,"Crosby, Stills & Nash",274040,6/17/1977,35,0.62,0.301,4,-16.401,1,0.0292,0.307,0.00667,0.103,0.3,143.193,4
+Shadowland,American Dream,studio,"Crosby, Stills, Nash & Young",287400,11/11/1988,17,0.777,0.564,10,-15.619,0,0.0341,0.167,0.000315,0.368,0.934,119.971,4
+She Can't Handle It,Deja Vu (50th Anniversary Deluxe Edition),box set,Stephen Stills,404040,3/11/1970,14,0.487,0.128,11,-16.025,0,0.0345,0.918,7.56e-05,0.12,0.155,116.226,4
+She's Got To Be Somewhere,Sky Trails,studio,David Crosby,286080,9/29/2017,27,0.716,0.437,7,-8.442,0,0.0502,0.644,0.517,0.0953,0.789,82.973,4
+Shining Light,Chrome Dreams II,studio,Neil Young,283506,10/22/2007,12,0.292,0.22,2,-15.773,1,0.0318,0.678,0.0713,0.098,0.136,163.942,3
+Shining On Your Dreams,Crosby & Nash,studio,Crosby & Nash,154466,8/10/2004,20,0.629,0.339,7,-11.116,1,0.0351,0.802,1.18e-05,0.107,0.412,78.057,4
+Ships in the Night,For Free,studio,David Crosby,205866,7/23/2021,22,0.887,0.432,6,-11.412,0,0.0323,0.113,0.157,0.106,0.719,103.004,4
+Shock and Awe,Living with War,studio,Neil Young,291506,5/2/2006,13,0.463,0.633,11,-10.366,0,0.0272,1.53e-05,0.00346,0.085,0.406,133.521,4
+Shot at Me,For Free,studio,David Crosby,193373,7/23/2021,14,0.714,0.216,2,-16.445,1,0.0305,0.854,0.0339,0.0996,0.333,69.998,4
+Show Me,Peace Trail,studio,Neil Young,242280,12/2/2016,18,0.703,0.18,10,-19.904,1,0.0426,0.57,0.00577,0.137,0.582,101.61,4
+Shuffle Just As Bad,Stills,studio,Stephen Stills,161026,1975,8,0.58,0.577,7,-12.28,1,0.0662,0.347,0.279,0.228,0.88,107.1,4
+Sign of Love,Le Noise,studio,Neil Young,235573,9/24/2010,13,0.24,0.459,7,-15.528,1,0.0363,0.746,0.81,0.301,0.414,117.809,3
+Silver & Gold,Silver & Gold,studio,Neil Young,196733,4/25/2000,25,0.399,0.226,2,-15.664,1,0.0313,0.61,0.0866,0.119,0.39,168.141,4
+Simple Man,Songs For Beginners,studio,Graham Nash,138133,1971,39,0.413,0.127,0,-14.806,1,0.037,0.957,1.45e-05,0.114,0.265,131.192,4
+Since I Met You,Daylight Again,studio,"Crosby, Stills & Nash",191080,6/21/1982,18,0.6,0.642,9,-11.382,1,0.0329,0.43,0.000531,0.11,0.779,143.655,4
+Since I Met You Baby,A Letter Home,studio,Neil Young,133453,5/19/2014,7,0.559,0.2,6,-17.376,1,0.0703,0.983,0.462,0.116,0.536,101.782,4
+Singin' Call,Stephen Stills 2,studio,Stephen Stills,180960,1971,24,0.543,0.384,2,-15.674,1,0.0297,0.243,0.000546,0.135,0.41,79.291,4
+Sit Yourself Down,Stephen Stills,studio,Stephen Stills,185493,1970,31,0.3,0.545,7,-13.079,1,0.0347,0.0564,9.82e-06,0.11,0.702,86.989,4
+Sky Trails,Sky Trails,studio,David Crosby,290066,9/29/2017,16,0.557,0.224,2,-15.195,1,0.0284,0.914,0.0398,0.102,0.207,95.914,4
+Sleep Song,Songs For Beginners,studio,Graham Nash,180160,1971,27,0.442,0.0191,0,-23.396,1,0.0403,0.895,9.39e-06,0.115,0.319,104.734,4
+Slice of Time,Croz,studio,David Crosby,256880,1/28/2014,13,0.728,0.333,2,-11.037,0,0.035,0.582,0.00378,0.086,0.255,62.496,3
+Slowpoke,Looking Forward,studio,"Crosby, Stills, Nash & Young",271866,10/15/1999,31,0.645,0.261,7,-12.46,1,0.0274,0.491,0.00785,0.0865,0.263,78.306,4
+So Begins the Task,Everybody Knows,studio,Stephen Stills,215760,9/22/2017,9,0.614,0.427,11,-11.323,1,0.0304,0.517,3.39e-05,0.111,0.458,77.859,4
+So Begins the Task / Hold On Tight,Deja Vu (50th Anniversary Deluxe Edition),box set,Stephen Stills,466706,3/11/1970,20,0.377,0.174,7,-19.429,1,0.036,0.878,0.101,0.115,0.507,166.745,4
+Soldier,Illegal Stills,studio,Stephen Stills,179266,1976,7,0.757,0.552,9,-10.552,0,0.029,0.654,0.00012,0.0689,0.866,121.472,4
+Soldiers of Peace,American Dream,studio,"Crosby, Stills, Nash & Young",227466,11/11/1988,15,0.258,0.334,9,-13.757,0,0.0294,0.352,0.0,0.108,0.187,141.76,3
+Somebody Home,Sky Trails,studio,David Crosby,277573,9/29/2017,10,0.354,0.122,10,-16.761,1,0.0377,0.922,0.243,0.112,0.0399,81.582,4
+Somebody Other Than You,Lighthouse,studio,David Crosby,264200,10/21/2016,8,0.358,0.314,9,-10.77,1,0.0307,0.854,0.000319,0.0907,0.215,86.831,4
+Someday,Freedom,studio,Neil Young,342200,1989,20,0.587,0.479,5,-10.651,1,0.0267,0.173,0.0141,0.167,0.288,110.191,4
+Someday Soon,Looking Forward,studio,"Crosby, Stills, Nash & Young",223800,10/15/1999,22,0.784,0.308,2,-13.884,1,0.0314,0.564,0.00151,0.147,0.657,86.601,4
+Someone's Gonna Rescue You,Le Noise,studio,Neil Young,206000,9/24/2010,11,0.284,0.405,7,-10.392,1,0.0341,0.766,0.0409,0.13,0.134,123.991,4
+Song for Susan,Daylight Again,studio,"Crosby, Stills & Nash",186920,6/21/1982,21,0.582,0.22,9,-14.894,0,0.0266,0.673,0.00126,0.0821,0.167,98.055,3
+Song with No Words (Tree with No Leaves),If I Could Only Remember My Name,studio,David Crosby,360106,2/22/1971,25,0.481,0.281,4,-15.732,0,0.0259,0.638,0.000396,0.121,0.414,91.424,4
+Song X,Mirror Ball,studio,Neil Young,280693,8/7/1995,24,0.212,0.673,9,-10.303,1,0.038,0.0312,0.254,0.111,0.492,176.657,3
+Songs for Judy - Intro,Songs for Judy,live,Neil Young,205053,11/30/2018,9,0.498,0.302,7,-16.925,1,0.636,0.872,0.0,0.978,0.158,121.531,3
+Songs Rap - Live - Canterbury House 1968,Sugar Mountain - Live at Canterbury House 1968,live,Neil Young,37520,11/28/2008,5,0.587,0.146,5,-20.909,1,0.565,0.956,0.0,0.249,0.128,122.582,4
+Songwriting Rap - Live - Canterbury House 1968,Sugar Mountain - Live at Canterbury House 1968,live,Neil Young,192866,11/28/2008,7,0.477,0.112,9,-22.983,1,0.129,0.844,0.0,0.115,0.162,76.071,3
+Soul of a Woman,Bluenote Cafe,live,Neil Young,353906,11/13/2015,7,0.574,0.687,2,-8.493,1,0.0465,0.0626,0.000393,0.797,0.526,113.998,4
+Southbound Train,Graham Nash & David Crosby,studio,Graham Nash,236213,1972,21,0.572,0.307,5,-13.292,1,0.0255,0.159,3.5e-06,0.139,0.438,102.266,3
+Southern Cross,Daylight Again,studio,"Crosby, Stills & Nash",281000,6/21/1982,64,0.668,0.447,2,-11.124,1,0.0312,0.48,2.89e-06,0.153,0.588,81.415,4
+Southern Man,After the Gold Rush,studio,Neil Young,331173,8/31/1970,49,0.373,0.572,7,-9.186,0,0.0334,0.391,0.0477,0.126,0.656,161.846,3
+Spanish Suite,Man Alive!,studio,Stephen Stills,680093,8/9/2005,0,0.517,0.741,9,-6.296,0,0.0689,0.44,0.000227,0.132,0.43,104.946,4
+Speakin' Out,Tonight's the Night,live,Neil Young,296731,6/1/1975,27,0.439,0.259,9,-14.335,1,0.0406,0.836,0.00625,0.151,0.211,180.788,3
+Special Care,Live,live,Stephen Stills,215106,3/15/2005,7,0.436,0.974,2,-5.276,1,0.122,0.0162,0.0314,0.94,0.659,123.275,4
+Spirit Road,Chrome Dreams II,studio,Neil Young,392320,10/22/2007,12,0.513,0.823,4,-10.143,0,0.0322,0.00175,0.0497,0.0494,0.704,128.392,4
+Spotlight,Whistling Down the Wire,studio,David Crosby,171160,1976,6,0.679,0.648,9,-9.205,1,0.0279,0.164,0.000333,0.0559,0.962,105.32,4
+Stand and Be Counted,Looking Forward,studio,"Crosby, Stills, Nash & Young",292560,10/15/1999,21,0.554,0.545,9,-9.997,1,0.0292,0.404,0.00196,0.357,0.586,94.368,4
+Stand Up,Now,studio,Graham Nash,182546,5/19/2023,8,0.627,0.661,0,-6.821,1,0.0298,0.00323,8.11e-05,0.3,0.56,103.013,4
+Star of Bethlehem,Homegrown,studio,Neil Young,168189,6/19/2020,17,0.634,0.18,2,-19.246,1,0.0323,0.412,0.331,0.107,0.631,74.519,4
+Stars & Stripes,Now,studio,Graham Nash,202013,5/19/2023,12,0.73,0.41,7,-9.592,1,0.0282,0.475,1.69e-05,0.0775,0.494,78.992,4
+Stateline Blues,Illegal Stills,studio,Stephen Stills,119200,1976,13,0.486,0.335,7,-14.744,1,0.0435,0.775,0.0,0.118,0.789,172.992,4
+Stayin' Power,Hawks & Doves,studio,Neil Young,138626,10/29/1980,15,0.563,0.429,0,-10.365,1,0.0493,0.67,0.000566,0.165,0.374,99.26,4
+Stop,Super Session,studio,Mike Bloomfield,258799,1968,34,0.435,0.607,9,-8.332,1,0.049,0.256,0.149,0.107,0.62,87.237,4
+Straight Line,Live It Up,live,"Crosby, Stills & Nash",197293,6/22/1990,18,0.697,0.575,9,-13.282,1,0.0299,0.029,2.92e-06,0.123,0.746,123.188,4
+Stranger,Right By You,studio,Stephen Stills,178333,1984,8,0.777,0.645,9,-14.631,0,0.036,0.00813,0.00312,0.252,0.947,125.443,4
+Strangers Room,Graham Nash & David Crosby,studio,Graham Nash,145933,1972,16,0.416,0.436,2,-10.159,0,0.0298,0.76,0.00109,0.0961,0.291,144.058,4
+Street to Lean On,After the Storm,studio,"Crosby, Stills & Nash",216400,8/16/1994,8,0.629,0.546,1,-9.25,1,0.0586,0.0836,0.000933,0.331,0.886,170.76,4
+String Quartet from Whiskey Boot Hill,Neil Young,studio,Neil Young,65440,1/22/1969,20,0.185,0.305,5,-14.219,1,0.0378,0.898,0.256,0.474,0.228,127.714,4
+Stringman,Chrome Dreams,studio,Neil Young,211773,8/11/2023,17,0.327,0.154,5,-16.503,1,0.037,0.977,9.87e-06,0.741,0.234,177.414,4
+Stupid Girl,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,191453,11/25/2020,7,0.378,0.518,4,-10.244,1,0.033,0.0524,0.0203,0.158,0.355,121.822,4
+Stupid White Men...,Dead Man,soundtrack,Neil Young,525666,1996,15,0.436,0.426,1,-18.247,1,0.553,0.00379,0.0,0.232,0.15,111.393,3
+Such a Woman,Harvest Moon,studio,Neil Young,277733,11/2/1992,36,0.141,0.0947,10,-20.117,1,0.0344,0.791,0.894,0.112,0.0812,167.216,4
+Sugar Babe,Stephen Stills 2,studio,Stephen Stills,241000,1971,18,0.386,0.552,5,-9.931,1,0.0626,0.0794,2.01e-06,0.158,0.288,167.518,4
+Sugar Mountain,Songs for Judy,live,Neil Young,368266,11/30/2018,17,0.307,0.369,0,-11.984,1,0.0303,0.518,0.00137,0.987,0.337,163.323,4
+Suite: Judy Blue Eyes,"Crosby, Stills & Nash",studio,"Crosby, Stills & Nash",444053,5/29/1969,58,0.458,0.364,9,-13.126,1,0.0431,0.467,0.0,0.197,0.3,154.215,4
+Sunny Inside,Bluenote Cafe,live,Neil Young,233320,11/13/2015,5,0.496,0.878,9,-8.767,1,0.0436,0.00495,0.000309,0.432,0.519,119.927,4
+Sweet Joni,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,161720,11/25/2020,14,0.359,0.227,2,-15.487,1,0.048,0.888,2.48e-06,0.698,0.435,91.95,5
+Take Me Back To Ohio Valley,Bread and Roses Festival (Live),live,Stephen Stills,235080,9/4/1978,0,0.458,0.67,3,-11.705,0,0.0946,0.656,1.81e-05,0.892,0.508,128.852,4
+Take The Money And Run,Wind on the Water,studio,David Crosby,203426,1975,14,0.508,0.61,2,-10.054,1,0.0265,0.66,0.0338,0.0863,0.628,91.57,4
+Taken At All,Whistling Down the Wire,studio,David Crosby,187600,1976,13,0.544,0.275,7,-14.108,1,0.0319,0.233,0.000304,0.0939,0.299,146.538,4
+Tamalpais High (At About 3),If I Could Only Remember My Name,studio,David Crosby,212573,2/22/1971,26,0.477,0.259,11,-17.813,0,0.0323,0.481,0.0103,0.0745,0.409,121.294,4
+Target,This Path Tonight,studio,Graham Nash,214567,2016,14,0.792,0.16,1,-17.606,1,0.049,0.749,0.0187,0.0952,0.712,105.743,4
+Teach Your Children,Another Stoney Evening,studio,David Crosby,271023,1/13/1998,3,0.424,0.528,2,-13.845,1,0.384,0.498,0.0,0.689,0.62,154.788,4
+Tell Me Why,After the Gold Rush,studio,Neil Young,177120,8/31/1970,48,0.634,0.397,5,-10.115,1,0.025,0.735,0.0,0.124,0.479,80.934,4
+Ten Men Workin',Bluenote Cafe,live,Neil Young,511786,11/13/2015,9,0.509,0.876,9,-7.732,1,0.0526,0.00208,0.0428,0.964,0.482,124.052,4
+Terrorist Suicide Hang Gliders,Peace Trail,studio,Neil Young,197626,12/2/2016,14,0.697,0.24,9,-15.078,0,0.0304,0.522,0.000523,0.125,0.493,147.129,4
+Texas Rangers,Peace Trail,studio,Neil Young,149613,12/2/2016,10,0.74,0.289,0,-17.776,1,0.0612,0.428,5.94e-05,0.0603,0.566,145.913,4
+That Girl,American Dream,studio,"Crosby, Stills, Nash & Young",210706,11/11/1988,18,0.609,0.644,9,-13.53,0,0.0353,0.0619,0.0,0.19,0.893,124.323,4
+The Believer,Chrome Dreams II,studio,Neil Young,158586,10/22/2007,12,0.853,0.214,2,-13.26,1,0.043,0.61,1.49e-05,0.12,0.812,75.251,4
+The Bridge,Time Fades Away,live,Neil Young,184059,10/15/1973,19,0.478,0.0871,0,-17.081,1,0.0516,0.914,0.00308,0.632,0.249,103.008,4
+The City,Lighthouse,studio,David Crosby,285026,10/21/2016,11,0.81,0.208,7,-11.063,1,0.0434,0.669,0.000176,0.106,0.554,122.925,4
+The Clearing,Croz,studio,David Crosby,240413,1/28/2014,21,0.608,0.663,2,-7.679,1,0.0386,0.497,0.126,0.0816,0.137,79.962,5
+The Doctor Will See You Now,Just Roll Tape - April 26th 1968,live,Stephen Stills,156093,7/9/2007,13,0.681,0.269,7,-12.22,1,0.0419,0.784,2.97e-05,0.106,0.441,78.513,4
+The Emperor of Wyoming,Neil Young,studio,Neil Young,138026,1/22/1969,25,0.499,0.551,7,-11.657,1,0.0253,0.0379,0.92,0.187,0.767,144.812,4
+The Great Divide,Silver & Gold,studio,Neil Young,274493,4/25/2000,21,0.765,0.309,10,-17.417,1,0.0315,0.671,0.0546,0.125,0.662,109.931,4
+The Last Fall,This Path Tonight,studio,Graham Nash,261443,2016,7,0.63,0.125,2,-17.437,1,0.0415,0.84,0.000124,0.14,0.257,128.86,3
+The Last Trip to Tulsa,Neil Young,studio,Neil Young,566973,1/22/1969,22,0.523,0.201,2,-14.648,1,0.0546,0.741,3.42e-05,0.0893,0.133,128.067,4
+The Lee Shore,Live at Berkeley 1971,live,Stephen Stills,286884,4/28/2023,9,0.306,0.688,11,-12.767,0,0.0658,0.491,0.000299,0.989,0.509,87.497,4
+The Loner,Illegal Stills,studio,Stephen Stills,254026,1976,14,0.588,0.822,9,-8.186,1,0.0427,0.342,0.000121,0.399,0.735,123.309,4
+The Needle and the Damage Done,Harvest,studio,Neil Young,122845,2/1/1972,55,0.587,0.157,7,-21.562,1,0.0398,0.857,0.000533,0.7,0.394,105.489,3
+The Old Country Waltz,Hitchhiker,studio,Neil Young,217306,9/8/2017,16,0.577,0.0814,7,-17.372,1,0.041,0.948,0.000159,0.111,0.184,97.054,3
+The Old Homestead,Hawks & Doves,studio,Neil Young,460373,10/29/1980,18,0.479,0.228,7,-17.882,1,0.0465,0.283,0.0381,0.0845,0.508,84.849,4
+The Old Laughing Lady,Neil Young,studio,Neil Young,356026,1/22/1969,25,0.333,0.259,7,-16.072,1,0.0394,0.674,0.645,0.0905,0.499,152.161,4
+The Other Side Of Midnight,For Free,studio,David Crosby,194906,7/23/2021,22,0.669,0.515,2,-10.818,1,0.0333,0.33,0.00195,0.112,0.402,92.002,4
+The Painter,Prairie Wind,studio,Neil Young,274040,9/23/2005,26,0.567,0.345,7,-15.182,1,0.0304,0.111,0.0366,0.204,0.4,85.021,4
+The Restless Consumer,Living with War,studio,Neil Young,346800,5/2/2006,13,0.509,0.657,9,-10.891,1,0.0312,0.00428,0.0,0.0943,0.0658,125.649,4
+The Round Stones Beneath the Earth…,Dead Man,soundtrack,Neil Young,211799,1996,19,0.305,0.187,1,-21.67,1,0.0589,0.394,0.724,0.114,0.0983,113.102,4
+The Times They Are A-Changinâ€™,The Times,live,Neil Young,301200,9/16/2020,3,0.462,0.237,9,-9.549,1,0.0378,0.826,0.000222,0.144,0.267,141.859,3
+The Us Below,Lighthouse,studio,David Crosby,222946,10/21/2016,11,0.404,0.291,7,-11.161,0,0.0426,0.9,0.00197,0.101,0.134,82.79,4
+The Wall Song,If I Could Only Remember My Name,studio,David Crosby,255693,1971,7,0.401,0.181,7,-14.703,1,0.0423,0.813,1.12e-06,0.0836,0.162,80.419,4
+The Way,Chrome Dreams II,studio,Neil Young,314640,10/22/2007,12,0.586,0.159,0,-19.549,1,0.0381,0.771,0.00187,0.102,0.089,106.262,3
+The Ways of Love,Freedom,studio,Neil Young,269333,1989,20,0.638,0.327,7,-13.132,1,0.0273,0.244,0.124,0.112,0.546,111.562,4
+The Wayward Wind,Old Ways,studio,Neil Young,190600,8/12/1985,21,0.495,0.399,5,-10.92,1,0.0296,0.413,0.0,0.113,0.338,120.284,4
+Theme From Pastoral,Now,studio,Graham Nash,47426,5/19/2023,10,0.254,0.153,5,-19.135,0,0.0407,0.263,0.413,0.114,0.0562,69.321,4
+There's a World,Harvest,studio,Neil Young,179594,2/1/1972,33,0.276,0.0885,7,-20.451,1,0.0291,0.943,0.00507,0.154,0.17,78.707,4
+There's Only One,Songs For Beginners,studio,Graham Nash,241373,1971,22,0.511,0.327,2,-14.778,1,0.0291,0.427,0.00224,0.11,0.253,122.928,4
+These Empty Days,After the Storm,studio,"Crosby, Stills & Nash",150760,8/16/1994,25,0.833,0.428,4,-12.087,1,0.0295,0.51,6.23e-05,0.109,0.737,94.49,4
+They Want It All,Crosby & Nash,studio,Crosby & Nash,334386,8/10/2004,11,0.686,0.479,2,-9.335,1,0.0318,0.673,9e-05,0.187,0.554,104.453,4
+Things We Do for Love,Lighthouse,studio,David Crosby,255173,10/21/2016,23,0.6,0.147,3,-12.713,1,0.0343,0.924,0.000141,0.102,0.112,114.852,4
+This Note's for You,Bluenote Cafe,live,Neil Young,324426,11/13/2015,15,0.572,0.876,4,-6.678,0,0.0494,0.0869,0.0294,0.965,0.502,110.339,4
+This Old Guitar,Prairie Wind,studio,Neil Young,330373,9/23/2005,23,0.639,0.25,2,-17.265,1,0.033,0.202,0.331,0.0925,0.301,112.205,4
+This Old House,American Dream,studio,"Crosby, Stills, Nash & Young",289666,11/11/1988,28,0.662,0.0974,5,-20.016,1,0.0321,0.358,0.0,0.111,0.433,117.483,4
+This Path Tonight,This Path Tonight,studio,Graham Nash,266723,2016,20,0.518,0.305,1,-11.496,0,0.0416,0.331,0.0142,0.1,0.104,174.542,4
+Thoroughfare Gap,Thoroughfare Gap,studio,Stephen Stills,213186,12/15/1978,18,0.386,0.352,7,-11.728,1,0.0386,0.62,0.0,0.303,0.756,86.956,4
+Thousand Roads,Thousand Roads,studio,David Crosby,272733,5/4/1993,9,0.662,0.292,11,-13.313,0,0.042,0.422,0.00546,0.339,0.572,96.94,4
+Thrasher - Live at The Boarding House,Neil Young Archives Vol. III Takes,archives,Neil Young,378794,2020,16,0.502,0.306,2,-17.361,1,0.056,0.737,0.0,0.332,0.478,118.854,4
+Through Here Quite Often,Crosby & Nash,studio,Crosby & Nash,244160,8/10/2004,18,0.667,0.125,3,-13.173,1,0.0326,0.922,1.74e-05,0.129,0.134,94.99,4
+Through My Sails,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,209520,11/25/2020,10,0.565,0.105,5,-18.538,1,0.032,0.85,0.00948,0.111,0.282,85.518,4
+Through Your Hands,Thousand Roads,studio,David Crosby,275400,5/4/1993,11,0.57,0.471,4,-11.078,1,0.0254,0.101,5.29e-05,0.134,0.2,102.913,4
+Throw Your Hatred Down,Mirror Ball,studio,Neil Young,345973,8/7/1995,23,0.37,0.878,9,-10.413,0,0.0499,0.000164,0.599,0.25,0.361,144.284,4
+Till It Shines,After the Storm,studio,"Crosby, Stills & Nash",259133,8/16/1994,10,0.825,0.41,9,-11.64,0,0.0739,0.0782,0.00182,0.0812,0.699,114.77,4
+Till It Shines on You,It's All Coming Back to Me Now,live,David Crosby,338640,1/24/1995,4,0.65,0.628,9,-11.6,0,0.0574,0.675,0.0015,0.682,0.779,113.875,4
+Till the Morning Comes,After the Gold Rush,studio,Neil Young,76066,8/31/1970,45,0.783,0.24,0,-15.668,1,0.0505,0.896,0.0507,0.132,0.794,114.366,4
+Time After Time,Whistling Down the Wire,studio,David Crosby,152306,1976,6,0.414,0.161,2,-16.312,1,0.0341,0.684,0.0138,0.115,0.285,94.992,3
+Time Fades Away,Time Fades Away,live,Neil Young,332107,10/15/1973,25,0.346,0.752,2,-11.776,1,0.0363,0.0947,2.17e-05,0.658,0.921,192.802,4
+"Time for You to Leave, William Blake...",Dead Man,soundtrack,Neil Young,51466,1996,14,0.403,0.276,2,-23.244,1,0.292,0.949,0.081,0.292,0.293,116.49,5
+Time I Have,Croz,studio,David Crosby,229840,1/28/2014,15,0.673,0.341,10,-10.733,1,0.0293,0.151,0.00145,0.113,0.426,95.097,4
+Tired Eyes,Tonight's the Night,live,Neil Young,275377,6/1/1975,32,0.355,0.27,7,-13.408,1,0.0304,0.659,0.000905,0.124,0.145,126.91,4
+To a Flame,Stephen Stills,studio,Stephen Stills,188200,1970,19,0.369,0.291,5,-17.332,1,0.0306,0.619,0.0113,0.1,0.221,142.802,4
+To Mama From Christopher And The Old Man,Stills,studio,Stephen Stills,134773,1975,8,0.462,0.699,2,-11.177,1,0.0444,0.114,0.0,0.325,0.852,167.826,3
+To The Last Whale: Critical Mass/Wind On The Water,Reflections,box set,David Crosby,330306,2009,0,0.404,0.211,1,-14.494,0,0.031,0.882,0.0109,0.131,0.117,107.921,4
+Tomboy,Live It Up,live,"Crosby, Stills & Nash",199893,6/22/1990,5,0.83,0.553,9,-11.945,0,0.0293,0.0809,1.2e-06,0.349,0.781,123.296,4
+Tomorrow Is Another Day,Daylight Again,studio,"Crosby, Stills & Nash",245400,6/21/1982,14,0.646,0.491,7,-11.515,1,0.038,0.146,0.000463,0.0956,0.733,118.082,4
+Tonight's the Night,Tonight's the Night,live,Neil Young,280853,6/1/1975,32,0.566,0.164,7,-15.93,1,0.0456,0.375,0.0,0.109,0.452,108.182,4
+Tonight's the Night (Pt. II),Tonight's the Night,live,Neil Young,291928,6/1/1975,25,0.451,0.246,7,-12.711,1,0.0564,0.566,0.0,0.0954,0.456,203.533,4
+Too Far Gone,Freedom,studio,Neil Young,168533,1989,23,0.685,0.528,7,-12.51,1,0.0251,0.159,0.0226,0.0852,0.75,109.01,4
+Too Much Love to Hide,Daylight Again,studio,"Crosby, Stills & Nash",237013,6/21/1982,31,0.688,0.74,2,-10.276,1,0.0287,0.0281,9.39e-05,0.0851,0.934,122.698,4
+Too Young to Die,Thousand Roads,studio,David Crosby,347173,5/4/1993,15,0.636,0.301,5,-13.219,1,0.0307,0.256,0.000237,0.114,0.29,85.535,4
+Touch the Night,Landing On Water,studio,Neil Young,269626,7/21/1986,12,0.671,0.686,9,-11.078,0,0.0316,0.0055,0.027,0.152,0.77,121.162,4
+Traces - 12/5/73,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,131266,11/25/2020,10,0.673,0.289,2,-9.121,1,0.0313,0.807,5.42e-06,0.111,0.387,113.578,4
+Tracks In The Dust,Oh Yes I Can,studio,David Crosby,286920,1/23/1989,7,0.467,0.087,0,-19.459,1,0.0394,0.811,0.0,0.104,0.301,169.548,4
+Traction in the Rain,If I Could Only Remember My Name,studio,David Crosby,226160,2/22/1971,26,0.423,0.132,2,-17.136,1,0.0332,0.838,0.0,0.0789,0.133,98.476,4
+Transformer Man,Trans,live,Neil Young,203600,11/9/1982,22,0.689,0.354,0,-14.979,1,0.046,0.275,1.42e-05,0.107,0.387,116.539,4
+Treetop Flyer,Live At Shepherd's Bush,live,Stephen Stills,395120,10/27/2009,22,0.45,0.249,0,-18.235,1,0.802,0.679,0.0,0.964,0.774,81.976,3
+Triad,Another Stoney Evening,studio,David Crosby,378813,1/13/1998,5,0.481,0.118,9,-17.725,1,0.153,0.792,1.77e-05,0.702,0.371,118.253,4
+Truth Be Known,Mirror Ball,studio,Neil Young,279200,8/7/1995,21,0.459,0.419,9,-12.667,1,0.0298,0.0995,0.0473,0.142,0.244,67.734,4
+Try,Homegrown,studio,Neil Young,169152,6/19/2020,21,0.733,0.235,0,-17.553,1,0.0542,0.144,0.00597,0.12,0.671,92.388,4
+Try to Find Me,Reflections,box set,Graham Nash,248040,2009,2,0.365,0.214,4,-11.498,1,0.0317,0.358,3.59e-06,0.104,0.109,137.813,4
+Tumbleweed,Storytone,studio,Neil Young,217026,10/31/2014,5,0.286,0.0941,0,-18.303,1,0.0361,0.969,0.0296,0.105,0.237,139.858,4
+Tuning Rap & the Old Laughing Lady - Intro. - Live - Canterbury House 1968,Sugar Mountain - Live at Canterbury House 1968,live,Neil Young,186493,11/28/2008,5,0.574,0.112,7,-21.847,1,0.503,0.855,0.0,0.164,0.178,75.675,4
+Turn Back the Pages,Stills,studio,Stephen Stills,243800,1975,17,0.373,0.747,9,-10.653,1,0.0786,0.186,0.0,0.107,0.46,153.215,4
+Turn Your Back on Love,Daylight Again,studio,"Crosby, Stills & Nash",289506,6/21/1982,25,0.752,0.478,0,-11.915,1,0.0308,0.215,0.000188,0.107,0.653,110.487,4
+Twilight,Bluenote Cafe,live,Neil Young,469626,11/13/2015,7,0.555,0.456,4,-13.024,0,0.0288,0.331,0.087,0.977,0.233,104.672,4
+Two Hearts,Reflections,box set,Carole King & Graham Nash,264773,2009,3,0.553,0.224,9,-12.856,1,0.0267,0.944,9.27e-05,0.13,0.0767,78.835,4
+Unequal Love,After the Storm,studio,"Crosby, Stills & Nash",286000,8/16/1994,12,0.587,0.173,9,-14.742,1,0.0413,0.561,0.00231,0.108,0.278,137.706,4
+"Unequal Love - Live at Berkshire Performing Arts Center, August 1993",Reflections,box set,Graham Nash,290800,2009,2,0.431,0.213,9,-12.989,1,0.0354,0.904,1.87e-05,0.732,0.271,136.986,4
+Union Man,Hawks & Doves,studio,Neil Young,128759,10/29/1980,17,0.528,0.644,0,-9.857,1,0.1,0.516,0.000859,0.228,0.671,186.592,4
+Unknown Legend,Harvest Moon,studio,Neil Young,272480,11/2/1992,49,0.656,0.25,7,-13.211,1,0.0286,0.368,0.00224,0.115,0.201,109.083,4
+Vacancy,Homegrown,studio,Neil Young,238956,6/19/2020,17,0.509,0.623,7,-12.032,1,0.0273,0.129,0.00286,0.0977,0.808,163.172,4
+Vagrants of Venice,Here If You Listen,studio,David Crosby,246253,10/26/2018,13,0.391,0.285,2,-12.565,1,0.0327,0.864,0.0184,0.115,0.178,130.049,4
+Vampire Blues,On the Beach,studio,Neil Young,250587,7/16/1974,37,0.607,0.413,9,-13.246,0,0.0366,0.0866,0.00162,0.324,0.737,152.493,4
+Violent Side,Landing On Water,studio,Neil Young,262226,7/21/1986,12,0.728,0.784,4,-10.351,1,0.0316,0.147,0.0422,0.0632,0.808,116.078,4
+Walk On,On the Beach,studio,Neil Young,162120,7/16/1974,43,0.415,0.463,9,-9.339,1,0.0356,0.657,1.57e-06,0.159,0.665,171.616,4
+Walk with Me,Le Noise,studio,Neil Young,264573,9/24/2010,16,0.231,0.369,2,-10.117,1,0.0321,0.054,0.506,0.115,0.038,86.403,3
+War Games,Allies,live,"Crosby, Stills & Nash",141026,6/6/1983,10,0.437,0.582,5,-13.563,1,0.0424,0.00589,1.77e-05,0.321,0.401,174.095,4
+War of Man,Harvest Moon,studio,Neil Young,343893,11/2/1992,41,0.691,0.282,2,-16.826,0,0.0276,0.532,0.0423,0.131,0.585,108.984,4
+Wasted on the Way,Daylight Again,studio,"Crosby, Stills & Nash",171080,6/21/1982,46,0.526,0.543,2,-12.895,1,0.0403,0.394,2.84e-05,0.234,0.744,153.668,4
+Watch Out for the Wind,This Path Tonight,studio,Graham Nash,186691,2016,6,0.435,0.647,4,-10.744,0,0.0724,0.121,0.000109,0.368,0.475,165.866,4
+Water from the Moon,Reflections,box set,Graham Nash,172720,2009,2,0.558,0.772,4,-7.636,1,0.0278,0.0321,0.00128,0.189,0.854,93.644,4
+We Are Not Helpless,Stephen Stills,studio,Stephen Stills,258532,1970,19,0.273,0.506,2,-11.043,1,0.0359,0.23,0.0,0.131,0.204,146.642,3
+We Breathe The Same Air,Reflections,box set,Graham Nash,165840,2009,1,0.284,0.666,2,-8.506,1,0.0454,0.00689,0.0,0.143,0.778,201.074,4
+We Can Change the World,Songs For Beginners,studio,Graham Nash,66560,1971,31,0.489,0.386,0,-12.865,1,0.0427,0.25,0.0,0.207,0.621,165.248,4
+We Don't Smoke It No More,Homegrown,studio,Neil Young,291299,6/19/2020,17,0.341,0.364,7,-15.548,1,0.0519,0.0337,0.398,0.148,0.435,207.222,3
+We R In Control,Trans,live,Neil Young,211866,11/9/1982,18,0.619,0.56,9,-14.667,1,0.036,0.104,3.97e-05,0.0699,0.688,131.658,4
+We Will Go On,Thoroughfare Gap,studio,Stephen Stills,164973,12/15/1978,4,0.64,0.759,4,-10.016,1,0.084,0.183,0.0,0.361,0.826,110.93,4
+Weight of the World,Landing On Water,studio,Neil Young,221333,7/21/1986,13,0.808,0.811,0,-11.189,1,0.0328,0.0388,0.0559,0.287,0.899,118.597,4
+Welcome Rap,Bluenote Cafe,live,Neil Young,34706,11/13/2015,5,0.362,0.739,10,-18.57,0,0.495,0.333,0.000738,0.946,0.065,128.705,5
+Welcome to the Big Room,Bluenote Cafe,live,Neil Young,450853,11/13/2015,11,0.336,0.872,9,-6.259,1,0.13,0.219,0.0703,0.977,0.377,97.742,4
+Wham Bang Rock and Roll,Back in Time,studio,Stephen Stills,92240,9/19/1989,0,0.563,0.154,9,-24.499,0,0.922,0.978,0.0,0.142,0.605,83.417,4
+What Are Their Names,If I Could Only Remember My Name,studio,David Crosby,254200,2/22/1971,23,0.485,0.354,11,-17.082,0,0.0426,0.162,0.0119,0.0574,0.301,120.49,4
+What Are Their Names?,Deja Vu Live,live,"Crosby, Stills, Nash & Young",148493,7/22/2008,26,0.636,0.568,9,-13.587,0,0.233,0.828,0.0,0.944,0.25,114.69,4
+What Did You Do to My Life?,Neil Young,studio,Neil Young,147026,1/22/1969,21,0.358,0.504,9,-11.311,0,0.0363,0.553,0.0317,0.327,0.93,203.504,3
+What Happened Yesterday,Mirror Ball,studio,Neil Young,45906,8/7/1995,18,0.177,0.0574,2,-22.831,1,0.0391,0.986,0.607,0.107,0.2,93.271,4
+What Makes It so?,Lighthouse,studio,David Crosby,240306,10/21/2016,6,0.315,0.205,9,-13.069,0,0.0337,0.839,0.0303,0.129,0.211,85.052,4
+What's Broken,Croz,studio,David Crosby,228986,1/28/2014,27,0.695,0.538,7,-11.107,1,0.0258,0.445,0.101,0.133,0.453,92.408,4
+What's The Game,Thoroughfare Gap,studio,Stephen Stills,217200,12/15/1978,3,0.652,0.676,9,-10.308,1,0.0319,0.0828,1.45e-05,0.188,0.964,130.652,4
+When God Made Me,Prairie Wind,studio,Neil Young,245560,9/23/2005,17,0.368,0.144,0,-18.02,1,0.0279,0.841,0.159,0.108,0.209,82.214,4
+When I Hold You In My Arms,Before and After,live,Neil Young,323240,12/8/2023,18,0.442,0.109,0,-16.46,1,0.0532,0.979,0.000565,0.138,0.133,85.638,4
+When I Watch You Sleeping,Storytone,studio,Neil Young,330653,10/31/2014,8,0.51,0.328,7,-11.465,1,0.0273,0.226,0.00164,0.133,0.372,85.008,4
+When It Comes To You,Now,studio,Graham Nash,192653,5/19/2023,7,0.626,0.175,9,-11.101,1,0.0329,0.858,9.8e-06,0.0985,0.153,86.034,4
+When Worlds Collide,Fork in the Road,studio,Neil Young,253533,4/3/2009,8,0.658,0.406,0,-9.753,1,0.0282,0.0178,0.243,0.129,0.475,82.879,4
+When You Dance I Can Really Love,After the Gold Rush,studio,Neil Young,225480,8/31/1970,38,0.561,0.636,0,-9.525,1,0.0264,0.249,0.0036,0.0589,0.699,98.57,4
+Where Is The Highway Tonight?,Old Ways,studio,Neil Young,182666,8/12/1985,15,0.528,0.318,2,-11.678,1,0.0302,0.122,4.34e-06,0.0881,0.455,83.319,4
+Where Will I Be?,If I Could Only Remember My Name,studio,David Crosby,221130,1971,6,0.312,0.0034,7,-20.081,1,0.054,0.876,0.000475,0.112,0.197,163.096,1
+White Line,Homegrown,studio,Neil Young,193522,6/19/2020,22,0.482,0.146,7,-19.409,1,0.0395,0.702,1.04e-06,0.0911,0.535,157.544,4
+Who Knows Where the Time Goes,Everybody Knows,studio,Stephen Stills,340662,9/22/2017,10,0.389,0.292,4,-11.541,1,0.0277,0.933,0.0116,0.0999,0.123,136.131,4
+Who's Gonna Stand Up?,Storytone,studio,Neil Young,263773,10/31/2014,7,0.432,0.24,4,-12.57,0,0.0272,0.857,0.00631,0.11,0.113,81.901,4
+Whole Cloth,Graham Nash & David Crosby,studio,Graham Nash,273080,1972,15,0.534,0.418,9,-9.309,0,0.0436,0.555,0.00217,0.121,0.227,91.649,4
+"Why Dost Thou Hide Thyself, Clouds",Dead Man,soundtrack,Neil Young,144599,1996,17,0.163,0.216,2,-22.328,1,0.0451,0.427,0.774,0.111,0.137,72.736,4
+Wild Tales,Wild Tales,studio,Graham Nash,140400,1973,26,0.659,0.541,7,-15.224,1,0.042,0.561,0.00282,0.247,0.908,137.423,4
+Will to Love,Chrome Dreams,studio,Neil Young,431360,8/11/2023,20,0.539,0.287,9,-15.163,0,0.0377,0.862,0.00979,0.114,0.343,119.656,4
+Winter Winds,Neil Young Archives Vol. III Takes,archives,Neil Young,193193,2020,21,0.644,0.376,0,-13.748,1,0.0344,0.456,0.00648,0.309,0.639,110.036,4
+Winterlong,Neil Young Archives Vol. II (1972 - 1976),archives,Neil Young,188800,11/25/2020,12,0.456,0.61,0,-6.135,1,0.027,0.427,0.0,0.181,0.538,101.154,4
+Without Rings,Silver & Gold,studio,Neil Young,221640,4/25/2000,20,0.512,0.244,7,-18.435,1,0.0308,0.89,0.378,0.0941,0.337,139.18,4
+Woman Lleva,Thoroughfare Gap,studio,Stephen Stills,194653,12/15/1978,3,0.721,0.556,9,-12.927,0,0.0343,0.0384,0.0138,0.317,0.637,124.314,4
+Wonderin',After the Gold Rush,studio,Neil Young,133946,12/11/2020,20,0.72,0.387,0,-13.294,1,0.0455,0.116,0.0,0.306,0.754,113.825,4
+Wooden Ships,Another Stoney Evening,studio,David Crosby,357533,1/13/1998,8,0.482,0.262,4,-16.001,0,0.157,0.644,7.31e-06,0.688,0.319,135.992,3
+Woodstock,Here If You Listen,studio,David Crosby,214120,10/26/2018,27,0.679,0.229,7,-10.766,1,0.0309,0.89,3.68e-05,0.138,0.323,115.888,4
+Word Game,Stephen Stills 2,studio,Stephen Stills,251733,1971,14,0.566,0.434,2,-12.89,1,0.071,0.203,0.0,0.105,0.466,131.638,4
+Words (Between the Lines of Age),Harvest,studio,Neil Young,409338,2/1/1972,35,0.419,0.258,9,-18.86,0,0.0329,0.439,0.0781,0.299,0.328,125.353,5
+Working with Young,Back in Time,studio,Stephen Stills,135193,9/19/1989,0,0.678,0.167,10,-24.478,0,0.861,0.985,0.0,0.157,0.434,118.324,3
+World on a String,Tonight's the Night,live,Neil Young,145053,6/1/1975,28,0.57,0.441,5,-12.112,1,0.0242,0.434,0.0,0.193,0.88,153.349,4
+Wounded Bird,Songs For Beginners,studio,Graham Nash,133066,1971,27,0.526,0.151,4,-15.511,0,0.0363,0.803,0.0,0.126,0.585,146.098,4
+Wounded World,Man Alive!,studio,Stephen Stills,189280,8/9/2005,0,0.697,0.82,4,-3.616,1,0.0552,0.0453,1.81e-06,0.114,0.898,128.811,3
+Wrecking Ball,Freedom,studio,Neil Young,309866,1989,22,0.698,0.142,0,-18.867,1,0.0294,0.579,0.102,0.0737,0.418,99.292,4
+Wrong Thing to Do,Live At Shepherd's Bush,live,Stephen Stills,376720,10/27/2009,3,0.497,0.718,7,-11.73,1,0.0738,0.337,0.000146,0.289,0.566,121.263,4
+Yonder Stands the Sinner,Time Fades Away,live,Neil Young,196643,10/15/1973,20,0.449,0.618,2,-12.037,1,0.154,0.227,7.1e-06,0.693,0.749,206.903,4
+You and Me,Harvest Moon,studio,Neil Young,225333,11/2/1992,41,0.556,0.128,7,-18.645,1,0.033,0.902,0.000329,0.0987,0.303,132.11,4
+You Are Alive,Daylight Again,studio,"Crosby, Stills & Nash",182026,6/21/1982,18,0.486,0.29,4,-15.099,1,0.0386,0.629,0.00147,0.129,0.218,137.647,4
+You Can't Dance Alone,Thoroughfare Gap,studio,Stephen Stills,260413,12/15/1978,5,0.611,0.703,4,-12.051,0,0.0693,0.00535,0.00743,0.0824,0.784,116.12,4
+You Don't Have to Cry,"Crosby, Stills & Nash",studio,"Crosby, Stills & Nash",162693,5/29/1969,49,0.558,0.377,7,-14.491,1,0.0516,0.524,0.0,0.0717,0.714,83.142,4
+You Don't Love Me,Super Session,studio,Stephen Stills,249866,1968,17,0.501,0.602,0,-8.392,1,0.0343,0.211,0.00322,0.159,0.763,122.788,4
+You'll Never Be the Same,Wild Tales,studio,Graham Nash,170106,1973,18,0.593,0.318,4,-12.945,1,0.0249,0.238,2.37e-05,0.15,0.652,87.464,4
+Your Own Ride,Here If You Listen,studio,David Crosby,274706,10/26/2018,11,0.365,0.261,8,-12.924,1,0.0289,0.869,0.0142,0.116,0.153,93.77,3
+Yours and Mine,Live It Up,live,"Crosby, Stills & Nash",284560,6/22/1990,7,0.668,0.378,2,-13.601,0,0.0396,0.0763,0.00123,0.203,0.455,138.899,4
+Yvette in English,Thousand Roads,studio,David Crosby,355266,5/4/1993,13,0.753,0.133,7,-20.911,0,0.0424,0.873,0.0127,0.0852,0.348,113.036,4

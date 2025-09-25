@@ -1,0 +1,98 @@
+track,artist,album,duration,release_date,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+Right Now,Graham Nash,Now,186773,2023-05-19,20,0.493,0.497,7,-7.838,1,0.0299,0.191,0.000743,0.127,0.396,169.919,4
+A Better Life,Graham Nash,Now,209533,2023-05-19,16,0.681,0.355,7,-8.344,1,0.0389,0.75,1.19e-06,0.0813,0.591,142.688,4
+Golden Idols,Graham Nash,Now,196293,2023-05-19,11,0.444,0.432,4,-9.032,0,0.0505,0.229,0.00194,0.573,0.569,185.621,3
+Stars & Stripes,Graham Nash,Now,202013,2023-05-19,13,0.73,0.41,7,-9.592,1,0.0282,0.475,1.69e-05,0.0775,0.494,78.992,4
+Love of Mine,Graham Nash,Now,166733,2023-05-19,14,0.633,0.098,9,-13.651,1,0.0535,0.956,0.00031,0.0987,0.337,156.962,4
+Theme From Pastoral,Graham Nash,Now,47426,2023-05-19,11,0.254,0.153,5,-19.135,0,0.0407,0.263,0.413,0.114,0.0562,69.321,4
+In A Dream,Graham Nash,Now,134466,2023-05-19,12,0.372,0.185,1,-12.197,1,0.0371,0.701,6.93e-06,0.205,0.255,94.877,4
+Stand Up,Graham Nash,Now,182546,2023-05-19,9,0.627,0.661,0,-6.821,1,0.0298,0.00323,8.11e-05,0.3,0.56,103.013,4
+It Feels Like Home,Graham Nash,Now,225013,2023-05-19,10,0.72,0.476,2,-6.377,1,0.0302,0.523,4.45e-06,0.375,0.534,106.914,4
+Buddy's Back,Graham Nash,Now,164133,2023-05-19,10,0.69,0.663,9,-7.86,1,0.0264,0.0268,4.6e-05,0.207,0.76,125.956,4
+Follow Your Heart,Graham Nash,Now,218053,2023-05-19,9,0.498,0.172,9,-11.424,1,0.0442,0.81,0.0,0.112,0.248,173.156,4
+I Watched It All Come Down,Graham Nash,Now,194760,2023-05-19,8,0.615,0.13,2,-11.982,1,0.0412,0.707,0.000396,0.0903,0.243,147.746,4
+When It Comes To You,Graham Nash,Now,192653,2023-05-19,8,0.626,0.175,9,-11.101,1,0.0329,0.858,9.8e-06,0.0985,0.153,86.034,4
+This Path Tonight,Graham Nash,This Path Tonight,266723,2016,21,0.518,0.305,1,-11.496,0,0.0416,0.331,0.0142,0.1,0.104,174.542,4
+Myself at Last,Graham Nash,This Path Tonight,317629,2016,28,0.608,0.111,7,-18.526,1,0.039,0.887,0.0411,0.135,0.132,133.947,4
+Cracks in the City,Graham Nash,This Path Tonight,221495,2016,18,0.621,0.296,11,-14.596,0,0.0323,0.578,4.3e-06,0.0972,0.463,131.519,3
+Beneath the Waves,Graham Nash,This Path Tonight,241117,2016,10,0.418,0.418,9,-16.398,0,0.05,0.549,0.121,0.107,0.198,184.74,4
+Fire Down Below,Graham Nash,This Path Tonight,207546,2016,15,0.658,0.335,11,-10.892,0,0.0347,0.617,0.391,0.104,0.205,86.529,4
+Another Broken Heart,Graham Nash,This Path Tonight,297214,2016,18,0.625,0.429,0,-11.667,0,0.0276,0.484,0.268,0.117,0.532,91.379,4
+Target,Graham Nash,This Path Tonight,214567,2016,14,0.792,0.16,1,-17.606,1,0.049,0.749,0.0187,0.0952,0.712,105.743,4
+Golden Days,Graham Nash,This Path Tonight,218311,2016,20,0.466,0.11,8,-16.295,0,0.0296,0.912,6.12e-05,0.113,0.221,155.71,4
+Back Home,Graham Nash,This Path Tonight,288050,2016,8,0.363,0.0874,2,-19.683,1,0.033,0.875,0.0157,0.103,0.0392,134.062,4
+Encore,Graham Nash,This Path Tonight,231783,2016,32,0.64,0.141,4,-17.564,1,0.0347,0.903,0.0463,0.111,0.157,128.137,4
+Mississippi Burning,Graham Nash,This Path Tonight,164300,2016,10,0.633,0.343,10,-12.722,0,0.0492,0.653,0.0,0.224,0.76,162.968,4
+Watch Out for the Wind,Graham Nash,This Path Tonight,186691,2016,6,0.435,0.647,4,-10.744,0,0.0724,0.121,0.000109,0.368,0.475,165.866,4
+The Last Fall,Graham Nash,This Path Tonight,261443,2016,6,0.63,0.125,2,-17.437,1,0.0415,0.84,0.000124,0.14,0.257,128.86,3
+On a Carousel - Remastered Version,The Hollies,Reflections,190186,2009,0,0.552,0.595,0,-8.835,1,0.0289,0.161,0.0073,0.164,0.702,121.619,4
+Carrie Anne - 2008 Remaster,The Hollies,Reflections,176266,2009,0,0.549,0.614,0,-8.244,1,0.0358,0.456,0.0,0.392,0.758,119.399,4
+King Midas in Reverse - 2009 Remaster,The Hollies,Reflections,187760,2009,0,0.496,0.456,0,-9.983,1,0.026,0.0853,0.0808,0.517,0.511,98.168,4
+Marrakesh Express - 2008 Remaster,"Crosby, Stills & Nash",Reflections,154120,2009,10,0.562,0.694,7,-11.238,1,0.171,0.117,0.00013,0.298,0.719,107.842,4
+Pre-Road Downs - 2008 Remaster,"Crosby, Stills & Nash",Reflections,177520,2009,5,0.604,0.34,11,-11.579,0,0.0317,0.233,1.49e-05,0.0744,0.343,124.393,4
+Lady of the Island - 2008 Remaster,"Crosby, Stills & Nash",Reflections,157960,2009,7,0.461,0.0285,5,-21.523,0,0.0463,0.965,0.000749,0.132,0.126,65.709,4
+Our House - 2009 Remaster,"Crosby, Stills, Nash & Young",Reflections,180853,2009,18,0.647,0.193,9,-14.574,1,0.0399,0.715,0.0,0.0417,0.391,141.052,4
+Southbound Train - Remastered Version,Graham Nash,Reflections,235760,2009,29,0.571,0.373,5,-10.624,1,0.0252,0.137,1.77e-05,0.107,0.384,101.957,3
+Immigration Man - Remastered Version,Graham Nash,Reflections,179706,2009,17,0.509,0.827,7,-8.601,1,0.0374,0.0854,0.0,0.128,0.78,88.686,4
+To the Last Whale [a] Critical Mass [b] Wind On The Water - Remastered Version,David Crosby,Reflections,330306,2009,0,0.404,0.211,1,-14.494,0,0.031,0.882,0.0109,0.131,0.117,107.921,4
+Fieldworker - Remastered Version,David Crosby,Reflections,165840,2009,0,0.524,0.499,11,-10.254,0,0.0347,0.244,0.0106,0.22,0.625,122.297,3
+Cowboy of Dreams - Remastered Version,David Crosby,Reflections,208106,2009,0,0.616,0.389,7,-11.097,1,0.0268,0.757,3.11e-06,0.168,0.449,107.427,3
+Love Work Out - Remastered Version,David Crosby,Reflections,288920,2009,0,0.427,0.723,9,-9.95,0,0.0382,0.0511,0.00241,0.259,0.58,165.259,4
+Marguerita - Remastered Version,David Crosby,Reflections,251386,2009,0,0.622,0.3,4,-15.146,0,0.0299,0.582,0.051,0.124,0.322,106.44,3
+Mutiny - Remastered Version,David Crosby,Reflections,277813,2009,0,0.602,0.612,4,-9.863,0,0.0532,0.262,0.0786,0.492,0.816,76.53,4
+Just a Song Before I Go - 2008 Remaster,"Crosby, Stills & Nash",Reflections,132080,2009,18,0.657,0.291,11,-17.293,0,0.0454,0.87,0.00449,0.111,0.529,107.903,4
+Cold Rain - Remastered Version,Graham Nash,Reflections,154706,2009,5,0.47,0.0667,9,-15.695,0,0.0389,0.95,0.00751,0.111,0.172,127.367,3
+Barrel of Pain (Half-Life),Graham Nash,Reflections,256760,2009,4,0.543,0.535,9,-9.052,0,0.0296,0.251,9.16e-06,0.0715,0.848,160.653,4
+Song for Susan - 2008 Remaster,"Crosby, Stills & Nash",Reflections,184906,2009,5,0.582,0.256,9,-12.058,0,0.0262,0.7,0.00143,0.0788,0.165,98.519,3
+Wasted on the Way - 2008 Remaster,"Crosby, Stills & Nash",Reflections,170266,2009,11,0.562,0.571,2,-11.144,1,0.0364,0.355,3.35e-05,0.274,0.779,76.985,4
+Clear Blue Skies - 2008 Remaster,"Crosby, Stills & Nash",Reflections,180840,2009,19,0.777,0.541,7,-11.344,1,0.0253,0.313,0.00774,0.331,0.945,99.464,4
+Lonely Man,"Crosby, Stills & Nash",Reflections,197093,2009,17,0.774,0.736,7,-9.274,1,0.0271,0.551,0.0263,0.11,0.866,107.224,4
+Water from the Moon,Graham Nash,Reflections,172720,2009,2,0.558,0.772,4,-7.636,1,0.0278,0.0321,0.00128,0.189,0.854,93.644,4
+Soldiers of Peace - 2000 Remaster,"Crosby, Stills, Nash & Young",Reflections,225973,2009,3,0.299,0.49,9,-7.106,0,0.0279,0.331,0.0,0.127,0.167,141.801,3
+If Anybody Had a Heart - 2008 Remaster,"Crosby, Stills & Nash",Reflections,263120,2009,9,0.411,0.601,4,-8.496,1,0.0286,0.0148,8.62e-06,0.165,0.654,182.666,4
+Chippin' Away - Remastered Version,Graham Nash,Reflections,242826,2009,4,0.664,0.649,2,-9.768,1,0.0286,0.436,2.61e-05,0.0987,0.97,92.973,4
+After the Dolphin - Edit,"Crosby, Stills & Nash",Reflections,275746,2009,2,0.647,0.592,7,-11.286,1,0.028,0.0283,0.00198,0.624,0.548,113.368,4
+House of Broken Dreams - 2008 Remaster,"Crosby, Stills & Nash",Reflections,198280,2009,3,0.626,0.298,0,-13.051,1,0.0302,0.318,0.00204,0.207,0.134,77.394,4
+Heartland,"Crosby, Stills, Nash & Young",Reflections,267146,2009,2,0.485,0.45,4,-10.832,0,0.0391,0.509,0.0,0.11,0.195,141.96,4
+These Empty Days - 2008 Remaster,"Crosby, Stills & Nash",Reflections,146760,2009,2,0.837,0.426,4,-11.812,1,0.0301,0.546,4.84e-05,0.194,0.754,94.462,4
+Try to Find Me,Graham Nash,Reflections,248040,2009,3,0.365,0.214,4,-11.498,1,0.0317,0.358,3.59e-06,0.104,0.109,137.813,4
+Two Hearts,Carole King & Graham Nash,Reflections,264773,2009,4,0.553,0.224,9,-12.856,1,0.0267,0.944,9.27e-05,0.13,0.0767,78.835,4
+Behind The Shades,Graham Nash,Reflections,242040,2009,2,0.684,0.538,9,-10.664,1,0.0269,0.0487,0.0,0.343,0.847,114.455,4
+Michael (Hedges Here),Graham Nash,Reflections,154160,2009,2,0.485,0.0952,2,-17.169,1,0.0383,0.943,3.21e-05,0.0993,0.074,131.168,4
+I Surrender - Remastered Version,David Crosby,Reflections,253346,2009,0,0.455,0.11,0,-18.774,1,0.038,0.871,0.0742,0.0901,0.167,85.969,4
+Dirty Little Secret - Remastered Version,Graham Nash,Reflections,260160,2009,0,0.592,0.657,0,-10.565,1,0.0335,0.261,0.0238,0.088,0.738,96.005,4
+We Breathe The Same Air,Graham Nash,Reflections,165840,2009,2,0.284,0.666,2,-8.506,1,0.0454,0.00689,0.0,0.143,0.778,201.074,4
+Grace - Remastered Version,David Crosby,Reflections,45306,2009,0,0.55,0.034,5,-21.259,1,0.0733,0.994,0.87,0.114,0.126,65.852,4
+Jesus of Rio - Remastered Version,David Crosby,Reflections,251133,2009,0,0.708,0.258,5,-15.827,1,0.0333,0.827,1.89e-06,0.121,0.27,94.072,4
+In Your Name,Graham Nash,Reflections,230413,2009,2,0.444,0.241,4,-13.514,1,0.0259,0.707,9.77e-05,0.104,0.19,89.432,3
+See You in Prague,Graham Nash,Innocent Eyes,220200,1986,3,0.599,0.769,8,-11.816,1,0.0387,0.00545,0.0,0.297,0.488,123.957,4
+Keep Away from Me,Graham Nash,Innocent Eyes,212026,1986,2,0.589,0.92,0,-10.62,1,0.0354,0.0542,1.28e-05,0.0616,0.803,96.108,4
+Innocent Eyes,Graham Nash,Innocent Eyes,190306,1986,10,0.596,0.618,4,-11.339,0,0.0292,0.167,2.56e-06,0.0836,0.897,129.738,4
+Chippin' Away,Graham Nash,Innocent Eyes,236466,1986,9,0.659,0.562,2,-12.742,1,0.0271,0.363,2.23e-05,0.0439,0.97,92.734,4
+Over the Wall,Graham Nash,Innocent Eyes,209600,1986,2,0.542,0.871,9,-10.027,0,0.0466,0.0433,0.0,0.0722,0.709,150.552,4
+Don't Listen to the Rumors,Graham Nash,Innocent Eyes,183906,1986,1,0.638,0.641,5,-11.68,0,0.0344,0.108,0.0,0.065,0.627,133.064,4
+Sad Eyes,Graham Nash,Innocent Eyes,200000,1986,2,0.684,0.509,7,-11.986,1,0.025,0.331,0.0,0.0668,0.831,99.071,4
+Newday,Graham Nash,Innocent Eyes,201293,1986,1,0.571,0.862,6,-11.499,0,0.127,0.153,7.51e-05,0.206,0.657,142.839,4
+Glass and Steel,Graham Nash,Innocent Eyes,200400,1986,1,0.306,0.377,6,-12.628,1,0.033,0.476,0.0,0.0839,0.223,153.717,4
+I Got a Rock,Graham Nash,Innocent Eyes,198026,1986,1,0.694,0.567,0,-13.359,1,0.0325,0.00728,0.00188,0.0808,0.939,116.202,4
+Wild Tales,Graham Nash,Wild Tales,140400,1973,27,0.659,0.541,7,-15.224,1,0.042,0.561,0.00282,0.247,0.908,137.423,4
+Hey You (Looking at the Moon),Graham Nash,Wild Tales,137280,1973,36,0.747,0.32,0,-12.585,1,0.0324,0.147,0.00424,0.061,0.535,107.087,4
+Prison Song,Graham Nash,Wild Tales,193693,1973,37,0.631,0.313,0,-14.388,0,0.0475,0.476,0.0,0.0526,0.792,143.88,4
+You'll Never Be the Same,Graham Nash,Wild Tales,170106,1973,18,0.593,0.318,4,-12.945,1,0.0249,0.238,2.37e-05,0.15,0.652,87.464,4
+And so It Goes,Graham Nash,Wild Tales,288773,1973,19,0.582,0.376,5,-16.717,1,0.0274,0.173,0.176,0.265,0.479,134.52,4
+Grave Concern,Graham Nash,Wild Tales,166746,1973,19,0.554,0.653,5,-10.109,1,0.034,0.196,0.0146,0.0929,0.852,171.252,4
+Oh! Camil (The Winter Song),Graham Nash,Wild Tales,174720,1973,21,0.6,0.313,7,-15.263,1,0.0337,0.467,7.15e-06,0.157,0.705,96.56,3
+I Miss You,Graham Nash,Wild Tales,186000,1973,17,0.491,0.067,6,-20.105,0,0.043,0.989,0.0928,0.0966,0.192,98.114,4
+On the Line,Graham Nash,Wild Tales,156693,1973,27,0.634,0.45,9,-10.449,1,0.0338,0.337,2.19e-05,0.223,0.659,113.165,4
+Another Sleep Song,Graham Nash,Wild Tales,282533,1973,20,0.61,0.0693,1,-23.452,0,0.0457,0.937,0.00662,0.134,0.277,130.698,4
+Military Madness,Graham Nash,Songs For Beginners,176666,1971,38,0.582,0.572,0,-10.711,1,0.0328,0.323,0.0,0.0541,0.506,120.376,4
+Better Days,Graham Nash,Songs For Beginners,230173,1971,47,0.48,0.298,6,-13.477,1,0.0356,0.732,0.00283,0.1,0.0557,128.023,4
+Wounded Bird,Graham Nash,Songs For Beginners,133066,1971,27,0.526,0.151,4,-15.511,0,0.0363,0.803,0.0,0.126,0.585,146.098,4
+I Used to Be a King,Graham Nash,Songs For Beginners,281893,1971,28,0.388,0.519,2,-12.374,0,0.0392,0.0957,8.07e-05,0.0997,0.654,112.737,4
+Be Yourself,Graham Nash,Songs For Beginners,189106,1971,24,0.443,0.27,7,-13.564,1,0.0398,0.46,0.0,0.122,0.521,157.591,3
+Simple Man,Graham Nash,Songs For Beginners,138133,1971,37,0.413,0.127,0,-14.806,1,0.037,0.957,1.45e-05,0.114,0.265,131.192,4
+Man in the Mirror,Graham Nash,Songs For Beginners,168960,1971,22,0.483,0.25,7,-12.737,1,0.036,0.588,0.0,0.14,0.478,115.224,3
+There's Only One,Graham Nash,Songs For Beginners,241373,1971,22,0.511,0.327,2,-14.778,1,0.0291,0.427,0.00224,0.11,0.253,122.928,4
+Sleep Song,Graham Nash,Songs For Beginners,180160,1971,28,0.442,0.0191,0,-23.396,1,0.0403,0.895,9.39e-06,0.115,0.319,104.734,4
+Chicago,Graham Nash,Songs For Beginners,171440,1971,41,0.662,0.332,9,-11.939,0,0.0306,0.286,0.0,0.142,0.638,82.28,4
+We Can Change the World,Graham Nash,Songs For Beginners,66560,1971,31,0.489,0.386,0,-12.865,1,0.0427,0.25,0.0,0.207,0.621,165.248,4

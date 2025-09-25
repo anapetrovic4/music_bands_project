@@ -1,0 +1,53 @@
+track,artist,album,duration,release_date,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+Lay Me Down,Crosby & Nash,Crosby & Nash,216400,2004-08-10,41,0.59,0.4,10,-10.599,0,0.0248,0.884,2.59e-06,0.125,0.249,93.056,4
+Puppeteer,Crosby & Nash,Crosby & Nash,245653,2004-08-10,16,0.486,0.494,6,-7.583,1,0.0261,0.729,0.00737,0.0858,0.3,135.064,4
+Through Here Quite Often,Crosby & Nash,Crosby & Nash,244160,2004-08-10,18,0.667,0.125,3,-13.173,1,0.0326,0.922,1.74e-05,0.129,0.134,94.99,4
+Grace,Crosby & Nash,Crosby & Nash,45426,2004-08-10,15,0.646,0.0479,5,-17.991,1,0.0507,0.995,0.95,0.105,0.175,63.624,4
+Jesus of Rio,Crosby & Nash,Crosby & Nash,252093,2004-08-10,16,0.708,0.327,5,-11.593,1,0.0306,0.865,5.25e-06,0.118,0.318,94.001,4
+I Surrender,Crosby & Nash,Crosby & Nash,254653,2004-08-10,19,0.47,0.175,0,-13.942,1,0.0365,0.841,0.0217,0.0848,0.149,86.122,4
+Luck Dragon,Crosby & Nash,Crosby & Nash,284880,2004-08-10,12,0.697,0.442,7,-9.895,0,0.0297,0.599,0.00855,0.112,0.154,124.875,4
+Other Side of Town,Crosby & Nash,Crosby & Nash,214600,2004-08-10,10,0.522,0.305,0,-11.151,1,0.0272,0.757,0.00036,0.108,0.0971,134.25,3
+Half Your Angels,Crosby & Nash,Crosby & Nash,304600,2004-08-10,13,0.399,0.0785,10,-14.099,1,0.0282,0.897,0.000134,0.0967,0.0396,99.657,4
+They Want It All,Crosby & Nash,Crosby & Nash,334386,2004-08-10,11,0.686,0.479,2,-9.335,1,0.0318,0.673,9e-05,0.187,0.554,104.453,4
+How Does It Shine,Crosby & Nash,Crosby & Nash,320680,2004-08-10,12,0.597,0.64,7,-8.734,1,0.034,0.393,0.779,0.05,0.316,128.407,4
+Don't Dig Here,Crosby & Nash,Crosby & Nash,369760,2004-08-10,13,0.579,0.631,2,-8.345,1,0.0267,0.28,0.00412,0.0966,0.597,177.958,4
+Milky Way Tonight,Crosby & Nash,Crosby & Nash,204160,2004-08-10,13,0.638,0.324,7,-10.698,0,0.0266,0.258,5.39e-06,0.159,0.179,109.093,4
+Charlie,Crosby & Nash,Crosby & Nash,213453,2004-08-10,10,0.747,0.178,5,-14.228,1,0.0376,0.824,0.00101,0.108,0.119,104.059,4
+Penguin in a Palm Tree,Crosby & Nash,Crosby & Nash,229200,2004-08-10,8,0.592,0.352,7,-9.508,1,0.0283,0.548,0.0,0.0896,0.199,94.487,3
+Michael (Hedges Here),Crosby & Nash,Crosby & Nash,160906,2004-08-10,10,0.41,0.0864,2,-15.563,1,0.0382,0.919,0.000231,0.0883,0.0737,101.831,3
+Samurai,Crosby & Nash,Crosby & Nash,101706,2004-08-10,7,0.535,0.0428,6,-15.467,0,0.0765,0.816,0.0,0.193,0.56,90.682,3
+Shining On Your Dreams,Crosby & Nash,Crosby & Nash,154466,2004-08-10,20,0.629,0.339,7,-11.116,1,0.0351,0.802,1.18e-05,0.107,0.412,78.057,4
+Live On (The Wall),Crosby & Nash,Crosby & Nash,201866,2004-08-10,12,0.589,0.106,2,-13.862,0,0.0337,0.932,0.000142,0.293,0.0599,69.683,4
+My Country Tis of Thee,Crosby & Nash,Crosby & Nash,102146,2004-08-10,25,0.638,0.0687,5,-13.655,1,0.0368,0.912,8.57e-06,0.11,0.127,82.687,4
+Spotlight,David Crosby,Whistling Down The Wire,171160,1976,6,0.679,0.648,9,-9.205,1,0.0279,0.164,0.000333,0.0559,0.962,105.32,4
+Broken Bird,David Crosby,Whistling Down The Wire,164466,1976,6,0.565,0.15,4,-17.458,0,0.0338,0.425,0.00136,0.138,0.188,144.821,4
+Time After Time,David Crosby,Whistling Down The Wire,152306,1976,6,0.414,0.161,2,-16.312,1,0.0341,0.684,0.0138,0.115,0.285,94.992,3
+Dancer,David Crosby,Whistling Down The Wire,290693,1976,5,0.357,0.379,2,-12.47,0,0.0294,0.286,0.304,0.135,0.234,95.586,1
+Mutiny,David Crosby,Whistling Down The Wire,285200,1976,6,0.599,0.608,4,-10.904,0,0.0537,0.188,0.0373,0.0727,0.838,76.609,4
+J.B.'s Blues,David Crosby,Whistling Down The Wire,161506,1976,4,0.675,0.502,7,-10.361,1,0.0316,0.478,0.0193,0.116,0.895,92.458,4
+Marguerita,David Crosby,Whistling Down The Wire,253160,1976,5,0.622,0.314,4,-14.197,0,0.0289,0.595,0.0166,0.105,0.317,106.684,3
+Taken At All,David Crosby,Whistling Down The Wire,187600,1976,13,0.544,0.275,7,-14.108,1,0.0319,0.233,0.000304,0.0939,0.299,146.538,4
+Foolish Man,David Crosby,Whistling Down The Wire,269640,1976,6,0.517,0.206,10,-13.749,1,0.0347,0.766,0.00211,0.108,0.19,106.656,4
+Out Of The Darkness,David Crosby,Whistling Down The Wire,264382,1976,6,0.341,0.317,0,-10.0,0,0.0278,0.751,4.52e-05,0.163,0.141,137.507,4
+Carry Me,David Crosby,Wind On The Water,214400,1975,30,0.686,0.28,4,-14.998,1,0.0307,0.525,4.22e-06,0.145,0.557,94.1,4
+Mama Lion,David Crosby,Wind On The Water,196160,1975,12,0.48,0.62,4,-10.592,0,0.0432,0.423,0.00803,0.11,0.556,125.519,3
+Bittersweet,David Crosby,Wind On The Water,160373,1975,14,0.407,0.356,5,-12.471,1,0.0276,0.896,0.000775,0.151,0.25,131.409,3
+Take The Money And Run,David Crosby,Wind On The Water,203426,1975,14,0.508,0.61,2,-10.054,1,0.0265,0.66,0.0338,0.0863,0.628,91.57,4
+Naked In The Rain,David Crosby,Wind On The Water,149706,1975,17,0.629,0.222,7,-16.339,1,0.0268,0.78,0.000384,0.0907,0.358,84.995,4
+Love Work Out,David Crosby,Wind On The Water,290800,1975,13,0.533,0.712,9,-9.474,0,0.0307,0.108,0.00235,0.254,0.611,82.658,4
+Low Down Payment,David Crosby,Wind On The Water,295293,1975,8,0.372,0.486,7,-11.605,1,0.0382,0.567,0.0498,0.738,0.513,150.695,4
+Cowboy Of Dreams,David Crosby,Wind On The Water,209200,1975,13,0.62,0.355,7,-11.726,1,0.0262,0.78,1.26e-06,0.188,0.498,107.471,3
+Homeward Through The Haze,David Crosby,Wind On The Water,245840,1975,12,0.486,0.392,10,-11.276,1,0.0393,0.671,0.000766,0.101,0.253,110.155,4
+Fieldworker,David Crosby,Wind On The Water,166826,1975,9,0.525,0.47,11,-11.015,0,0.034,0.371,0.0192,0.186,0.623,122.241,3
+Critical Mass/Wind On The Water,David Crosby,Wind On The Water,330280,1975,20,0.412,0.21,1,-14.082,0,0.0309,0.9,0.00605,0.132,0.137,107.814,4
+Southbound Train,Graham Nash,Graham Nash & David Crosby,236213,1972,21,0.572,0.307,5,-13.292,1,0.0255,0.159,3.5e-06,0.139,0.438,102.266,3
+Whole Cloth,Graham Nash,Graham Nash & David Crosby,273080,1972,15,0.534,0.418,9,-9.309,0,0.0436,0.555,0.00217,0.121,0.227,91.649,4
+Blacknotes,Graham Nash,Graham Nash & David Crosby,57226,1972,13,0.389,0.393,1,-15.523,1,0.105,0.961,1.43e-05,0.675,0.467,159.747,4
+Strangers Room,Graham Nash,Graham Nash & David Crosby,145933,1972,16,0.416,0.436,2,-10.159,0,0.0298,0.76,0.00109,0.0961,0.291,144.058,4
+Where Will I Be?,Graham Nash,Graham Nash & David Crosby,201760,1972,24,0.294,0.0315,9,-12.768,1,0.0341,0.922,0.000168,0.236,0.141,89.048,4
+Page 43,Graham Nash,Graham Nash & David Crosby,173880,1972,23,0.647,0.263,4,-9.414,1,0.0295,0.496,0.000652,0.168,0.0777,105.512,4
+Frozen Smiles,Graham Nash,Graham Nash & David Crosby,138826,1972,19,0.54,0.879,11,-6.168,1,0.0686,0.35,0.0,0.042,0.932,179.26,4
+Games,Graham Nash,Graham Nash & David Crosby,239733,1972,13,0.393,0.297,4,-13.45,0,0.0364,0.764,0.00555,0.0996,0.234,182.57,3
+Girl to Be on My Mind,Graham Nash,Graham Nash & David Crosby,205720,1972,14,0.511,0.401,9,-10.073,1,0.0298,0.747,0.103,0.117,0.161,124.252,4
+The Wall Song,Graham Nash,Graham Nash & David Crosby,265906,1972,16,0.36,0.625,2,-7.567,1,0.0584,0.381,0.0,0.146,0.526,175.629,4
+Immigration Man,Graham Nash,Graham Nash & David Crosby,178906,1972,36,0.491,0.887,7,-7.433,1,0.0449,0.25,0.0,0.221,0.694,87.998,4

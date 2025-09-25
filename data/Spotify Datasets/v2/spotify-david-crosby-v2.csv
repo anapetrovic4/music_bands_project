@@ -1,0 +1,99 @@
+track,artist,album,duration,release_date,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+River Rise (feat. Michael McDonald),David Crosby,For Free,213680,2021-07-23,28,0.782,0.682,1,-7.83,1,0.0375,0.159,0.000105,0.28,0.552,118.062,4
+I Think I,David Crosby,For Free,292000,2021-07-23,23,0.787,0.646,7,-8.164,0,0.0267,0.144,0.34,0.0662,0.462,129.025,4
+The Other Side Of Midnight,David Crosby,For Free,194906,2021-07-23,22,0.669,0.515,2,-10.818,1,0.0333,0.33,0.00195,0.112,0.402,92.002,4
+Rodriguez For A Night,David Crosby,For Free,197266,2021-07-23,28,0.837,0.359,5,-8.27,1,0.0344,0.223,0.00402,0.443,0.614,86.316,4
+Secret Dancer,David Crosby,For Free,194720,2021-07-23,21,0.718,0.309,0,-14.163,1,0.0449,0.25,0.082,0.116,0.172,148.963,4
+Ships In The Night,David Crosby,For Free,205866,2021-07-23,22,0.887,0.432,6,-11.412,0,0.0323,0.113,0.157,0.106,0.719,103.004,4
+For Free (feat. Sarah Jarosz),David Crosby,For Free,223360,2021-07-23,27,0.691,0.107,0,-14.436,1,0.04,0.872,4.96e-05,0.144,0.101,107.082,3
+Boxes,David Crosby,For Free,254853,2021-07-23,15,0.669,0.587,0,-9.388,1,0.0406,0.277,0.0256,0.114,0.55,159.995,4
+Shot At Me,David Crosby,For Free,193373,2021-07-23,14,0.714,0.216,2,-16.445,1,0.0305,0.854,0.0339,0.0996,0.333,69.998,4
+I Won't Stay For Long,David Crosby,For Free,269360,2021-07-23,18,0.668,0.191,11,-12.656,1,0.0375,0.558,0.000339,0.125,0.252,124.003,4
+Glory,David Crosby,Here If You Listen,320706,2018-10-26,18,0.56,0.195,10,-13.483,1,0.0306,0.939,0.00013,0.126,0.159,110.136,4
+Vagrants of Venice,David Crosby,Here If You Listen,246253,2018-10-26,14,0.391,0.285,2,-12.565,1,0.0327,0.864,0.0184,0.115,0.178,130.049,4
+1974,David Crosby,Here If You Listen,180106,2018-10-26,14,0.418,0.268,8,-11.004,0,0.04,0.894,2.25e-06,0.127,0.357,179.884,4
+Your Own Ride,David Crosby,Here If You Listen,274706,2018-10-26,12,0.365,0.261,8,-12.924,1,0.0289,0.869,0.0142,0.116,0.153,93.77,3
+Buddha on a Hill,David Crosby,Here If You Listen,247253,2018-10-26,12,0.586,0.314,7,-11.417,1,0.0342,0.68,0.176,0.115,0.139,118.081,4
+I Am No Artist,David Crosby,Here If You Listen,277466,2018-10-26,18,0.323,0.211,11,-12.457,1,0.0332,0.815,0.000579,0.113,0.154,84.709,5
+1967,David Crosby,Here If You Listen,199626,2018-10-26,10,0.487,0.307,2,-11.278,0,0.0338,0.878,0.00722,0.182,0.375,81.392,4
+Balanced on a Pin,David Crosby,Here If You Listen,270120,2018-10-26,11,0.665,0.208,2,-15.086,0,0.0377,0.956,0.233,0.119,0.167,117.064,4
+Other Half Rule,David Crosby,Here If You Listen,274053,2018-10-26,21,0.362,0.316,0,-11.767,1,0.0305,0.792,0.0247,0.111,0.212,144.014,3
+Janet,David Crosby,Here If You Listen,207013,2018-10-26,9,0.738,0.202,5,-10.153,1,0.0366,0.815,0.0,0.104,0.604,111.915,4
+Woodstock,David Crosby,Here If You Listen,214120,2018-10-26,28,0.679,0.229,7,-10.766,1,0.0309,0.89,3.68e-05,0.138,0.323,115.888,4
+She's Got To Be Somewhere,David Crosby,Sky Trails,286080,2017-09-29,27,0.716,0.437,7,-8.442,0,0.0502,0.644,0.517,0.0953,0.789,82.973,4
+Sky Trails,David Crosby,Sky Trails,290066,2017-09-29,17,0.557,0.224,2,-15.195,1,0.0284,0.914,0.0398,0.102,0.207,95.914,4
+Sell Me A Diamond,David Crosby,Sky Trails,327457,2017-09-29,19,0.582,0.535,11,-9.211,0,0.0458,0.234,0.311,0.0654,0.239,77.981,4
+Before Tomorrow Falls On Love,David Crosby,Sky Trails,230760,2017-09-29,11,0.528,0.104,0,-16.774,1,0.0341,0.938,0.0205,0.112,0.104,104.301,4
+Here It's Almost Sunset,David Crosby,Sky Trails,232333,2017-09-29,13,0.686,0.274,2,-13.108,1,0.0428,0.729,0.26,0.106,0.31,133.568,4
+Capitol,David Crosby,Sky Trails,415933,2017-09-29,12,0.62,0.545,5,-10.286,1,0.0525,0.39,0.216,0.0909,0.504,87.773,4
+Amelia,David Crosby,Sky Trails,337346,2017-09-29,12,0.659,0.148,9,-13.794,1,0.0405,0.877,0.0093,0.117,0.165,122.088,4
+Somebody Home,David Crosby,Sky Trails,277573,2017-09-29,11,0.354,0.122,10,-16.761,1,0.0377,0.922,0.243,0.112,0.0399,81.582,4
+Curved Air,David Crosby,Sky Trails,284026,2017-09-29,10,0.538,0.386,6,-12.847,1,0.0392,0.744,0.0375,0.109,0.177,110.562,4
+Home Free,David Crosby,Sky Trails,340680,2017-09-29,10,0.506,0.0951,8,-15.036,1,0.0654,0.916,0.000125,0.11,0.156,115.05,4
+Things We Do for Love,David Crosby,Lighthouse,255173,2016-10-21,24,0.6,0.147,3,-12.713,1,0.0343,0.924,0.000141,0.102,0.112,114.852,4
+The Us Below,David Crosby,Lighthouse,222946,2016-10-21,11,0.404,0.291,7,-11.161,0,0.0426,0.9,0.00197,0.101,0.134,82.79,4
+Drive out to the Desert,David Crosby,Lighthouse,256680,2016-10-21,9,0.638,0.0846,7,-16.578,1,0.0542,0.906,7.45e-05,0.113,0.0822,104.465,4
+Look in Their Eyes,David Crosby,Lighthouse,279360,2016-10-21,10,0.822,0.208,2,-13.147,1,0.0576,0.834,4.45e-05,0.0692,0.251,104.986,4
+Somebody Other Than You,David Crosby,Lighthouse,264200,2016-10-21,8,0.358,0.314,9,-10.77,1,0.0307,0.854,0.000319,0.0907,0.215,86.831,4
+The City,David Crosby,Lighthouse,285026,2016-10-21,12,0.81,0.208,7,-11.063,1,0.0434,0.669,0.000176,0.106,0.554,122.925,4
+Paint You a Picture,David Crosby,Lighthouse,265253,2016-10-21,8,0.643,0.154,5,-15.936,1,0.0358,0.85,0.069,0.0928,0.297,109.686,4
+What Makes It so?,David Crosby,Lighthouse,240306,2016-10-21,7,0.315,0.205,9,-13.069,0,0.0337,0.839,0.0303,0.129,0.211,85.052,4
+By the Light of Common Day,David Crosby,Lighthouse,375293,2016-10-21,13,0.686,0.152,0,-14.101,1,0.0403,0.918,0.00045,0.171,0.245,121.811,4
+What's Broken,David Crosby,Croz,228986,2014-01-28,28,0.695,0.538,7,-11.107,1,0.0258,0.445,0.101,0.133,0.453,92.408,4
+Time I Have,David Crosby,Croz,229840,2014-01-28,15,0.673,0.341,10,-10.733,1,0.0293,0.151,0.00145,0.113,0.426,95.097,4
+Holding On To Nothing,David Crosby,Croz,221640,2014-01-28,16,0.714,0.0987,2,-17.124,0,0.046,0.891,0.00141,0.0942,0.0733,127.79,4
+The Clearing,David Crosby,Croz,240413,2014-01-28,22,0.608,0.663,2,-7.679,1,0.0386,0.497,0.126,0.0816,0.137,79.962,5
+Radio,David Crosby,Croz,225986,2014-01-28,16,0.697,0.688,7,-7.51,1,0.0288,0.598,0.00271,0.12,0.253,87.996,4
+Slice Of Time,David Crosby,Croz,256880,2014-01-28,14,0.728,0.333,2,-11.037,0,0.035,0.582,0.00378,0.086,0.255,62.496,3
+Set That Baggage Down,David Crosby,Croz,241106,2014-01-28,14,0.738,0.386,2,-9.327,1,0.0355,0.21,0.00139,0.0907,0.442,112.581,4
+If She Called,David Crosby,Croz,299306,2014-01-28,11,0.336,0.117,11,-15.527,1,0.036,0.867,0.0211,0.108,0.0532,180.201,4
+Dangerous Night,David Crosby,Croz,357040,2014-01-28,13,0.707,0.412,0,-12.606,1,0.0405,0.559,0.127,0.144,0.0932,147.888,4
+Morning Falling,David Crosby,Croz,221573,2014-01-28,11,0.501,0.302,5,-13.429,0,0.0429,0.863,0.305,0.0597,0.117,79.19,1
+Find A Heart,David Crosby,Croz,306626,2014-01-28,13,0.591,0.574,0,-10.078,1,0.0336,0.403,0.0145,0.207,0.69,169.017,3
+Anticipatory Crowd,David Crosby,Another Stoney Evening,44413,1998-01-13,4,0.221,0.907,3,-24.88,1,0.185,0.817,0.944,0.967,0.0133,97.034,3
+Deja Vu,David Crosby,Another Stoney Evening,335400,1998-01-13,7,0.485,0.288,11,-16.967,0,0.107,0.758,6.65e-05,0.905,0.423,114.363,4
+Wooden Ships,David Crosby,Another Stoney Evening,357533,1998-01-13,8,0.482,0.262,4,-16.001,0,0.157,0.644,7.31e-06,0.688,0.319,135.992,3
+Man In The Mirror,David Crosby,Another Stoney Evening,155586,1998-01-13,5,0.523,0.134,7,-16.0,1,0.0536,0.581,0.0,0.689,0.316,118.277,4
+Orleans,David Crosby,Another Stoney Evening,142226,1998-01-13,5,0.337,0.257,2,-19.212,1,0.0543,0.639,6.28e-05,0.354,0.284,79.623,4
+I Used To Be A King,David Crosby,Another Stoney Evening,297133,1998-01-13,6,0.533,0.336,7,-12.561,1,0.0703,0.455,4.63e-06,0.526,0.356,113.235,4
+Traction In The Rain,David Crosby,Another Stoney Evening,303973,1998-01-13,5,0.446,0.254,2,-18.587,1,0.278,0.73,0.0,0.725,0.448,93.745,4
+Lee Shore,David Crosby,Another Stoney Evening,292413,1998-01-13,12,0.344,0.18,4,-19.96,0,0.105,0.565,0.0,0.367,0.398,73.553,4
+Southbound Train,David Crosby,Another Stoney Evening,301960,1998-01-13,5,0.584,0.151,5,-16.77,1,0.0424,0.719,0.0,0.536,0.306,99.783,3
+Laughing,David Crosby,Another Stoney Evening,300160,1998-01-13,5,0.443,0.146,2,-16.829,1,0.0563,0.613,0.000157,0.679,0.349,125.037,4
+Triad,David Crosby,Another Stoney Evening,378813,1998-01-13,5,0.481,0.118,9,-17.725,1,0.153,0.792,1.77e-05,0.702,0.371,118.253,4
+Where Will I Be?,David Crosby,Another Stoney Evening,340600,1998-01-13,3,0.378,0.238,9,-24.073,1,0.126,0.841,0.000556,0.173,0.244,76.821,4
+Strangers Room,David Crosby,Another Stoney Evening,230960,1998-01-13,3,0.5,0.309,2,-17.566,0,0.555,0.729,0.0,0.109,0.0637,144.53,4
+Immigration Man,David Crosby,Another Stoney Evening,248600,1998-01-13,4,0.554,0.54,7,-13.045,1,0.273,0.915,0.0,0.307,0.644,84.668,4
+Guinevere,David Crosby,Another Stoney Evening,382173,1998-01-13,6,0.44,0.268,11,-19.68,0,0.0487,0.798,0.000867,0.711,0.344,96.538,4
+Teach Your Children,David Crosby,Another Stoney Evening,271023,1998-01-13,3,0.424,0.528,2,-13.845,1,0.384,0.498,0.0,0.689,0.62,154.788,4
+Exit Sounds,David Crosby,Another Stoney Evening,137282,1998-01-13,2,0.19,0.219,8,-51.196,0,0.0973,0.212,0.0,0.368,0.0166,119.335,4
+Hero,David Crosby,A Thousand Roads,280240,1993-05-04,33,0.66,0.445,3,-9.715,1,0.0256,0.743,0.000171,0.07,0.409,104.986,4
+Too Young to Die,David Crosby,A Thousand Roads,347173,1993-05-04,15,0.636,0.301,5,-13.219,1,0.0307,0.256,0.000237,0.114,0.29,85.535,4
+Old Soldier,David Crosby,A Thousand Roads,298666,1993-05-04,13,0.497,0.104,2,-19.555,1,0.0346,0.779,0.00963,0.113,0.196,124.021,3
+Through Your Hands,David Crosby,A Thousand Roads,275400,1993-05-04,11,0.57,0.471,4,-11.078,1,0.0254,0.101,5.29e-05,0.134,0.2,102.913,4
+Yvette in English,David Crosby,A Thousand Roads,355266,1993-05-04,13,0.753,0.133,7,-20.911,0,0.0424,0.873,0.0127,0.0852,0.348,113.036,4
+Thousand Roads,David Crosby,A Thousand Roads,272733,1993-05-04,9,0.662,0.292,11,-13.313,0,0.042,0.422,0.00546,0.339,0.572,96.94,4
+Columbus,David Crosby,A Thousand Roads,266733,1993-05-04,8,0.683,0.265,0,-16.175,1,0.0443,0.133,5.41e-05,0.0857,0.233,126.995,4
+Helpless Heart,David Crosby,A Thousand Roads,260426,1993-05-04,11,0.53,0.0953,11,-17.974,1,0.0298,0.759,5.01e-06,0.124,0.0546,85.678,4
+Coverage,David Crosby,A Thousand Roads,203466,1993-05-04,8,0.775,0.438,2,-13.699,1,0.0564,0.511,0.0109,0.0876,0.523,129.7,4
+Natalie,David Crosby,A Thousand Roads,295066,1993-05-04,11,0.52,0.18,4,-16.039,1,0.0266,0.556,5.1e-05,0.107,0.21,83.942,4
+Drive My Car,David Crosby,Oh Yes I Can,213666,1989-01-23,6,0.507,0.838,7,-9.629,1,0.0587,0.106,0.00284,0.157,0.51,102.765,4
+Melody,David Crosby,Oh Yes I Can,244653,1989-01-23,5,0.592,0.555,5,-11.728,1,0.0359,0.376,0.00534,0.101,0.641,89.21,4
+Monkey And The Underdog,David Crosby,Oh Yes I Can,255920,1989-01-23,4,0.8,0.678,0,-9.438,0,0.0388,0.105,2.06e-06,0.089,0.796,105.843,4
+In The Wide Ruin,David Crosby,Oh Yes I Can,286840,1989-01-23,3,0.335,0.159,7,-16.342,1,0.0334,0.516,0.00518,0.112,0.0782,136.549,4
+Tracks In The Dust,David Crosby,Oh Yes I Can,286920,1989-01-23,8,0.467,0.087,0,-19.459,1,0.0394,0.811,0.0,0.104,0.301,169.548,4
+Drop Down Mama,David Crosby,Oh Yes I Can,186746,1989-01-23,2,0.623,0.762,2,-10.04,1,0.0399,0.243,0.000207,0.128,0.821,119.765,4
+Lady Of The Harbor,David Crosby,Oh Yes I Can,199186,1989-01-23,4,0.589,0.272,7,-15.533,1,0.04,0.781,0.00123,0.0825,0.266,72.88,4
+Distances,David Crosby,Oh Yes I Can,215480,1989-01-23,3,0.654,0.175,7,-14.701,1,0.0276,0.734,0.00511,0.0909,0.22,76.326,4
+Flying Man,David Crosby,Oh Yes I Can,204360,1989-01-23,3,0.58,0.592,5,-13.083,0,0.0334,0.723,0.303,0.153,0.528,146.269,4
+Oh Yes I Can,David Crosby,Oh Yes I Can,308426,1989-01-23,4,0.435,0.201,8,-14.146,1,0.0385,0.638,6.17e-06,0.179,0.175,117.397,4
+My Country Tis Of Thee,David Crosby,Oh Yes I Can,114866,1989-01-23,5,0.45,0.102,0,-17.24,1,0.0423,0.774,0.000103,0.0951,0.17,84.935,4
+Music Is Love,David Crosby,If I Could Only Remember My Name,202573,1971-02-22,35,0.482,0.28,1,-14.97,1,0.0264,0.228,0.0,0.0888,0.359,90.985,4
+Cowboy Movie,David Crosby,If I Could Only Remember My Name,491400,1971-02-22,37,0.307,0.629,2,-12.499,1,0.0675,0.0061,1.85e-05,0.136,0.514,76.349,4
+Tamalpais High (At About 3),David Crosby,If I Could Only Remember My Name,212573,1971-02-22,27,0.477,0.259,11,-17.813,0,0.0323,0.481,0.0103,0.0745,0.409,121.294,4
+Laughing,David Crosby,If I Could Only Remember My Name,325600,1971-02-22,31,0.259,0.394,2,-12.557,1,0.0289,0.00158,0.00228,0.0814,0.405,141.296,4
+What Are Their Names,David Crosby,If I Could Only Remember My Name,254200,1971-02-22,24,0.485,0.354,11,-17.082,0,0.0426,0.162,0.0119,0.0574,0.301,120.49,4
+Traction in the Rain,David Crosby,If I Could Only Remember My Name,226160,1971-02-22,27,0.423,0.132,2,-17.136,1,0.0332,0.838,0.0,0.0789,0.133,98.476,4
+Song with No Words (Tree with No Leaves),David Crosby,If I Could Only Remember My Name,360106,1971-02-22,26,0.481,0.281,4,-15.732,0,0.0259,0.638,0.000396,0.121,0.414,91.424,4
+Orleans,David Crosby,If I Could Only Remember My Name,116293,1971-02-22,24,0.278,0.162,2,-16.472,1,0.0298,0.877,0.0,0.125,0.0677,86.1,4
+I'd Swear There Was Somebody Here,David Crosby,If I Could Only Remember My Name,79933,1971-02-22,22,0.167,0.162,5,-15.019,1,0.0305,0.911,1.27e-05,0.1,0.0382,77.119,4

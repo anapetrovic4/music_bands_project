@@ -1,0 +1,85 @@
+track,album,album_type,artist,duration,release_date,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+49 Bye-Byes,4 Way Street,live,"Crosby, Stills, Nash & Young",395026,4/7/1971,24,0.398,0.717,5,-10.243,1,0.412,0.881,0.000256,0.962,0.313,122.853,4
+Black Queen,4 Way Street,live,"Crosby, Stills, Nash & Young",405200,4/7/1971,22,0.489,0.401,6,-15.819,1,0.0418,0.374,0.00095,0.986,0.51,86.466,4
+Chicago (CSNY),4 Way Street,live,"Crosby, Stills, Nash & Young",190826,4/7/1971,33,0.555,0.41,9,-10.21,0,0.033,0.912,1.69E-05,0.866,0.405,147.037,4
+Cowgirl in the Sand,4 Way Street,live,"Crosby, Stills, Nash & Young",238706,4/7/1971,32,0.459,0.217,7,-14.869,0,0.0424,0.809,0.000439,0.749,0.205,141.038,4
+Don't Let It Bring You Down,4 Way Street,live,"Crosby, Stills, Nash & Young",210600,4/7/1971,28,0.373,0.513,5,-13.288,1,0.151,0.731,0.00138,0.975,0.301,124.001,4
+Find the Cost of Freedom,4 Way Street,live,"Crosby, Stills, Nash & Young",141200,4/7/1971,24,0.384,0.153,8,-18.311,1,0.0348,0.714,1.00E-05,0.27,0.575,75.233,4
+King Midas in Reverse,4 Way Street,live,"Crosby, Stills, Nash & Young",223266,4/7/1971,22,0.419,0.55,1,-13.016,1,0.28,0.689,0,0.702,0.464,155.204,4
+Long Time Gone,4 Way Street,live,"Crosby, Stills, Nash & Young",358466,4/7/1971,25,0.317,0.717,7,-10.109,1,0.0529,0.0156,0.00734,0.673,0.69,179.685,4
+Love the One You're With,4 Way Street,live,"Crosby, Stills, Nash & Young",205000,4/7/1971,26,0.461,0.743,9,-11.583,0,0.0671,0.181,0,0.724,0.51,107.204,4
+Medley,4 Way Street,live,"Crosby, Stills, Nash & Young",580666,4/7/1971,27,0.458,0.407,8,-12.981,1,0.0503,0.494,0.000253,0.941,0.411,140.527,4
+Ohio (CSNY),4 Way Street,live,"Crosby, Stills, Nash & Young",214133,4/7/1971,26,0.273,0.782,2,-7.928,0,0.0372,0.0274,1.42E-06,0.932,0.677,161.686,4
+On the Way Home,4 Way Street,live,"Crosby, Stills, Nash & Young",227800,4/7/1971,28,0.335,0.452,7,-13.458,1,0.0479,0.246,1.58E-05,0.954,0.504,169.042,4
+Pre-Road Downs,4 Way Street,live,"Crosby, Stills, Nash & Young",184106,4/7/1971,22,0.55,0.837,9,-7.904,1,0.0431,0.134,0.000241,0.693,0.959,134.831,4
+Right Between the Eyes,4 Way Street,live,"Crosby, Stills, Nash & Young",216666,4/7/1971,25,0.399,0.206,0,-21.526,1,0.209,0.762,2.26E-06,0.975,0.439,139.796,4
+Southern Man,4 Way Street,live,"Crosby, Stills, Nash & Young",825026,4/7/1971,29,0.375,0.801,2,-10.662,0,0.0478,0.00498,0.15,0.683,0.809,152.815,4
+Suite: Judy Blue Eyes,4 Way Street,live,"Crosby, Stills, Nash & Young",33600,4/7/1971,26,0.477,0.876,4,-14.728,0,0.612,0.203,0,0.89,0.493,156.873,4
+American Dream,American Dream,studio,"Crosby, Stills, Nash & Young",198173,11/11/1988,33,0.717,0.478,10,-15.606,1,0.0998,0.037,0.000323,0.0931,0.857,166.654,4
+Clear Blue Skies,American Dream,studio,"Crosby, Stills, Nash & Young",187293,11/11/1988,33,0.571,0.436,7,-15.903,1,0.0248,0.265,0,0.151,0.904,104.763,4
+Compass,American Dream,studio,"Crosby, Stills, Nash & Young",327933,11/11/1988,19,0.344,0.0541,11,-21.09,0,0.033,0.622,8.85E-06,0.143,0.157,99.363,4
+Don't Say Goodbye,American Dream,studio,"Crosby, Stills, Nash & Young",203266,11/11/1988,24,0.46,0.0558,9,-21.296,1,0.0356,0.975,0.0052,0.13,0.29,129.984,4
+Drivin' Thunder,American Dream,studio,"Crosby, Stills, Nash & Young",195773,11/11/1988,16,0.518,0.745,2,-13.829,1,0.0338,0.014,0.000428,0.32,0.532,122.551,4
+Feel Your Love,American Dream,studio,"Crosby, Stills, Nash & Young",253866,11/11/1988,19,0.633,0.196,10,-23.143,1,0.0302,0.569,0.00573,0.101,0.545,131.389,4
+Got It Made,American Dream,studio,"Crosby, Stills, Nash & Young",296466,11/11/1988,26,0.716,0.521,0,-14.635,1,0.0295,0.127,5.29E-06,0.122,0.845,120.461,4
+Name of Love,American Dream,studio,"Crosby, Stills, Nash & Young",252533,11/11/1988,22,0.601,0.468,10,-13.095,1,0.0283,0.0116,0.000758,0.0751,0.64,115.825,4
+Night Song,American Dream,studio,"Crosby, Stills, Nash & Young",253066,11/11/1988,14,0.609,0.622,4,-14.34,0,0.0295,0.194,0.000293,0.148,0.55,109.722,4
+Nighttime for Generals,American Dream,studio,"Crosby, Stills, Nash & Young",249560,11/11/1988,18,0.621,0.784,9,-12.575,0,0.0321,0.0188,0.00423,0.207,0.685,105.292,4
+Shadowland,American Dream,studio,"Crosby, Stills, Nash & Young",287400,11/11/1988,17,0.777,0.564,10,-15.619,0,0.0341,0.167,0.000315,0.368,0.934,119.971,4
+Soldiers of Peace,American Dream,studio,"Crosby, Stills, Nash & Young",227466,11/11/1988,15,0.258,0.334,9,-13.757,0,0.0294,0.352,0,0.108,0.187,141.76,3
+That Girl,American Dream,studio,"Crosby, Stills, Nash & Young",210706,11/11/1988,18,0.609,0.644,9,-13.53,0,0.0353,0.0619,0,0.19,0.893,124.323,4
+This Old House,American Dream,studio,"Crosby, Stills, Nash & Young",289666,11/11/1988,28,0.662,0.0974,5,-20.016,1,0.0321,0.358,0,0.111,0.433,117.483,4
+4 + 20,Deja Vu ,studio,"Crosby, Stills, Nash & Young",126640,3/11/1970,53,0.638,0.058,4,-25.243,1,0.0388,0.928,0.079,0.113,0.126,140.964,4
+Almost Cut My Hair,Deja Vu ,studio,"Crosby, Stills, Nash & Young",269173,3/11/1970,54,0.471,0.471,7,-10.483,1,0.0437,0.185,0.00927,0.164,0.575,136.829,4
+Carry On,Deja Vu ,studio,"Crosby, Stills, Nash & Young",265933,3/11/1970,55,0.463,0.496,1,-12.203,1,0.041,0.059,1.24E-06,0.271,0.533,118.505,4
+Country Girl,Deja Vu ,studio,"Crosby, Stills, Nash & Young",312133,3/11/1970,38,0.316,0.398,7,-12.558,0,0.031,0.589,2.93E-05,0.0929,0.367,120.903,3
+Deja Vu ,Deja Vu ,studio,"Crosby, Stills, Nash & Young",252373,3/11/1970,45,0.454,0.267,11,-15.915,0,0.036,0.81,0.221,0.296,0.203,137.052,4
+Everybody I Love You,Deja Vu ,studio,"Crosby, Stills, Nash & Young",142000,3/11/1970,37,0.371,0.695,9,-8.559,1,0.0325,0.00288,0.00011,0.155,0.707,142.062,4
+Helpless,Deja Vu ,studio,"Crosby, Stills, Nash & Young",217133,3/11/1970,50,0.54,0.26,2,-13.61,1,0.0309,0.86,0.00553,0.134,0.374,114.732,4
+Our House,Deja Vu ,studio,"Crosby, Stills, Nash & Young",179760,3/11/1970,69,0.592,0.205,9,-14.601,1,0.048,0.896,5.46E-05,0.119,0.378,140.282,4
+Teach Your Children,Deja Vu ,studio,"Crosby, Stills, Nash & Young",173466,3/11/1970,61,0.497,0.285,2,-14.537,1,0.0264,0.643,1.69E-05,0.389,0.667,154.707,4
+Woodstock,Deja Vu ,studio,"Crosby, Stills, Nash & Young",233773,3/11/1970,49,0.458,0.539,4,-12.403,0,0.057,0.122,0.00946,0.17,0.56,118.95,4
+30 Dollar Fine,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",165470,3/11/1970,10,0.616,0.654,0,-11.908,1,0.0349,0.0558,0.0297,0.14,0.955,145.162,4
+Birds,Deja Vu (50th Anniversary Deluxe Edition),box set,Neil Young,216960,3/11/1970,19,0.461,0.174,7,-15.869,1,0.0354,0.778,0.000626,0.116,0.269,131.439,4
+Bluebird Revisited,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",204560,3/11/1970,12,0.378,0.28,7,-14.168,1,0.0316,0.0881,0.000217,0.0965,0.559,135.213,4
+Everyday We Live,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",198160,3/11/1970,13,0.387,0.482,0,-12.887,1,0.036,0.214,0.00169,0.263,0.651,166.564,4
+Hold On Tight / Change Partners,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",304293,3/11/1970,10,0.663,0.488,7,-13.958,1,0.0329,0.429,0.00261,0.0883,0.704,79.77,4
+Horses Through a Rainstorm,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",212933,3/11/1970,12,0.605,0.602,2,-11.736,1,0.0285,0.0127,1.99E-06,0.0666,0.944,122.153,4
+How Have You Been,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills & Nash",224066,3/11/1970,22,0.557,0.14,4,-16.502,1,0.0321,0.888,0,0.284,0.204,119.868,3
+I'll Be There,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",221533,3/11/1970,11,0.433,0.415,0,-13.782,1,0.0313,0.0212,4.02E-06,0.142,0.727,188.221,3
+Ivory Tower,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",231866,3/11/1970,13,0.602,0.48,7,-13.644,1,0.0292,0.0558,0,0.109,0.67,80.449,4
+Know You Got to Run,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",402733,3/11/1970,10,0.543,0.808,9,-11.035,1,0.0326,0.000116,0.00248,0.118,0.909,142.772,4
+Laughing,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",249933,3/11/1970,11,0.581,0.273,2,-16.922,1,0.036,0.252,0.00516,0.0802,0.388,74.056,4
+Question Why,Deja Vu (50th Anniversary Deluxe Edition),box set,Graham Nash,122640,3/11/1970,14,0.419,0.168,2,-16.755,0,0.057,0.632,0,0.141,0.495,167.988,3
+Right on Rock 'N' Roll,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",167042,3/11/1970,9,0.451,0.676,2,-9.917,1,0.0411,0.000305,5.41E-05,0.326,0.852,131.2,4
+Same Old Song,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",261720,3/11/1970,11,0.663,0.489,2,-12.074,1,0.0279,0.00459,6.15E-06,0.119,0.959,113.792,4
+She Can't Handle It,Deja Vu (50th Anniversary Deluxe Edition),box set,Stephen Stills,404040,3/11/1970,14,0.487,0.128,11,-16.025,0,0.0345,0.918,7.56E-05,0.12,0.155,116.226,4
+Sleep Song,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",181706,3/11/1970,16,0.537,0.0871,2,-19.438,0,0.0276,0.929,0.0484,0.107,0.389,100.471,3
+So Begins the Task / Hold On Tight,Deja Vu (50th Anniversary Deluxe Edition),box set,Stephen Stills,466706,3/11/1970,20,0.377,0.174,7,-19.429,1,0.036,0.878,0.101,0.115,0.507,166.745,4
+Song With No Words (Tree With No Leaves),Deja Vu (50th Anniversary Deluxe Edition),box set,David Crosby,193053,3/11/1970,18,0.338,0.177,5,-16.099,1,0.0359,0.88,0.000494,0.0958,0.332,181.918,4
+The Lee Shore,Deja Vu (50th Anniversary Deluxe Edition),box set,"Crosby, Stills, Nash & Young",363013,3/11/1970,20,0.396,0.348,9,-19.357,0,0.0324,0.456,0.0392,0.0837,0.616,152.274,4
+Triad,Deja Vu (50th Anniversary Deluxe Edition),box set,David Crosby,330946,3/11/1970,16,0.514,0.114,7,-14.821,1,0.0349,0.848,2.01E-05,0.127,0.178,129.781,4
+After the Garden,Deja Vu Live,live,"Crosby, Stills, Nash & Young",221866,7/22/2008,25,0.48,0.499,2,-10.23,1,0.0294,0.101,0.000222,0.95,0.432,91.242,4
+Families,Deja Vu Live,live,"Crosby, Stills, Nash & Young",178026,7/22/2008,20,0.468,0.669,7,-9.908,1,0.0376,0.699,0.000403,0.92,0.465,131.306,4
+For What It's Worth,Deja Vu Live,live,"Crosby, Stills, Nash & Young",289800,7/22/2008,20,0.321,0.596,9,-9.847,1,0.0366,0.836,0.00139,0.973,0.403,179.042,4
+Let's Impeach the President,Deja Vu Live,live,"Crosby, Stills, Nash & Young",342946,7/22/2008,23,0.548,0.764,9,-9.083,1,0.0506,0.176,0,0.716,0.385,118.795,4
+Living With War,Deja Vu Live,live,"Crosby, Stills, Nash & Young",323626,7/22/2008,18,0.464,0.611,4,-8.66,1,0.0285,0.484,0.00101,0.99,0.296,107.959,4
+Looking for a Leader,Deja Vu Live,live,"Crosby, Stills, Nash & Young",235573,7/22/2008,19,0.417,0.696,8,-8.789,0,0.032,0.334,8.25E-06,0.957,0.454,150.377,4
+Military Madness,Deja Vu Live,live,"Crosby, Stills, Nash & Young",241973,7/22/2008,24,0.406,0.697,9,-8.921,1,0.0413,0.52,0.000257,0.985,0.294,123.503,4
+Roger and Out,Deja Vu Live,live,"Crosby, Stills, Nash & Young",337426,7/22/2008,17,0.309,0.367,6,-12.243,1,0.0333,0.648,0.0243,0.968,0.101,120.144,4
+Shock and Awe,Deja Vu Live,live,"Crosby, Stills, Nash & Young",308293,7/22/2008,22,0.423,0.721,11,-8.827,0,0.0378,0.0389,0.00723,0.993,0.359,133.294,4
+The Restless Consumer,Deja Vu Live,live,"Crosby, Stills, Nash & Young",383985,7/22/2008,16,0.431,0.692,9,-7.949,1,0.0352,0.117,0,0.698,0.169,125.759,4
+What Are Their Names?,Deja Vu Live,live,"Crosby, Stills, Nash & Young",148493,7/22/2008,26,0.636,0.568,9,-13.587,0,0.233,0.828,0,0.944,0.25,114.69,4
+Wooden Ships,Deja Vu Live,live,"Crosby, Stills, Nash & Young",498293,7/22/2008,22,0.295,0.604,0,-9.848,1,0.0545,0.601,0.0129,0.99,0.4,154.428,4
+Dream for Him,Looking Forward,studio,"Crosby, Stills, Nash & Young",302840,10/15/1999,17,0.422,0.455,4,-14.287,1,0.0432,0.701,0.0257,0.116,0.533,172.594,4
+Faith in Me,Looking Forward,studio,"Crosby, Stills, Nash & Young",260440,10/15/1999,20,0.684,0.789,4,-9.087,1,0.0936,0.205,0,0.0934,0.856,97.905,4
+Heartland,Looking Forward,studio,"Crosby, Stills, Nash & Young",268866,10/15/1999,21,0.496,0.414,4,-10.309,0,0.0436,0.799,0,0.0989,0.356,142.43,4
+Looking Forward,Looking Forward,studio,"Crosby, Stills, Nash & Young",187466,10/15/1999,27,0.494,0.27,7,-14.63,1,0.0281,0.778,0.000285,0.117,0.375,165.969,4
+No Tears Left,Looking Forward,studio,"Crosby, Stills, Nash & Young",306933,10/15/1999,18,0.458,0.774,7,-8.357,1,0.0418,0.0807,2.36E-06,0.3,0.778,170.085,4
+Out of Control,Looking Forward,studio,"Crosby, Stills, Nash & Young",249893,10/15/1999,18,0.566,0.338,0,-12.166,1,0.0272,0.781,2.83E-06,0.112,0.3,95.004,4
+Queen of Them All,Looking Forward,studio,"Crosby, Stills, Nash & Young",263440,10/15/1999,16,0.668,0.689,4,-8.393,1,0.0299,0.16,0.00119,0.13,0.954,136.959,4
+Sanibel,Looking Forward,studio,"Crosby, Stills, Nash & Young",260760,10/15/1999,31,0.73,0.32,7,-10.986,1,0.0327,0.69,1.82E-06,0.11,0.428,115.108,4
+Seen Enough,Looking Forward,studio,"Crosby, Stills, Nash & Young",314200,10/15/1999,18,0.552,0.464,2,-10.059,0,0.0477,0.277,2.79E-05,0.11,0.85,144.471,4
+Slowpoke,Looking Forward,studio,"Crosby, Stills, Nash & Young",271866,10/15/1999,31,0.645,0.261,7,-12.46,1,0.0274,0.491,0.00785,0.0865,0.263,78.306,4
+Someday Soon,Looking Forward,studio,"Crosby, Stills, Nash & Young",223800,10/15/1999,22,0.784,0.308,2,-13.884,1,0.0314,0.564,0.00151,0.147,0.657,86.601,4
+Stand and Be Counted,Looking Forward,studio,"Crosby, Stills, Nash & Young",292560,10/15/1999,21,0.554,0.545,9,-9.997,1,0.0292,0.404,0.00196,0.357,0.586,94.368,4
