@@ -1,3 +1,9 @@
+# Music Data Collection and Analysis
+
+This project focuses on collecting, cleaning, and analyzing music-related data from multiple online sources, including **Spotify**, **AllMusic**, and **Wikipedia**.  
+The workflow consists of web scraping, dataset cleaning, merging datasets from different sources, and performing both descriptive and exploratory analysis.  
+The final goal is to build a comprehensive dataset that can be used for deeper insights into artists, bands, and their music.
+
 # Project Structure
 
 ## scripts
