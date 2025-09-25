@@ -43,17 +43,13 @@ Python script implementing the merging and cleaning procedures described in the 
 Datasets created by combining individual artist/band datasets from different sources:
   - *allmusic-combined*
   - *wikipedia-combined*
-  - *spotify-combined*
-  - Dataset created by combining *allmusic-combined* and *wikipedia-combined*:  
+  - *spotify-combined* <br>
+Dataset created by combining *allmusic-combined* and *wikipedia-combined*:  
   - *allmusic-wikipedia-combined*
-  - raw
-  - v2
-  - v3
+  
 - **final** <br>
 Dataset created by combining *allmusic-wikipedia-combined* and *spotify-combined*
-  - raw
-  - v2
-  - v3
+  - csny
 - **Spotify Datasets**
   - raw
   - v2
